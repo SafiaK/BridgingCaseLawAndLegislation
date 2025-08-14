@@ -277,17 +277,17 @@ Downloads UK case law data from the National Archives using their Atom XML feed.
 
 
 ## 8. Files that are on One Drive
-The list of caselaws with proper paragraph ids that were considered as a base for the experiments = proper_case_law_by_court.csv 
-The selected caselaw paragraphs = final_data_for_processing.csv
-The out put of gopt-40-mini = combined_openai_output
-The output of llama = combined_llama_output
-Cases with the agreement = agreement.csv
-Cases with disagreement = disagreement.csv
-Final Positive Paragraphs for Processing for Phase 2 = positve_cases.csv
-The file after attaching 2 sections with each of the paragraph = combined_two_sections_with_paragraphs.csv
-The output csv file from the combined extraction result of gpt-4o-mini = gpt-extract.csv
-The output csv file from the combined extraction result of llama = llama_combined_output_final.csv
-The output csv file from the combined extraction result of deepseek = 
-The data for the failed instances sent to claude for regenration 
-The data sent to the claude for the decision
-Final Dataframe with approved pairs
+- The list of caselaws with proper paragraph ids that were considered as a base for the experiments = - - - proper_case_law_by_court.csv 
+- The selected caselaw paragraphs = final_data_for_processing.csv
+- The out put of gopt-40-mini = combined_openai_output
+- The output of llama = combined_llama_output
+- Cases with the agreement = agreement.csv
+- Cases with disagreement = disagreement.csv
+- Final Positive Paragraphs for Processing for Phase 2 = positve_cases.csv
+- The file after attaching 2 sections with each of the paragraph = combined_two_sections_with_paragraphs.csv
+- The output csv file from the combined extraction result of gpt-4o-mini = gpt-extract.csv
+- The output csv file from the combined extraction result of llama = llama_combined_output_final.csv
+- The output csv file from the combined extraction result of deepseek = 
+- The data for the failed instances sent to claude for regenration 
+- The data sent to the claude for the decision
+- Final Dataframe with approved pairs
