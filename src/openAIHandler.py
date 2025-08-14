@@ -96,7 +96,7 @@ class ModelSelector:
                 torch_dtype=torch.bfloat16 if device == "cuda" else torch.float32,
                 device_map="auto" if device == "cuda" else None,
                 low_cpu_mem_usage=True,
-                token="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",  #add hftoken here 
+                token="XXX",  #add hftoken here 
             )
             
             pipe = pipeline(
@@ -112,7 +112,7 @@ class ModelSelector:
             return HuggingFacePipeline(pipeline=pipe)
         elif cls.MODEL_TYPE == "deepseek-qwen-32b":
             # Login to Hugging Face
-            login(token="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")
+            login(token="XXXX")
 
             # Check if GPU is available 
             device = "cuda" if torch.cuda.is_available() else "cpu"
