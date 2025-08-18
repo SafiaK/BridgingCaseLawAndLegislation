@@ -57,7 +57,6 @@ BridgingCaseLawAndLegislation/
 │   ├── main_analysis.py                     # Analysis utilities
 │   ├── util_analysis.py                     # Analysis helper functions
 │   ├── combine_jsonl_files.py               # File combination utilities
-│   ├── convert_fixed_to_csv.py             # CSV conversion
 │   ├── filter_act_embeddings.py            # Embedding filtering
 │   ├── explore_vector_cache.py             # Vector cache exploration
 │   ├── examine_vector_cache.py             # Vector cache examination
@@ -68,7 +67,7 @@ BridgingCaseLawAndLegislation/
 │   └── test.py                             # Testing scripts
 ├── data/                         # Data files
 │   ├── final_test/               # Test datasets
-│   │   └── final/reexperiment/fewhot/11August/
+│   │   └── final/reexperiment/fewshot/
 │   │       ├── llama_combined_output_final.csv  # Llama extraction results
 │   │       └── ...                              # Other model outputs
 │   └── newData/                  # New data sources
