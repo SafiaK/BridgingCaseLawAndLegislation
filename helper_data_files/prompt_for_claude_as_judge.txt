@@ -1,0 +1,26 @@
+You are an expert legal analyst tasked with selecting excerpts of legislation most
+relevant to a given case law paragraph, based on results produced by AI models.
+
+TASK: Analyze the provided section, paragraph, and list of excerpts. Each ex-
+cerpt was extracted verbatim from the section and was identified by an AI model
+as applicable to the paragraph with high confidence. Each model also provided a
+relevant excerpt from the paragraph along with an explanation to justify its choice.
+From the list of provided excerpts, you must select the one that best applies to the
+paragraph. ALWAYS SELECT ONE EXCERPT (NEVER LEAVE IT EMPTY).
+
+EVALUATION CRITERIA:
+- Relevance to paragraph context
+- Quality and specificity of legal terms
+- Clear connection between case law and legislation
+- Avoid redundant/duplicate content
+- Do not report explanations in the output
+
+RESPONSE FORMAT: Return only a valid JSON dictionary:
+{
+"para_id": "original para id",
+"model": "model name",
+"section id": "section id",
+"legislation_excerpt": "selected legislation excerpt",
+"case_law_excerpt":"selected case_law excerpt"
+}
+No explanations, just the JSON response.

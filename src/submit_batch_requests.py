@@ -45,6 +45,7 @@ def submit_claude_batch_requests(input_files):
         requests = []
         with open(file_path, 'r') as f:
             for i, line in enumerate(f):
+
                 data = json.loads(line.strip())
                 
                 request = {
@@ -131,7 +132,7 @@ def submit_openai_batch_requests(input_files):
 if __name__ == "__main__":
     print("hi")
     input_files = [
-       'data/final_test/final/reexperiment/fewhot/11August/llm_decision_tasks.jsonl'
+       'data/extraction_results/claude_judge_input.jsonl'
     ]
 
     #batch_id_deepseek = 'batch_01k1kjx2kkf2a83md8tsfb4a4k'

@@ -1729,7 +1729,30 @@ def extract_data_from_claude_final_decision(jsonl_path,output_csv_path):
         csv_path (str): Path to the output CSV file.
     """
     rows = []
-
+    def extract_fields_with_regex(data):
+        """
+        Extract fields using regex patterns from the text content (fallback method).
+        """
+        # Convert data to string if it's not already
+        text = str(data)
+        
+        # Simple regex patterns to extract each field
+        para_id = re.search(r'"para_id":\s*"([^"]*)"', text)
+        section_id = re.search(r'"section_id":\s*"([^"]*)"', text)
+        model = re.search(r'"model":\s*"([^"]*)"', text)
+        legislation_excerpt = re.search(r'"legislation_excerpt":\s*"([^"]*)"', text)
+        case_law_excerpt = re.search(r'"case_law_excerpt":\s*"([^"]*)"', text)
+        
+        # Extract values or return None if not found
+        result = {
+            'para_id': para_id.group(1) if para_id else None,
+            'section_id': section_id.group(1) if section_id else 'Unknown',
+            'model': model.group(1) if model else None,
+            'legislation_excerpt': legislation_excerpt.group(1) if legislation_excerpt else None,
+            'case_law_excerpt': case_law_excerpt.group(1) if case_law_excerpt else None
+        }
+        
+        return result
     # Read the JSONL file line by line
     with open(jsonl_path, "r", encoding="utf-8") as infile:
         for line in infile:
@@ -1760,16 +1783,18 @@ def extract_data_from_claude_final_decision(jsonl_path,output_csv_path):
                             data = re.sub(r",\s*([}\]])", r"\1", data)
                             data = demjson3.decode(data, strict=False)
                         except Exception as e2:
-                             print(f"Failed to parse JSON content after cleanup: {e2}")
-                             rows.append({
-                                "custom_id":custom_id,
-                                "para_id": 'UNKNOWN',
-                                "section_id": 'UNKNOWN',
-                                "model": 'UNKNOWN',
-                                "case_law_excerpt": 'UNKNOWN',
-                                "legislation_excerpt": 'UNKNOWN'
-                             })
-                             continue
+                            result = extract_fields_with_regex(data)
+                            print(f"Failed to parse JSON content after cleanup: {e2}")
+                            rows.append({
+                            "custom_id":custom_id,
+                            "para_id": result.get("para_id", 'UNKNOWN'),
+                            "section_id": result.get("section_id", 'UNKNOWN'),
+                            "model": result.get("model", 'UNKNOWN'),
+                            "case_law_excerpt": result.get("case_law_excerpt", 'UNKNOWN'),
+                            "legislation_excerpt": result.get("legislation_excerpt", 'UNKNOWN')
+                            })
+                            continue
+                             
 
             para_id = data.get("para_id")
             high_conf_pairs = data.get("high_confidence_pairs", [])
@@ -2684,6 +2709,124 @@ def extract_from_input_jsonl_claude_final(input_path, output_csv):
 
     df = pd.DataFrame(records)
     df.to_csv(output_csv, index=False)
+def extract_data_from_claude_final_decision_new(jsonl_path,output_csv_path):
+    """
+    Converts a JSONL file with `high_confidence_pairs` data into a CSV file.
+
+    Args:
+        jsonl_path (str): Path to the input JSONL file.
+        csv_path (str): Path to the output CSV file.
+    """
+    rows = []
+    def extract_fields_with_regex(data):
+        """
+        Extract fields using simple regex patterns from the text content.
+        """
+        
+        # Convert data to string if it's not already
+        text = str(data)
+        
+        # Simple regex patterns to extract each field
+        para_id = re.search(r'"para_id":\s*"([^"]*)"', text)
+        section_id = re.search(r'"section\s*id":\s*"([^"]*)"', text)
+        model = re.search(r'"model":\s*"([^"]*)"', text)
+        legislation_excerpt = re.search(r'"legislation_excerpt":\s*"([^"]*)"', text)
+        case_law_excerpt = re.search(r'"case_law_excerpt":\s*"([^"]*)"', text)
+        
+        # Extract values or return None if not found
+        result = {
+            'para_id': para_id.group(1) if para_id else None,
+            'section_id': section_id.group(1) if section_id else 'Unknown',
+            'model': model.group(1) if model else None,
+            'legislation_excerpt': legislation_excerpt.group(1) if legislation_excerpt else None,
+            'case_law_excerpt': case_law_excerpt.group(1) if case_law_excerpt else None
+        }
+        
+        return result
+    def extract_fields_with_json(data):
+        """
+        Extract fields using simple regex patterns from the text content.
+        """
+        
+        
+        try:
+            section_id = data["section_id"]
+        except:
+            section_id = data["section id"]
+    
+        # Extract values or return None if not found
+        result = {
+            'para_id': data.get("para_id"),
+            'section_id': section_id,
+            'model': data.get("model"),
+            'legislation_excerpt': data.get("legislation_excerpt"),
+            'case_law_excerpt': data.get("case_law_excerpt")
+        }
+        
+        return result
+    # Read the JSONL file line by line
+    with open(jsonl_path, "r", encoding="utf-8") as infile:
+        for line in infile:
+            if not line.strip():
+                continue  # skip empty lines
+
+            obj = json.loads(line)
+            custom_id = obj.get('custom_id', 'UNKNOWN') 
+            result =obj["result"]
+            if 'result' in obj and 'message' in obj['result']:
+                content = obj['result']['message'].get('content', '')
+                if content and len(content) > 0:
+                    data = content[0].get('text', {})
+                    try:
+                        data = clean_json_content(data)
+
+                        data = json.loads(data) if isinstance(data, str) else data
+                        para_id = data.get("para_id")
+                        result = extract_fields_with_json(data)
+                        rows.append({"custom_id":custom_id,
+                                "para_id": result.get("para_id", 'UNKNOWN'),
+                                "section_id": result.get("section_id", 'UNKNOWN'),
+                                "model": result.get("model", 'UNKNOWN'),
+                                "case_law_excerpt": result.get("case_law_excerpt", 'UNKNOWN'),
+                                "legislation_excerpt": result.get("legislation_excerpt", 'UNKNOWN')})
+                    except Exception as e:
+                        try:
+                            print(f"Error parsing JSON content: {e}")
+                            data = data.strip()
+
+                            # Remove non-JSON prefix junk (e.g., starting backticks or BOM chars)
+                            data = re.sub(r'^[^{\[\"]+', '', data)  # remove anything before first {, [ or "
+                            data = data.replace("`", "")  # remove stray backticks
+                            data = data.replace("'", '"') # convert single to double quotes
+                            
+                            # Remove trailing commas
+                            data = re.sub(r",\s*([}\]])", r"\1", data)
+                            data = demjson3.decode(data, strict=False)
+                        except Exception as e2:
+                            try:
+                                result = extract_fields_with_regex(data)
+                                rows.append({"custom_id":custom_id,
+                                "para_id": result.get("para_id", 'UNKNOWN'),
+                                "section_id": result.get("section_id", 'UNKNOWN'),
+                                "model": result.get("model", 'UNKNOWN'),
+                                "case_law_excerpt": result.get("case_law_excerpt", 'UNKNOWN'),
+                                "legislation_excerpt": result.get("legislation_excerpt", 'UNKNOWN')})
+                            except Exception as e3:
+                             print(f"Failed to parse JSON content after cleanup: {e2}")
+                             rows.append({
+                                "custom_id":custom_id,
+                                "para_id": 'UNKNOWN',
+                                "section_id": 'UNKNOWN',
+                                "model": 'UNKNOWN',
+                                "case_law_excerpt": 'UNKNOWN',
+                                "legislation_excerpt": 'UNKNOWN'
+                             })
+                             
+            
+
+    # Write to CSV using pandas DataFrame
+    df = pd.DataFrame(rows)
+    df.to_csv(output_csv_path, index=False, encoding="utf-8")
 if __name__ == "__main__":
     # combined_csv_path = 'data/newData/combined.csv'  # Path to the uploaded combined.csv
     # output_jsonl_path = 'data/newData/output.jsonl'  # Path to the uploaded output.jsonl
