@@ -27,16 +27,16 @@
 **case_law_excerpt** = Mr Marks further submits that there was an additional mitigating factor which the judge clearly did not take into account. The judge, as we have indicated, said in terms that he was treating the appellant as having intended to cause serious bodily harm rather than to kill. That is specified as a mitigating factor that may be relevant to the offence of murder in paragraph 11(a) of schedule 21.
 **legislation_excerpt** = Murder 1 Murder.
 **reasoning** = The case law paragraph discusses sentencing factors and mitigating circumstances specifically relating to the offence of murder, which is listed as item 1 in Part 1 of Schedule 4, though the specific mitigating factors referenced (paragraph 11(a) of schedule 21) appear to be from a different schedule not provided in this legislation excerpt.
-**IS_Extracton_Correct (YES/No)** = No (Legislation outlines the list of offences against the person including murder.)
-**IS_Reasoning_Correct (YES/No)** = YES
+**IS_Extracton_Correct (YES/No)** = No 
+**IS_Reasoning_Correct (YES/No)** = No
 ==============================================================================
 **paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/651#para_13
 **sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2003/44/section/schedule-15-part-1
 **case_law_excerpt** = He asked us to note the view of the Panel and the Guidelines Council that in manslaughter cases culpability rather than harm should be the primary consideration in determining the sentence
 **legislation_excerpt** = 1 Manslaughter.
 **reasoning** = The case law paragraph discusses sentencing principles for manslaughter cases, specifically addressing how culpability should be the primary consideration in manslaughter sentencing, which directly relates to manslaughter being listed as item 1 in the specified violent offences schedule that determines sentencing frameworks.
-**IS_Extracton_Correct (YES/No)** = YES
-**IS_Reasoning_Correct (YES/No)** = YES
+**IS_Extracton_Correct (YES/No)** = No
+**IS_Reasoning_Correct (YES/No)** = No
 ==============================================================================
 **paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/651#para_13
 **sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2003/44/section/schedule-19ZA-part-3
@@ -59,7 +59,7 @@
 **case_law_excerpt** = reference was made to a hospital order if recommended by a psychiatric report and justified
 **legislation_excerpt** = hospital order means— (a) an order under section 37 of the Mental Health Act 1983 (c. 20) or section 60 of the Mental Health Act 1959 (c. 72), or (b) any other order providing for the admission of a person to hospital following a finding of the kind mentioned in section 99(2)(b) or (c) of this Act
 **reasoning** = The case law discusses hospital orders as a sentencing option in diminished responsibility cases, and the legislation provides the statutory definition of what constitutes a hospital order, showing how the legal concept is applied in practice.
-**IS_Extracton_Correct (YES/No)** = No (Caselaw referenced the sentencing options 
+**IS_Extracton_Correct (YES/No)** = No 
 **IS_Reasoning_Correct (YES/No)** = No
 ==============================================================================
 **paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/1939#para_20
@@ -132,7 +132,7 @@
 **legislation_excerpt** = Condition B is that HMRC are satisfied that there was reasonable excuse for not giving the notice before the relevant time limit. Condition C is that HMRC are satisfied that request under subsection (4) was made without unreasonable delay after the reasonable excuse ceased.
 **reasoning** = The case law directly applies the conditions from section 49, specifically referencing that neither condition was satisfied - the reasonable excuse condition and the without unreasonable delay condition, which correspond to Conditions B and C in the legislation.
 **IS_Extracton_Correct (YES/No)** = YES
-**IS_Reasoning_Correct (YES/No)** = YES  (Same as previous)
+**IS_Reasoning_Correct (YES/No)** = YES
 ==============================================================================
 **paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2016/2186#para_33
 **sectionlink** = https://www.legislation.gov.uk/ukpga/2013/25/section/37
