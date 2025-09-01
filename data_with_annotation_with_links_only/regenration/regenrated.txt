@@ -1,0 +1,255 @@
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/167#para_55
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1999/33/section/56
+**case_law_excerpt** = as is confirmed by a medical report, which was requested by the Immigration Appeal Tribunal and was put before it
+**legislation_excerpt** = The Immigration Appeal Tribunal
+**reasoning** = The case law paragraph refers to a medical report that was requested by and put before the Immigration Appeal Tribunal, directly invoking the tribunal established under section 56.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2008/1097#para_25
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2003/44/section/246
+**case_law_excerpt** = Similarly, a prisoner sentenced under the 2003 Act is not eligible for HDC until he has served the requisite custodial period in s.246 of the 2003 Act
+**legislation_excerpt** = the Secretary of State may— (a) release on licence under this section a fixed-term prisoner
+**reasoning** = The case law directly references section 246 of the 2003 Act regarding HDC eligibility and the requisite custodial period, which corresponds to the legislation's provisions for release on licence by the Secretary of State [Contains 2 phrases total]
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2004/621#para_6
+**sectionlink** = https://www.legislation.gov.uk/ukpga/Eliz2/5-6/section/section
+**case_law_excerpt** = The explanatory note to the Order, which makes the necessary changes to a number of sections including s53 C of the Naval Discipline Act 1957
+**legislation_excerpt** = 53
+**reasoning** = The case law directly references section 53 of the Naval Discipline Act 1957 as one of the sections that was modified by the remedial order to address human rights compatibility issues identified in the Grieves case.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2005/3377#para_39
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2003/44/section/schedule-4-part-1
+**case_law_excerpt** = Mr Marks further submits that there was an additional mitigating factor which the judge clearly did not take into account. The judge, as we have indicated, said in terms that he was treating the appellant as having intended to cause serious bodily harm rather than to kill. That is specified as a mitigating factor that may be relevant to the offence of murder in paragraph 11(a) of schedule 21.
+**legislation_excerpt** = Murder 1 Murder.
+**reasoning** = The case law paragraph discusses sentencing factors and mitigating circumstances specifically relating to the offence of murder, which is listed as item 1 in Part 1 of Schedule 4, though the specific mitigating factors referenced (paragraph 11(a) of schedule 21) appear to be from a different schedule not provided in this legislation excerpt.
+**IS_Extracton_Correct (YES/No)** = No (Legislation outlines the list of offences against the person including murder.)
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/651#para_13
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2003/44/section/schedule-15-part-1
+**case_law_excerpt** = He asked us to note the view of the Panel and the Guidelines Council that in manslaughter cases culpability rather than harm should be the primary consideration in determining the sentence
+**legislation_excerpt** = 1 Manslaughter.
+**reasoning** = The case law paragraph discusses sentencing principles for manslaughter cases, specifically addressing how culpability should be the primary consideration in manslaughter sentencing, which directly relates to manslaughter being listed as item 1 in the specified violent offences schedule that determines sentencing frameworks.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/651#para_13
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2003/44/section/schedule-19ZA-part-3
+**case_law_excerpt** = He asked us to note the view of the Panel and the Guidelines Council that in manslaughter cases culpability rather than harm should be the primary consideration in determining the sentence
+**legislation_excerpt** = 13 Manslaughter
+**reasoning** = The case law discusses sentencing principles specifically for manslaughter cases, which directly relates to paragraph 13 of the schedule that lists manslaughter as an offence punishable with imprisonment for life
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/651#para_15
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2003/44/section/237A
+**case_law_excerpt** = where the defendant constituted a danger to the public for an unpredictable time, the right sentence would probably be life imprisonment
+**legislation_excerpt** = A "public protection decision", in relation to a prisoner, is a decision as to whether the decision-maker is satisfied that it is not necessary, or no longer necessary, for the protection of the public that the prisoner should be confined
+**reasoning** = The case law discusses sentencing principles where a defendant poses a danger to the public, which relates to the statutory framework for public protection decisions about prisoner confinement for public safety. [Contains 2 phrases total]
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2009/651#para_15
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2008/4/section/117
+**case_law_excerpt** = reference was made to a hospital order if recommended by a psychiatric report and justified
+**legislation_excerpt** = hospital order means— (a) an order under section 37 of the Mental Health Act 1983 (c. 20) or section 60 of the Mental Health Act 1959 (c. 72), or (b) any other order providing for the admission of a person to hospital following a finding of the kind mentioned in section 99(2)(b) or (c) of this Act
+**reasoning** = The case law discusses hospital orders as a sentencing option in diminished responsibility cases, and the legislation provides the statutory definition of what constitutes a hospital order, showing how the legal concept is applied in practice.
+**IS_Extracton_Correct (YES/No)** = No (Caselaw referenced the sentencing options 
+**IS_Reasoning_Correct (YES/No)** = No
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2012/1939#para_20
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2000/6/section/7
+**case_law_excerpt** = Section 7 of the Powers of Criminal Courts (Sentencing) Act 2000 limits the powers of sentencing in the Crown Court where the committal has been by way of section 6 of the Act
+**legislation_excerpt** = Power of Crown Court on committal for sentence under section 6
+**reasoning** = The case law directly references and explains the application of section 7, which deals with the Crown Court's sentencing powers when dealing with committals under section 6, establishing the statutory limitation on those powers.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2013/1026#para_23
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2000/23/section/81
+**case_law_excerpt** = Miss Montgomery seizes on this distinction and submits that it follows from this reasoning that RIPA would provide different levels of protection depending on the form of communication used. She submits that Parliament cannot have intended that communications should be treated differently depending on the method of communication used
+**legislation_excerpt** = communication includes— (a) ... anything transmitted by means of a postal service; (b) anything comprising speech, music, sounds, visual images or data of any description; and (c) signals serving either for the impartation of anything between persons, between a person and a thing or between things or for the actuation or control of any apparatus
+**reasoning** = The case law paragraph discusses Miss Montgomery's argument about RIPA providing different levels of protection based on communication methods, which directly relates to the broad statutory definition of 'communication' in section 81 that encompasses various forms including postal service, speech, music, sounds, visual images, data, and signals
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/597#para_69
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/43/section/78YB
+**case_law_excerpt** = In this case, to make good the charge in the indictment, the Environment Agency had to prove that, in the relevant period, the company was operating a "regulated facility" rather than an "exempt facility"
+**legislation_excerpt** = " regulated facility " has the meaning given in regulation 8 of those Regulations
+**reasoning** = The case law applies the statutory definition of 'regulated facility' from section 78YB(5) to determine the elements the prosecution must prove in this environmental offence case
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2020/597#para_69
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1995/25/section/109N
+**case_law_excerpt** = In this case, to make good the charge in the indictment, the Environment Agency had to prove that, in the relevant period, the company was operating a "regulated facility" rather than an "exempt facility"
+**legislation_excerpt** = "exempt facility" has the meaning given in regulation 5 of the Environmental Permitting Regulations; "regulated facility" has the meaning given in regulation 8 of the Environmental Permitting Regulations
+**reasoning** = The case law directly applies the statutory definitions of 'regulated facility' and 'exempt facility' from section 109N to determine the legal elements that must be proven for the offence, showing how these definitional provisions are central to the prosecution's case
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewfc/2025/41#para_45
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/37/section/30
+**case_law_excerpt** = Therefore I am satisfied that if this application were to be granted it would not have such deleterious consequences for the children that I should not even determine it.
+**legislation_excerpt** = Parental orders in favour of gamete donors
+**reasoning** = The judge is considering whether to grant a parental order application, weighing the potential consequences for the children involved, which directly relates to section 30's provision for parental orders in favour of gamete donors.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2003/1578#para_115
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/Vict/20-21/31/section/section-12
+**case_law_excerpt** = use or enjoyment thereof as a place for exercise and recreation
+**legislation_excerpt** = use or enjoyment thereof as a place for exercise and recreation
+**reasoning** = The case law discusses the legal requirements for establishing town or village green status, specifically addressing user rights for recreational purposes. The legislation provides the statutory framework for protecting such recreational use, with both texts using identical language about 'use or enjoyment as a place for exercise and recreation'.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2009/2348#para_77
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1998/29/section/48
+**case_law_excerpt** = Another ground was to suggest that the Tribunal misunderstood its role and approached its task as if performing a judicial review of the Commissioner's decisions
+**legislation_excerpt** = Rights of appeal
+**reasoning** = The case law discusses the Tribunal's proper approach to appeals from the Commissioner's decisions, addressing criticisms that the Tribunal confused its appellate role with judicial review, which relates to the rights of appeal provisions in section 48.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2009/590#para_21
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1970/9/section/49
+**case_law_excerpt** = First, there was the fact that, as was conceded, neither of the section 49(1) conditions was satisfied. There was no reasonable excuse for not bringing the appeals within the time limited and the out-of-time applications were not made without unreasonable delay after the expiry for the time for appealing. These are two distinct conditions. The first relates to the bringing of the appeals within the time for appealing. The second relates to the making of an out-of-time application under section 49 without unreasonable delay.
+**legislation_excerpt** = Condition B is that HMRC are satisfied that there was reasonable excuse for not giving the notice before the relevant time limit. Condition C is that HMRC are satisfied that request under subsection (4) was made without unreasonable delay after the reasonable excuse ceased.
+**reasoning** = The case law directly applies section 49 conditions, specifically referencing the two distinct conditions for late appeals: having a reasonable excuse for not appealing within time and making the out-of-time application without unreasonable delay, which correspond to Conditions B and C in the legislation.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2009/590#para_21
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1970/9/section/49
+**case_law_excerpt** = First, there was the fact that, as was conceded, neither of the section 49(1) conditions was satisfied. There was no reasonable excuse for not bringing the appeals within the time limited and the out-of-time applications were not made without unreasonable delay after the expiry for the time for appealing.
+**legislation_excerpt** = Condition B is that HMRC are satisfied that there was reasonable excuse for not giving the notice before the relevant time limit. Condition C is that HMRC are satisfied that request under subsection (4) was made without unreasonable delay after the reasonable excuse ceased.
+**reasoning** = The case law directly applies the conditions from section 49, specifically referencing that neither condition was satisfied - the reasonable excuse condition and the without unreasonable delay condition, which correspond to Conditions B and C in the legislation.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES  (Same as previous)
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2016/2186#para_33
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2013/25/section/37
+**case_law_excerpt** = As to the definition in section 37 of the 2013 Act and Schedule 1 paragraph 7 namely the phrase "members of a police force", the same as in section 10
+**legislation_excerpt** = " members of a police force " has the meaning given in Schedule 1
+**reasoning** = The case law directly references and discusses the definition of 'members of a police force' as provided in section 37 of the 2013 Act, which refers to Schedule 1 for the meaning of this term.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2016/2186#para_33
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1978/30/section/10
+**case_law_excerpt** = This is because the language of this part of the Schedule has no application to that case or because this is a case where a "contrary" indication appears
+**legislation_excerpt** = unless the contrary intention appears
+**reasoning** = The case law applies the interpretative principle from section 10 of the Interpretation Act 1978, specifically referencing the concept of 'contrary intention' or indication that would override the general rule, in the context of interpreting police force definitions.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2003/2845#para_46
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/1994/23/section/schedule-9-part-II-chapter-9
+**case_law_excerpt** = It is difficult to contemplate an Editor and one assistant alone writing, compiling and then seeing to the distribution of 2,650,000 copies of the Main Magazine per annum yet still having both time and inclination, in addition to their editorial and assistant duties, themselves to provide, for example, all the cleaning, security, reception, computer, word-processing and photo-copying employment services needed for a modern office producing magazines.
+**legislation_excerpt** = The supply to its members of such services and, in connection with those services, of such goods as are both referable only to its aims and available without payment other than a membership subscription by any of the following non-profit-making organisations— (a) a trade union or other organisation of persons having as its main object the negotiation on behalf of its members of the terms and conditions of their employment
+**reasoning** = The case law discusses the practical costs and services involved in producing and distributing a trade union magazine to members, which relates to the VAT exemption for supplies to members by trade unions under the legislation. The judge is analyzing whether the magazine production costs qualify under the exemption provisions.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2010/938#para_47
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2003/1/section/688AB
+**case_law_excerpt** = In any event, at least while the tax rebates are not paid to the employees, there is a clear liability on the company arising under regulation 73 to pay to HMRC the full amount of tax deducted without netting off the rebates.
+**legislation_excerpt** = Provision preventing a person specified in PAYE regulations from— (a) making a claim for the repayment of, or relief in respect of, an amount referred to in subsection (2)(b), or (b) deducting, or setting off, the amount referred to in that subsection from, or against, any tax liability of the person
+**reasoning** = The case law discusses the company's liability to pay the full amount of tax to HMRC without netting off rebates, which relates to the statutory provision preventing deduction or setting off of certain amounts against tax liabilities.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2017/769#para_221
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/Geo5/15-16/19/section/section-55
+**case_law_excerpt** = While recognising this possibility and the difficulties for the doctors of making a firm diagnosis, in my judgment it is more likely than not that if Richard had been suffering from dementia much earlier than April 2011, and at all events as far back as September 2009, this would have been picked up much sooner than it was
+**legislation_excerpt** = that a trustee or mortgagee lacks capacity in relation to the matter in question
+**reasoning** = The judge is assessing Richard's mental capacity/dementia timeline, which relates to the statutory provision about trustees lacking capacity, as this appears to be a case involving trust matters where capacity is in question.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2018/2169#para_82
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1986/45/section/436
+**case_law_excerpt** = In effect, it was an expectation rather than a legal right to renew, however it fell within the wider definition of property in s436 being an interest " arising out of, or incidental to, property ", the "property" for these purposes being the vessels to which the licences related and the "entitlement" to renew being "incidental" to such vessels.
+**legislation_excerpt** = " property " includes money, goods, things in action, land and every description of property wherever situated and also obligations and every description of interest, whether present or future or vested or contingent, arising out of, or incidental to, property
+**reasoning** = The case law directly applies and interprets section 436's definition of 'property', specifically referencing the phrase 'arising out of, or incidental to, property' to determine whether fishing licence entitlements constitute property for insolvency purposes.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2022/2033#para_22
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/Geo5/15-16/23/section/section-38
+**case_law_excerpt** = Fourthly, the joint purchasers of properties hold the legal estate as trustees. Butlin's makes clear, at least, that the trustees' intentions may be relevant to rectification if they have themselves made a bargain. The bargain could mean that the beneficial interests would be held by persons other than or in addition to the trustees.
+**legislation_excerpt** = declare that the person, not being a purchaser, in whom the property is vested is a trustee for those purposes
+**reasoning** = The case law discusses the concept of joint purchasers holding legal estate as trustees and the court's consideration of trustees' intentions regarding beneficial interests, which connects to the statutory power under section 38(2)(b) allowing the court to declare that a person is a trustee for specified purposes.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/qb/2015/1760#para_79
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/Geo6/10-11/44/section/section-2
+**case_law_excerpt** = A relationship of proximity in the law of tort is based on some special connection between the claimant and the defendant whether by contract, or quasi contract, control of the location of injury, statutory responsibility for the welfare of children or collection of child maintenance. The broader the class claimed the less likely is the relationship to have the qualities that make it proximate in the eyes of the law. The class claimed by the claimants is very large indeed, and effectively merges public law relevant considerations and private law responsibilities.
+**legislation_excerpt** = Subject to the provisions of this Act, the Crown shall be subject to all those liabilities in tort to which, if it were a private person of full age and capacity, it would be subject
+**reasoning** = The court is discussing the principles of proximity in tort law as they apply to claims against the Crown, considering how the Crown's liability in tort is established under section 2 by reference to what would apply to a private person, and how this interacts with the distinction between public and private law responsibilities.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/tcc/2009/1664#para_23
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/53/section/104
+**case_law_excerpt** = Mrs Scott was copied in to messages regarding the project which showed clearly that HPL's position was that a JCT form had been sent to Aceramais for signature and that HPL considered that that was the basis on which they had contracted. The documents show that Mrs Scott herself dealt with matters on the assumption that the agreed position between the parties was that they had contracted on the basis of a JCT contract.
+**legislation_excerpt** = In this Part a " construction contract " means an agreement with a person for any of the following— (a) the carrying out of construction operations
+**reasoning** = The case law discusses the nature and form of the JCT contract between the parties for construction work, which falls within the definition of construction contracts under section 104 as agreements for carrying out construction operations.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ukftt/grc/2025/284#para_39
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2000/36/section/50
+**case_law_excerpt** = In light of this, we find that Mr Lightning was deprived of the opportunity to highlight his concerns to either the Public Authority or the Commissioner in advance of the decision notice and his views were therefore not taken into consideration. This was a procedural irregularity capable of making a material difference to the outcome of the proceedings.
+**legislation_excerpt** = On receiving an application under this section, the Commissioner shall make a decision unless it appears to him
+**reasoning** = The case law discusses procedural irregularities in the Commissioner's decision-making process under section 50, specifically regarding Mr Lightning's inability to present his concerns before the decision notice was issued, which relates to the Commissioner's duty to make decisions under this section.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2009/3412#para_1
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1983/20/section/3
+**case_law_excerpt** = Mrs Stella Stojak, the claimant Mr Stojak's mother, had been detained in hospital under section 3 Mental Health Act 1983 in June 1991
+**legislation_excerpt** = A patient may be admitted to a hospital and detained there for the period allowed by the following provisions of this Act in pursuance of an application (in this Act referred to as " an application for admission for treatment ") made in accordance with this section
+**reasoning** = The case law directly references that Mrs Stojak was detained under section 3 Mental Health Act 1983, which corresponds to the legislation provision that allows for admission and detention of patients for treatment under this specific section.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2015/515#para_119
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2004/12/section/320
+**case_law_excerpt** = In the present case, any Woolwich claims have a six-year limitation period without the benefit of section32(1) (c) of the Limitation Act 1980
+**legislation_excerpt** = Section 32(1)(c) of the Limitation Act 1980 (c. 58) or, in Northern Ireland, Article 71(1)(c) of the Limitation (Northern Ireland) Order 1989 ( S.I. 1989/1339 (N.I. 11)) (extended period for bringing an action in case of mistake) does not apply in relation to a mistake of law relating to a taxation matter under the care and management of the Commissioners of Inland Revenue
+**reasoning** = The case law directly applies section 320's exclusion of the extended limitation period under section 32(1)(c) of the Limitation Act 1980 to Woolwich claims, explaining why such claims cannot benefit from the extended limitation period for mistakes in taxation matters.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2005/2363#para_20
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1980/66/section/118
+**case_law_excerpt** = I am not persuaded that there are two separate issues Rather, there is one question: what is the proper interpretation of section 118 ? In answering that question, the words of section 118 must not be considered in isolation but within the context of the statutory framework including, in particular, the provisions of section 119.
+**legislation_excerpt** = Where it appears to a council as respects a footpath, bridleway or restricted byway in their area (other than one which is a trunk road or a special road) that it is expedient that the path or way should be stopped up on the ground that it is not needed for public use
+**reasoning** = The judge is directly interpreting section 118, stating that the proper interpretation of this section must be considered within the broader statutory framework, demonstrating the court's application of statutory interpretation principles to the specific provisions of section 118.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2018/2169#para_89
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1986/45/section/436
+**case_law_excerpt** = One argument rejected was that the "hope" was an interest "arising out of or incidental to property" within the definition in s436
+**legislation_excerpt** = property includes money, goods, things in action, land and every description of property wherever situated and also obligations and every description of interest, whether present or future or vested or contingent, arising out of, or incidental to, property
+**reasoning** = The case law directly applies and interprets the statutory definition of 'property' in section 436, specifically analysing whether a hope of receiving Criminal Injuries Compensation Board award constitutes an interest 'arising out of or incidental to property' under this definition. [Contains 3 phrases total]
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2018/2169#para_97
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1986/45/section/436
+**case_law_excerpt** = Mr Hackett's submission was that Re Rae demonstrated that something that was not enforceable in a court of law but marketable and capable of being turned into money could be "property" for the purposes of s436
+**legislation_excerpt** = " property " includes money, goods, things in action, land and every description of property wherever situated and also obligations and every description of interest, whether present or future or vested or contingent, arising out of, or incidental to, property
+**reasoning** = The case law directly discusses the interpretation and application of the definition of 'property' in section 436, specifically examining what falls within that definition including interests that may not be legally enforceable but have value. [Contains 2 phrases total]
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES

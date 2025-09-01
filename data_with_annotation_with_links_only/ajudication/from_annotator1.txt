@@ -1,0 +1,616 @@
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_13
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/71
+**model** = llama
+**case_law_excerpt** = Dr Jiad's claim in the third proceedings was thus more promising as a claim for discrimination by way of victimisation than for discrimination on racial grounds
+**legislation_excerpt** = (a) to eliminate unlawful discrimination and victimisation ; and (b) to promote equality of opportunity and good relations between persons of different racial groups
+**reasoning** = The case discusses a claim of discrimination and victimisation, specifically referencing the potential for a claim of victimisation, which is a concept defined and addressed in section 71 of the legislation, highlighting the duty to eliminate unlawful discrimination and victimisation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_15
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/71
+**model** = deepseek
+**case_law_excerpt** = As to detriment, the Tribunal noted that Dr Jiad had not consulted his general practitioner since 28th February 2000. They considered that the alleged detriment was tenuous. They were not satisfied that the matters complained of amounted to detriment. They cited Adekeye v Post Office (No 2) [1997] IRLR 105 as authority for the proposition that a person is not subjected to detriment if they are generally aggrieved.
+**legislation_excerpt** = Every body or other person specified in Schedule 1A or of a description falling within that Schedule shall, in carrying out its functions, have due regard to the need— (a) to eliminate unlawful discrimination and victimisation ; and (b) to promote equality of opportunity and good relations between persons of different racial groups.
+**reasoning** = The case discusses detriment in the context of racial discrimination, which directly relates to the legislative duty to eliminate unlawful discrimination and victimisation under section 71.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_17
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/2
+**model** = deepseek
+**case_law_excerpt** = The submission is that bullying on racial grounds or as victimisation which causes humiliation and embarrassment is capable of being sufficient detriment for the purpose of section 4(2) (c) of 1976 Act.
+**legislation_excerpt** = Discrimination by way of victimisation.
+**reasoning** = The case law discusses the interpretation of 'detriment' under section 4(2)(c) of the 1976 Act, specifically in the context of victimisation, aligning with the legislative provision on discrimination by way of victimisation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_18
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/71
+**model** = deepseek
+**case_law_excerpt** = For the respondents it is submitted that the Employment Tribunal was correct to strike out this claim against all four respondents. The originating application only tentatively suggested that the respondents other than Janet Youngson might have committed an unlawful act. Dr Jiad had not before the Employment Appeal Tribunal attempted to identify any actual or hypothetical comparator. His case was that his allegations amounted to discrimination because the incident fell within the BBC's policy as to harassment.
+**legislation_excerpt** = Every body or other person specified in Schedule 1A or of a description falling within that Schedule shall, in carrying out its functions, have due regard to the need— (a) to eliminate unlawful discrimination and victimisation ; and (b) to promote equality of opportunity and good relations between persons of different racial groups.
+**reasoning** = The case discusses the necessity of a comparator in discrimination cases, which relates to the legislative duty to eliminate unlawful discrimination and promote equality. The tribunal's decision reflects the application of these duties in procedural assessments of discrimination claims.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_19
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/71
+**model** = deepseek
+**case_law_excerpt** = racial discrimination or discrimination by way of victimisation under the Act
+**legislation_excerpt** = " discrimination " means race discrimination within the meaning of section 25 of the 2010 Act; (b) " victimisation " means victimisation within the meaning of section 27 of the 2010 Act, where the protected act in question relates to race
+**reasoning** = The case law discusses racial discrimination and victimisation, which are defined in the legislation under sections 25 and 27 of the 2010 Act, as referenced in section 71(8)(a) and (b).
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_20
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/71
+**model** = deepseek
+**case_law_excerpt** = As to Janet Youngson, it is right to emphasise that she denies that she bullied or humiliated Dr Jiad in any way. She explains the facts and circumstances of the incident on 7th February 2000. For present purposes, however, we are required to assume that Dr Jiad's factual allegations are true. On that assumption, I see the force of Mr Milford's submission that the claim is not bound to fail for want of a comparator. If Janet Youngson bullied or humiliated Dr Jiad, it is at least a possible inference that she did so because he had brought his previous proceedings and that she would not have so treated a person who had not brought previous proceedings.
+**legislation_excerpt** = to eliminate unlawful discrimination and victimisation
+**reasoning** = The case discusses the application of victimisation under the legislation, considering whether the treatment of Dr Jiad constitutes victimisation based on his previous proceedings. The legislation's reference to eliminating victimisation aligns with the case's analysis of potential victimisation without a comparator.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_20
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/2
+**model** = llama
+**case_law_excerpt** = I do not consider that this claim against Janet Youngson is bound to fail as a case of victimisation for want of a comparator, hypothetical or actual.
+**legislation_excerpt** = 2 Discrimination by way of victimisation
+**reasoning** = The case discusses the possibility of a victimisation claim under the legislation, specifically considering whether a comparator is necessary for such a claim and whether the facts of the case could support a claim of discrimination by way of victimisation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_28
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/2
+**model** = openai
+**case_law_excerpt** = At the least it has to be established that her mistake was not a mistake at all, but that she had approached the matter in a biased or prejudiced way.
+**legislation_excerpt** = Discrimination by way of victimisation
+**reasoning** = The paragraph discusses the criteria for establishing a claim of victimization, emphasizing the need to demonstrate that the conduct in question was biased or prejudiced, which directly relates to the definition of victimization as established in section 2.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_31
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/71
+**model** = deepseek
+**case_law_excerpt** = I have sympathy for the tribunal, but that does not deflect my criticisms that the chairman failed to sit back, take the view which she had already taken that part of the complaint was unfounded, and then ask herself whether there was some evidence to support an inference that the refusal to restore him to the register was tainted with racial discrimination.
+**legislation_excerpt** = Every body or other person specified in Schedule 1A or of a description falling within that Schedule shall, in carrying out its functions, have due regard to the need— (a) to eliminate unlawful discrimination and victimisation ; and (b) to promote equality of opportunity and good relations between persons of different racial groups.
+**reasoning** = The case law discusses the tribunal's failure to properly consider evidence of racial discrimination when making their decision. This directly relates to the legislative requirement for bodies to have due regard to eliminating unlawful discrimination and promoting equality of opportunity, as outlined in section 71 of the Act.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_33
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/71
+**model** = deepseek
+**case_law_excerpt** = In our case Mr Milford agreed, and rightly so, that it was not possible to establish evidence with regard to direct racial discrimination on the part of Mrs Youngson. That, however, leaves the question of victimisation. Like my Lord, it seems to me that once the facts are put together that Mrs Youngson treated Dr Jiad in an aggressive and inappropriate manner, if indeed she did do so (and that of course is contested); and, second, that there was a history of Dr Jiad being at loggerheads with his employers so far as the litigation is concerned (and Mrs Youngson bore the burden of dealing with that); then there is, at least potentially, evidence that her acts were ones of victimisation.
+**legislation_excerpt** = Every body or other person specified in Schedule 1A or of a description falling within that Schedule shall, in carrying out its functions, have due regard to the need— (a) to eliminate unlawful discrimination and victimisation ; and (b) to promote equality of opportunity and good relations between persons of different racial groups.
+**reasoning** = The case law discusses the application of the concept of victimisation in the context of racial discrimination, specifically addressing how the treatment of Dr. Jiad by Mrs. Youngson could constitute victimisation. This directly relates to the legislative duty to eliminate unlawful discrimination and victimisation as outlined in Section 71 of the legislation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_33
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/2
+**model** = llama
+**case_law_excerpt** = that once the facts are put together that Mrs Youngson treated Dr Jiad in an aggressive and inappropriate manner, if indeed she did do so (and that of course is contested); and, second, that there was a history of Dr Jiad being at loggerheads with his employers so far as the litigation is concerned (and Mrs Youngson bore the burden of dealing with that); then there is, at least potentially, evidence that her acts were ones of victimisation
+**legislation_excerpt** = 2 Discrimination by way of victimisation
+**reasoning** = The case discusses the elements required to establish victimisation under the relevant legislation, specifically considering how the treatment of Dr Jiad by Mrs Youngson could be seen as victimisation, relating to section 2 of the Act which addresses discrimination by way of victimisation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_38
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/2
+**model** = deepseek
+**case_law_excerpt** = I regard this case as being close to the borderline, even applying the stringent requirements as formulated by Lord Steyn and others to which I have just referred. But so far as the claim against Miss Youngson in respect of victimisation is concerned, and in respect of that alone, I do not think that this is a case for striking out.
+**legislation_excerpt** = Discrimination by way of victimisation.
+**reasoning** = The case law discusses the application of victimisation under section 2 of the legislation, determining that the claim against Miss Youngson should not be struck out based on the stringent requirements for victimisation claims.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_43
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/2
+**model** = openai
+**case_law_excerpt** = A person may be treated less favourably and yet suffer no detriment.
+**legislation_excerpt** = Discrimination by way of victimisation.
+**reasoning** = The paragraph discusses the concept of detriment in the context of discrimination, specifically noting that one can be treated less favorably without necessarily suffering a detriment, which relates to the statutory context provided in section 2 regarding victimization.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_45
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/2
+**model** = openai
+**case_law_excerpt** = I too would allow this appeal only in respect of the claim for victimisation against Mrs Youngson
+**legislation_excerpt** = Discrimination by way of victimisation
+**reasoning** = The case law paragraph specifically addresses the claim for victimisation, which directly correlates to the legislation defining discrimination by way of victimisation, indicating that the court is applying this statutory concept in its decision.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_9
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/2
+**model** = deepseek
+**case_law_excerpt** = In the latter of those cases, the House of Lords observed that discrimination cases should not be struck out as an abuse of process except in the most obvious and plainest cases.
+**legislation_excerpt** = 2 Discrimination by way of victimisation.
+**reasoning** = The case law discusses the jurisdiction to strike out discrimination cases, referencing the House of Lords' observations. The legislation defines discrimination by way of victimisation, which is a specific form of discrimination. The connection lies in the legal context of handling discrimination cases, including victimisation, under the relevant statutory framework.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_10
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = The court has to carry out a balancing exercise between the benefit to the court of having all the evidence available and the consideration of the improper way in which the video evidence was obtained. The court should not in any way give approval to the methods used by the defendant's agent misleading the claimant and gaining improper entry to her home. In those circumstances I am not satisfied that the video evidence should be available and I order that it is excluded.
+**legislation_excerpt** = In any proceedings the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The District Judge applies the balancing exercise required under section 78 of the Police and Criminal Evidence Act 1984, considering the fairness of admitting evidence obtained improperly and exercising discretion to exclude it.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_11
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = that in English criminal proceedings the fact that evidence has been illegally obtained does not render it inadmissible, subject to the power of the trial judge to exclude evidence in the exercise of its common law discretion or under the provisions of section 78 of the Police and Criminal Evidence Act 1984
+**legislation_excerpt** = In any proceedings the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The case law paragraph discusses the admissibility of evidence obtained illegally and references section 78 of the Police and Criminal Evidence Act 1984, which provides the court's discretion to exclude evidence if it would adversely affect the fairness of the proceedings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_12
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = He added that in that case he had concluded "there were next to no physical signs, as opposed to complaints, of anything wrong with him. I do not think that the deception involved in coming to his house in the guise of a market researcher was of such gravity or impropriety as to render evidence thus obtained inadmissible."
+**legislation_excerpt** = In any proceedings the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The case law discusses the admissibility of evidence obtained through deceptive means, which directly relates to the legislative provision in section 78 about excluding evidence that would unfairly affect the proceedings. The reasoning in the case law mirrors the legislative intent to balance fairness with the circumstances of evidence collection.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_13
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = openai
+**case_law_excerpt** = The overriding objective of those rules is to enable the court to deal with cases justly. This includes, inter alia, ensuring that the parties are on an equal footing, that the case is dealt with in ways which are proportionate to the amount of money involved and that the case is dealt with 'fairly' (CPR 1.1).
+**legislation_excerpt** = the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it
+**reasoning** = The case law emphasizes the court's duty to deal with cases fairly and proportionately, which aligns with the legislative requirement that the court must consider the fairness of proceedings when admitting evidence.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_14
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = the courts should not in any way give approval to the method used by the defendant's agent. In those circumstances, I am not satisfied that the video evidence should be available.
+**legislation_excerpt** = the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The case law excerpt reflects the court's decision to exclude evidence based on the method used to obtain it, which directly aligns with the legislative provision in section 78 that allows the court to refuse evidence if it would adversely affect the fairness of the proceedings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_15
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = the legitimate need and public interest that defendants or their insurers should be able to prevent and uncover unjustified, dishonest and fraudulent claims. In the instant case I have no doubt that the latter considerations do and should outweigh the former.
+**legislation_excerpt** = the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The case law discusses the balance between the claimant's privacy and the defendant's need to investigate potentially fraudulent claims, which aligns with the legislative provision in section 78 regarding the exclusion of evidence that would unfairly impact the proceedings. The judge's reasoning reflects the application of section 78's principles about fairness and the admissibility of evidence.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_20
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = But he contends that this does not prevent him relying upon Article 8. This is because of the fact that the court that has to exercise its discretion is a public authority (see section 6(3) of the Act) and it is "unlawful for a public authority to act in a way which is incompatible with a Convention right" (see section 6(1)). He submits that for the court to ignore the manner in which the video evidence was obtained would involve the court acting in a way that is incompatible with the claimant's Article 8 rights unless the evidence which was obtained in contravention of Article 8 was necessary in order to achieve justice in the case.
+**legislation_excerpt** = In any proceedings the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The case law discusses the application of Article 8 rights in the context of evidence obtained potentially in violation of those rights. The legislation provides the court's discretion to exclude evidence based on its impact on the fairness of the proceedings, considering how the evidence was obtained. This connects the court's duty to act compatibly with Convention rights (as a public authority) with the specific power to exclude evidence under section 78.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_24
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = In criminal proceedings, when evidence is wrongly obtained, the court will consider whether it adversely affects the fairness of the proceedings and, if it does, may exclude the evidence under section 78 of the Police and Criminal Evidence Act 1984.
+**legislation_excerpt** = In any proceedings the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The case law discusses the application of section 78 in criminal proceedings, where the court evaluates the fairness impact of admitting evidence obtained improperly. This directly aligns with the legislative provision allowing courts to exclude evidence that undermines procedural fairness.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_27
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = Once the court has decided the order, which it should make in order to deal with the case justly, in accordance with the overriding objectives set out in Part 1.1 of the CPR in the exercise of its discretion under Part 32.1, then it is required or it is necessary for the court to make that order.
+**legislation_excerpt** = the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The case law discusses the court's discretion in deciding whether to admit evidence obtained in breach of Article 8, aligning with the legislative provision in Section 78, which grants the court discretion to exclude evidence if it would adversely affect the fairness of the proceedings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_28
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = the court must try to give effect to what are here the two conflicting public interests. The weight to be attached to each will vary according to the circumstances. The significance of the evidence will differ as will the gravity of the breach of Article 8, according to the facts of the particular case. The decision will depend on all the circumstances.
+**legislation_excerpt** = the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The court discusses the exercise of discretion in balancing competing public interests and the fairness of proceedings, aligning with the legislative framework in section 78 that allows the court to exclude evidence based on its impact on fairness.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_29
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = the conduct of the insurers was improper and not justified. We disagree with the indication by Judge Harris to the contrary. The fact that the insurers may have been motivated by a desire to achieve what they considered would be a just result does not justify either the commission of trespass or the contravention of the claimant's privacy which took place.
+**legislation_excerpt** = the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The court applies Section 78 by emphasizing the unfairness and impropriety of the insurers' actions, particularly the trespass and privacy violation, which directly relates to the legislation's provision on excluding evidence obtained under unfair circumstances to maintain procedural fairness.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/151#para_30
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/60/section/78
+**model** = deepseek
+**case_law_excerpt** = Excluding the evidence is not, moreover, the only weapon in the court's armoury. The court has other steps it can take to discourage conduct of the type of which complaint is made. In particular it can reflect its disapproval in the orders for costs which it makes.
+**legislation_excerpt** = In any proceedings the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+**reasoning** = The case law discusses the court's ability to use cost orders as a means to discourage improper conduct, which aligns with the legislative intent of section 78 to ensure fairness in proceedings by allowing the court to exclude evidence that would unfairly impact the proceedings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/167#para_13
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/1999/33/section/schedule-4-part-III
+**model** = deepseek
+**case_law_excerpt** = There is, however, no equivalent provision enabling the Immigration Appeal Tribunal to extend the 10 day period prescribed by paragraph 27(1) for seeking permission to appeal from it to this court. Hence the Immigration Appeal Tribunal's determination in this case that it could not dispose of the application made to it in August 2002 on the merits, but had to decline to consider it.
+**legislation_excerpt** = Appeals which must be dismissed
+**reasoning** = The case law discusses the inability of the Immigration Appeal Tribunal to extend the 10-day period for seeking permission to appeal, which is directly tied to the legislative provision regarding appeals that must be dismissed. The legislation outlines the specific circumstances under which appeals can be dismissed, aligning with the case law's explanation of the Tribunal's limitations.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/167#para_16
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1999/33/section/3
+**model** = openai
+**case_law_excerpt** = the Immigration Tribunal was unable to deal with the application made to it because it lacked jurisdiction to grant leave after the expiry of the relevant 10 day period
+**legislation_excerpt** = His leave is to be treated as continuing until the end of the period allowed under rules made under paragraph 3 of Schedule 4 to the Immigration and Asylum Act 1999 for bringing an appeal against a decision on the application
+**reasoning** = The case law discusses the lack of jurisdiction of the Immigration Tribunal to consider an application after the expiry of leave, which ties directly to the provisions of the legislation regarding the continuation of leave pending a decision on an application.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/167#para_17
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1999/33/section/87
+**model** = openai
+**case_law_excerpt** = The issue in the present case is whether there is any equivalent provision implicit or express in paragraph 23(2), which precludes an application to this court in circumstances where the Immigration Appeal Tribunal was unable, because of the lapse of the relevant time limit, to consider an application to it.
+**legislation_excerpt** = A relevant decision of the Commissioner is not to have effect while the period within which an appeal may be brought against the decision is running.
+**reasoning** = The case law evaluates whether a time limit affects the ability to appeal, relating directly to the concept of the effect of decisions during the appeal window as stated in section 87(3A).
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/167#para_19
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1999/33/section/87
+**model** = openai
+**case_law_excerpt** = I must confess that I find this palliative somewhat unattractive. First, it seems to me to run somewhat contrary to the basic submission of Mr Tam that the Act and rules should be construed in a manner giving effect to the general aim of finality; and secondly, the possibility of a whole new set of judicial review proceedings, as opposed to a simple statutory appeal to this court on the determination of the question of law, with all the extra delay that such judicial review proceedings might involve, does not seem to me much encouragement to accept Mr Tam's submission regarding the construction of paragraph 23(2) of Schedule 4.
+**legislation_excerpt** = Any person aggrieved by a relevant decision of the Commissioner may appeal to the First-tier Tribunal against the decision
+**reasoning** = The case law reflects on the appeal mechanism provided under section 87 regarding the decision of the Commissioner, indicating a preference for a straightforward statutory appeal process over potentially protracted judicial review proceedings. This ties back to the statutory framework intended to facilitate finality in decisions.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/167#para_27
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1999/33/section/87
+**model** = deepseek
+**case_law_excerpt** = However, it is also the fact that the second alteration made to the rules must be taken to have involved some recognition on the part of the rule making authorities that, despite the alteration to the deeming provision, there could still be unfairness in exceptional circumstances if the strict time limit for seeking permission to appeal to the Immigration Tribunal was an absolute time limit.
+**legislation_excerpt** = A relevant decision of the Commissioner is not to have effect while the period within which an appeal may be brought against the decision is running.
+**reasoning** = The case law discusses the potential unfairness of strict time limits for appeals, relating to the legislative provision that suspends the effect of a decision during the appeal period. This connects the legislative intent to prevent unfairness with the case's focus on exceptional circumstances.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/167#para_29
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1999/33/section/87
+**model** = deepseek
+**case_law_excerpt** = That sub-paragraph contemplates that, after a refusal by the Immigration Appeal Tribunal, the Court of Appeal will be able to consider the issue of permission to appeal.
+**legislation_excerpt** = Any person aggrieved by a relevant decision of the Commissioner may appeal to the First-tier Tribunal against the decision.
+**reasoning** = The case law discusses the interpretation of the legislative provisions regarding the appeal process, specifically focusing on the ability of the Court of Appeal to consider permission to appeal after a refusal by the Immigration Appeal Tribunal. This directly relates to the section of the legislation that outlines the appeals process to the First-tier Tribunal.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/167#para_30
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1999/33/section/87
+**model** = openai
+**case_law_excerpt** = The effect of the Immigration and Asylum Procedure Rules is that applications for permission to appeal may be disposed of either on their merits or without a consideration of their merits where there has been a failure to comply with the prescribed time limit.
+**legislation_excerpt** = In the case of an appeal under this section, Tribunal Procedure Rules may include provision permitting the First-tier Tribunal to direct that while the appeal is being dealt with— (a) no effect is to be given to the decision appealed against
+**reasoning** = The case law discusses the procedural grounds under which an application for permission to appeal can be disposed of, which reflects the provisions outlined in the legislation regarding appeals and how decisions are handled by the Tribunal.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_146
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/121
+**model** = deepseek
+**case_law_excerpt** = In view of the number of errors, I further found that the O'Brien judgment was not saved by the fact that the Tribunal had gone on to conclude that, if the claimant had been dismissed, he was fairly dismissed for redundancy.
+**legislation_excerpt** = The amount of the basic award shall be two weeks' pay where the tribunal finds that the reason (or, where there is more than one, the principal reason) for the dismissal of the employee is that he was redundant
+**reasoning** = The case law discusses the Tribunal's conclusion regarding fair dismissal for redundancy, which aligns with the legislative provision in section 121 that addresses the basic award in cases where redundancy is the principal reason for dismissal.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_147
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/129
+**model** = deepseek
+**case_law_excerpt** = In view of the number of errors made both at the preliminary and final hearing in the claimant's case, and applying the guidance of Burton P in Sinclair Roche & Temperley v Heard [2004] IRLR 763 at [46], there is in my judgment no alternative to remitting this matter for a complete re-hearing before a fresh Tribunal.
+**legislation_excerpt** = The tribunal shall announce its findings and explain to both parties (if present)— (a) what powers the tribunal may exercise on the application, and (b) in what circumstances it will exercise them.
+**reasoning** = The case law discusses the necessity of remitting the case for a re-hearing due to errors in the initial hearings, which relates to the procedural powers of the tribunal as outlined in section 129, specifically the tribunal's duty to explain its powers and the circumstances under which it will exercise them.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_34
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/123
+**model** = deepseek
+**case_law_excerpt** = Applying the law to the facts of this case, I am not satisfied that the Claimant has shown a prima facie case that the removal of his management duties in September 2018 or the performance management process from January 2019 were capable of being part of a continuing course of conduct.
+**legislation_excerpt** = conduct extending over a period is to be treated as done at the end of the period;
+**reasoning** = The case law applies the legislative provision regarding the treatment of conduct over a period to determine the continuing course of conduct, which is crucial for establishing the time limits for bringing complaints.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_46
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/98
+**model** = llama
+**case_law_excerpt** = the Tribunal concluded that dismissal for those potentially fair reasons was fair in all the circumstances, consultation having been sufficient, the claimant having failed to secure any of the alternative available roles in competition and having been offered what it considered to be suitable alternative employment
+**legislation_excerpt** = depends on whether in the circumstances (including the size and administrative resources of the employer's undertaking) the employer acted reasonably or unreasonably in treating it as a sufficient reason for dismissing the employee
+**reasoning** = The case law discusses the fairness of a dismissal, considering whether the employer acted reasonably in dismissing the employee for certain reasons, which aligns with section 98(4) of the legislation, emphasizing the reasonableness of the employer's actions in the circumstances
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_49
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/17
+**model** = llama
+**case_law_excerpt** = The Tribunal acknowledged that it was Ms McConnell's decision to headhunt MS for the role eventually described as Specialist Coding Lead for Obstetrics ([139]-[140]) and thus (I infer) that she must have been responsible for that role not being advertised – the alleged detriment in respect of which it was considering whether there was a causal link to the protected acts
+**legislation_excerpt** = A person (A) discriminates against a woman if A treats her unfavourably because of a pregnancy of hers.
+**reasoning** = The Tribunal's decision involves analyzing whether the decision not to advertise a role was discriminatory, focusing on the connection between the decision and protected acts, which directly relates to the definition of discrimination provided in section 17, specifically treating someone unfavourably because of pregnancy or having given birth.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_58
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = whether there was any causal relationship between the claimant's alleged protected acts and the two alleged detriments that it had found (partially) to be made out.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the assessment of whether there was a causal relationship between the claimant's protected acts and the detriments, which relates to the burden of proof under section 136. The legislation provides that if facts suggest a contravention, the court must hold that it occurred unless explained otherwise.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_59
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/137
+**model** = deepseek
+**case_law_excerpt** = the importance of the principle of finality in litigation means that case management decisions cannot necessarily be unravelled just because the factual picture turns out to be different to the picture as it appeared to the judge at the time
+**legislation_excerpt** = A finding in relevant proceedings in respect of an act which has become final is to be treated as conclusive in proceedings under this Act
+**reasoning** = The case law discusses the finality principle in litigation and its impact on case management decisions, aligning with the legislation's emphasis on treating previous findings as conclusive to prevent re-litigation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_61
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/129
+**model** = llama
+**case_law_excerpt** = what the claimant had pleaded was that the principal reason for his (constructive) dismissal was that he had brought previous tribunal proceedings
+**legislation_excerpt** = the reason (or if more than one the principal reason) for the dismissal is one of those specified in—
+**reasoning** = The case law discusses the importance of determining the principal reason for a dismissal, particularly in the context of a victimisation claim, which is a key consideration under section 129 of the Employment Rights Act 1996 when assessing applications for interim relief.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_64
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60A
+**model** = deepseek
+**case_law_excerpt** = that Ms McConnell and/or Ms Szul had called the claimant 'a trouble maker' when informing him that he had not been successful in his application for the Board Lead role. It is well known and well established (cf Anyanwu again) that direct evidence of discrimination and victimisation is rare and that in order to succeed on such a claim a claimant will normally need to persuade a Tribunal to draw an inference of discrimination or victimisation from the primary facts. The language 'troublemaker' ought to have 'shouted out' to the judge (using HHJ Auerbach's 'vivid phrase' approved by Bean LJ in Mervyn v BW Controls [2020] ICR 1364 at [42]) that it was potential evidence from which an inference could be drawn that those individuals were motivated by the claimant's protected acts
+**legislation_excerpt** = For the purposes of subsection (1) a statement is discriminatory if— (a) it is directed to the public or a section of the public, and (b) were it made in connection with a relevant decision, the making of it would amount to treatment of a person that is direct discrimination.
+**reasoning** = The case discusses the potential discriminatory statement made by Ms McConnell and/or Ms Szul, which could be seen as a direct discrimination under section 60A. The statement 'troublemaker' is analyzed in the context of whether it constitutes a discriminatory statement as defined by the legislation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_67
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = Mr Mitchell for the respondent accepted in the hearing before me that EJ Russell was mistaken in saying that different witnesses were involved in the earlier acts, but submitted that EJ Russell had nonetheless properly directed herself in law and has properly applied the legal principles to the facts of the test in determining that these two alleged detriments were not arguably part of a continuing act with the later detriments.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the application of legal principles to determine whether alleged detriments are part of a continuing act, which relates to the burden of proof under section 136. The legislation provides the framework for how courts should handle evidence and explanations in determining contraventions.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_73
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/207B
+**model** = deepseek
+**case_law_excerpt** = Given the conclusion that I have reached on Ground 2, I do not need to deal with Ground 3, since it is clear from Hendricks and Aziz that if a claimant has an arguable case on 'continuing act' there is no need for the Tribunal to go on at the preliminary hearing stage to consider whether it is just and equitable to extend time.
+**legislation_excerpt** = Where an employment tribunal has power under this Act to extend a time limit set by a relevant provision, the power is exercisable in relation to the time limit as extended by this section.
+**reasoning** = The case law discusses the application of time limits in employment tribunal proceedings, specifically referencing the 'continuing act' doctrine and the discretion to extend time limits, which directly relates to the powers granted to the tribunal under section 207B to extend time limits in certain circumstances.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_85
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/129
+**model** = deepseek
+**case_law_excerpt** = It is clear that the Tribunal not only put constructive unfair dismissal first in the judgment but also decided it first because it only went on to consider the claimant's victimisation claims in relation to the two elements of the alleged detriments that it concluded in the course of its analysis of his constructive unfair dismissal claim had been partially made out
+**legislation_excerpt** = The tribunal shall announce its findings and explain to both parties (if present)— (a) what powers the tribunal may exercise on the application, and (b) in what circumstances it will exercise them.
+**reasoning** = The case law excerpt describes the Tribunal's decision-making process, specifically the order in which it addressed constructive unfair dismissal and victimisation claims. This aligns with the legislative requirement for the tribunal to announce its findings and explain its powers and the circumstances under which it will exercise them, as outlined in section 129.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_86
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = Conspicuously, the Tribunal failed to deal with a substantial part of the claimant's case on victimisation as a result of the way it approached its decision-making. I have already noted when setting out the Tribunal's conclusions above that when considering the claimant's victimisation claim, the O'Brien Tribunal made no findings on causation about what it had recognised at [105] as being "the claimant's real issue" in relation to the MS role, i.e. that no similar role was created for him. Given the importance of considering all the evidence in deciding whether or not to draw an inference of victimisation, that itself was a failure to consider the whole of the claimant's case (see further below).
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law excerpt discusses the Tribunal's failure to properly consider the claimant's victimisation case, particularly regarding causation and the creation of a similar role. This failure relates to the burden of proof under section 136, which requires the court to infer a contravention if there are facts suggesting it and no other explanation is provided.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_87
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/104
+**model** = deepseek
+**case_law_excerpt** = In this case, the Tribunal has in my judgment fallen into error because it failed to consider the first four detriments relied on by the claimant for the purposes of his victimisation claim as victimisation claims in their own right, rather than through the limiting prism of whether they amounted to breaches of the implied term of trust and confidence.
+**legislation_excerpt** = An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee— (a) brought proceedings against the employer to enforce a right of his which is a relevant statutory right, or (b) alleged that the employer had infringed a right of his which is a relevant statutory right.
+**reasoning** = The case discusses the interplay between victimisation claims and constructive unfair dismissal claims, highlighting the risk of legal errors when failing to properly consider victimisation claims independently. This relates to the legislative framework under section 104, which outlines the conditions under which a dismissal is considered unfair, particularly in relation to the assertion of statutory rights.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_88
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/104
+**model** = deepseek
+**case_law_excerpt** = the Tribunal's decision to consider the claimant's constructive dismissal claim before his victimisation claim meant that it never considered what had (as the respondent acknowledges in Mr Mitchell's further submissions) been the main part of the claimant's claim from the outset, namely that the respondent unilaterally reassigning him to a Band 5 role had been an act of victimisation, in response to which he resigned, so that what he claimed was his constructive dismissal was in fact a resignation in response to an act of victimisation.
+**legislation_excerpt** = An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee— (a) brought proceedings against the employer to enforce a right of his which is a relevant statutory right, or (b) alleged that the employer had infringed a right of his which is a relevant statutory right.
+**reasoning** = The case law discusses the Tribunal's error in failing to properly address the claimant's victimisation claim, which relates to the constructive dismissal and the respondent's actions. The legislation provides the framework for determining unfair dismissal based on the assertion of statutory rights, which aligns with the claimant's allegations of victimisation and constructive dismissal.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_89
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/27
+**model** = deepseek
+**case_law_excerpt** = As a result of the way the Tribunal approached the decision-making in this case, it did not deal with this element of the claimant's victimisation claim at all. It did not consider whether the demotion to Band 5 amounted to a detriment and it did not consider whether there was the necessary causal relationship between that decision and the claimant's protected acts.
+**legislation_excerpt** = A person (A) victimises another person (B) if A subjects B to a detriment because— (a) B does a protected act, or (b) A believes that B has done, or may do, a protected act.
+**reasoning** = The case law discusses the failure of the Tribunal to address key elements of a victimisation claim, specifically the requirement to prove detriment and causal link, as outlined in section 27 of the legislation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_90
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/63J
+**model** = deepseek
+**case_law_excerpt** = Mr Mitchell's answer to this point at the hearing before me was that it was not necessary for the Tribunal to do this because the demotion to Band 5 was just a natural consequence of the claimant having failed to get any other job in the multiple competitive opportunities that there had been. It is, of course, possible that this might factually be the answer to the claimant's case, but it is not the answer the Tribunal gave because it did not address it and in my judgment it erred in law by failing to do so in the circumstances of this case.
+**legislation_excerpt** = If an employment tribunal finds a complaint under section 63I well-founded it must make a declaration to that effect and may—
+**reasoning** = The case law discusses the Tribunal's failure to address a specific argument regarding the natural consequence of the claimant's actions, which relates to the Tribunal's duty under section 63J(1) to make declarations and orders when a complaint is well-founded.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_92
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = I should add that the Tribunal's references in its judgment to having taken "a holistic view all of the circumstances" ([135]) and "all the circumstances" ([141]) do not save it from the substantive failure in this case. There was a complete failure to deal with the main plank of the claimant's victimisation claim or to demonstrate that the Tribunal had truly had regard to all the circumstances in considering that claim.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the Tribunal's failure to properly consider all circumstances in a victimisation claim, which relates to the legislative requirement under section 136 for courts to consider facts suggesting a contravention unless rebutted by the respondent.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_93
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = I am also satisfied that (although this is not in itself an error of law) this was a case where the Tribunal would have been well-advised, as the claimant submits, to take the structured approach set out in s 136 itself of considering first whether, taken as a whole, the claimant had proved facts from which it could be concluded that there was victimisation and then, if it found the burden shifted, properly placed the burden on the respondent to provide an adequate explanation.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law applies the burden of proof framework under section 136, emphasizing the structured approach of first assessing whether the claimant has presented sufficient facts to shift the burden to the respondent. This directly aligns with the legislative requirement for the court to hold a contravention unless explained.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_17
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = deepseek
+**case_law_excerpt** = As we are primarily a teaching-based School with everyone having a significant teaching load it was not possible to consider not teaching at all as a reasonable adjustment as even aggregating other tasks would not constitute a full working load.
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know—
+**reasoning** = The case discusses the employer's consideration of reasonable adjustments for an employee with a disability. The legislation outlines the circumstances under which an employer is not required to make reasonable adjustments, specifically when they lack knowledge of the disability. The case illustrates a scenario where the employer attempted to make adjustments but faced practical limitations, aligning with the legislative provisions on reasonable adjustments.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_17
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-1
+**model** = llama
+**case_law_excerpt** = the inability to complete the interim adjustments we had allocated for phased return were making me query whether the claimant was fit at all. This wouldn't however have ruled us out accommodating long-term reasonable adjustments when the diagnosis was known.
+**legislation_excerpt** = A must comply with the first, second and third requirements.
+**reasoning** = The case discusses the employer's consideration of the claimant's fitness and the accommodation of long-term reasonable adjustments, which relates to the duty to make reasonable adjustments imposed by the legislation, specifically the requirements outlined in Schedule 8, Part 1.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_18
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = deepseek
+**case_law_excerpt** = The ET noted that it was not disputed that the claimant's absence from teaching was problematic for the first respondent and it accepted that it was reasonable for Mr Curtis to take the view that the claimant was required to carry out some teaching as this was a key ingredient of his role
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know—
+**reasoning** = The ET's acceptance of the reasonableness of requiring the claimant to teach aligns with the legislative provision that an employer is not obligated to make adjustments if they lack knowledge of the disability.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_20
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/130
+**model** = openai
+**case_law_excerpt** = the ET noted that this was on the assumption that the claimant would return to his normal hours by the end of August, which had not happened.
+**legislation_excerpt** = A standard case is a case which is not— (a) a stable work case, (b) a concealment case, (c) an incapacity case, or (d) a concealment case and an incapacity case.
+**reasoning** = The Employment Tribunal's consideration of the claimant's condition and expectations about returning to work directly relates to the definitions provided in section 130 regarding stable work cases and incapacity cases, as it discusses the implications of the claimant's absence and the difficulties in conducting a risk assessment.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_36
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/15
+**model** = deepseek
+**case_law_excerpt** = There was no dispute before the ET that the claimant's disability gave rise to an inability for him to teach in a classroom, and it was similarly accepted that, for the relevant period, he had been required to continue to teach in a classroom for a set number of hours, and that the first respondent had determined that he was unable to do so. The first respondent conceded that this requirement amounted to unfavourable treatment arising from something – the claimant's inability to teach in a classroom at that time – arising from his disability. As the ET accepted, however, given the OH advice and the deterioration of the claimant's condition during 2018, the first respondent had understandably taken the view that the claimant's debilitating blackouts represented a risk to him, the students, and the university more generally. It was, further, the first respondent's case that the treatment of the claimant had been a proportionate means of achieving a legitimate aim.
+**legislation_excerpt** = A person (A) discriminates against a disabled person (B) if— (a) A treats B unfavourably because of something arising in consequence of B's disability, and (b) A cannot show that the treatment is a proportionate means of achieving a legitimate aim.
+**reasoning** = The case law discusses unfavourable treatment arising from disability and the proportionate means defence, which directly aligns with the legal criteria set out in section 15(1)(a) and (b) of the legislation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_37
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/92
+**model** = openai
+**case_law_excerpt** = It was not in dispute that the provision of consistent high-quality teaching, in accordance with the prospectus and the expectations of students, had been a legitimate aim for the first respondent
+**legislation_excerpt** = The responsible body in relation to a course to which this section applies must not discriminate against a person— (a) in the arrangements it makes for deciding who is enrolled on the course; (b) as to the terms on which it offers to enrol the person on the course
+**reasoning** = The Tribunal recognizes the necessity of providing high-quality teaching as a legitimate aim, connecting it directly to the obligations imposed on educational institutions by section 92 to not discriminate in their arrangements for enrolment and service provision.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_38
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = deepseek
+**case_law_excerpt** = It was not feasible to provide someone else to accompany the Claimant when he was teaching. Employing someone to cover a disjointed lecturing schedule would not be reasonable.
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know—
+**reasoning** = The case law discusses the feasibility of making reasonable adjustments, aligning with the legislative provision that outlines when an employer is not required to make adjustments due to lack of knowledge or reasonableness.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_38
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-1
+**model** = openai
+**case_law_excerpt** = OH reports that from the 25 October 2018 there were no reasonable adjustments appropriate from that date as the Claimant is determined as being unfit for all work
+**legislation_excerpt** = A must comply with the first, second and third requirements
+**reasoning** = The case examines the feasibility of reasonable adjustments that could have been made for the claimant, referencing the requirement imposed on the employer to comply with duties concerning reasonable adjustments as outlined in the legislation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_40
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-1
+**model** = deepseek
+**case_law_excerpt** = noted that, as a matter of law, the duty on an employer is to act, not to consult, and, as such, a risk assessment did not amount to a reasonable adjustment
+**legislation_excerpt** = A must comply with the first, second and third requirements
+**reasoning** = The case law discusses the legal duty of an employer to make reasonable adjustments, specifically addressing the nature of the duty as one to act rather than consult. This aligns with the legislative requirement for employers to comply with the first, second, and third requirements under Schedule 8, Part 1.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_41
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/91
+**model** = openai
+**case_law_excerpt** = The Respondent acted the way it did to balance the needs of the Claimant's health against the needs of the First Respondent to deliver its consistent high-quality teaching.
+**legislation_excerpt** = A duty to make reasonable adjustments applies to the responsible body of such an institution.
+**reasoning** = The case law discusses how the Respondent's decision-making aimed to balance the health needs of the claimant with the institution's responsibilities, which connects to the legal mandate for making reasonable adjustments in educational contexts as outlined in section 91.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_42
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-1
+**model** = llama
+**case_law_excerpt** = It was also accepted that not being able to teach unaccompanied due to blackouts and/or a risk of blackouts was a substantial disadvantage.
+**legislation_excerpt** = the first, second and third requirements
+**reasoning** = The case discusses a claim under the Equality Act regarding reasonable adjustments, specifically mentioning a provision, criterion, or practice (PCP) that puts the claimant at a substantial disadvantage, which relates to the duty to make reasonable adjustments under the Act.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_43
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/123
+**model** = deepseek
+**case_law_excerpt** = The ET noted that the claimant had accepted that, given the OH advice, as from 25 October 2018 there were no reasonable adjustments appropriate as he had been determined to be unfit for all work until 7 December 2018; the relevant period was thus from 5 September 2018 to 24 October 2018.
+**legislation_excerpt** = Subject to section 140B proceedings on a complaint within section 120 may not be brought after the end of— (a) the period of 3 months starting with the date of the act to which the complaint relates, or (b) such other period as the employment tribunal thinks just and equitable.
+**reasoning** = The Employment Tribunal is applying the time limit provisions from section 123 to determine the relevant period for the claimant's case, ensuring that the complaint falls within the allowed timeframe.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_45
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-1
+**model** = deepseek
+**case_law_excerpt** = The Claimant's state of health and abilities at that time would mean that simply making adjustments to remove face to face or give him support doing face to face would not appear to be enough because there is no supported view (other than what the Claimant now asserts) that he can reasonably and consistently do other things than face to face.
+**legislation_excerpt** = A must comply with the first, second and third requirements.
+**reasoning** = The case law discusses the sufficiency of adjustments made to accommodate the Claimant's health and abilities, which directly relates to the legislative requirement to comply with the first, second, and third requirements for reasonable adjustments under the Equality Act 2010.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_50
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/124
+**model** = deepseek
+**case_law_excerpt** = We do not consider that the Claimant has proven on the balance of probability that the Respondent was unreasonably holding to its position with the intention of breaching the Claimant's employment contract.
+**legislation_excerpt** = order the respondent to pay compensation to the complainant
+**reasoning** = The case law discusses the tribunal's evaluation of whether a repudiatory breach of contract occurred, which relates to the remedies available under section 124(2)(b) for compensation in employment disputes.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_51
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = We do not find that the Claimant has proven on the balance of probabilities that the Respondents' conduct, from the perspective of a reasonable person, suggests an intention to abandon and altogether refuse to perform the contract.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law applies the burden of proof standard from section 136, where the tribunal assesses whether the claimant has provided sufficient evidence to prove the contravention on the balance of probabilities.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_54
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/15
+**model** = llama
+**case_law_excerpt** = whether the first respondent was able to show its treatment of the claimant was a proportionate means of achieving a legitimate aim
+**legislation_excerpt** = and (b) A cannot show that the treatment is a proportionate means of achieving a legitimate aim
+**reasoning** = The case law excerpt directly references the legislation's requirement for justification of discriminatory treatment, specifically the need for the respondent to demonstrate that their actions were a proportionate means of achieving a legitimate aim, as outlined in section 15(1)(b) of the legislation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes

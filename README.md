@@ -287,6 +287,6 @@ Downloads UK case law data from the National Archives using their Atom XML feed.
 - The output csv file from the combined extraction result of gpt-4o-mini = gpt-extract.csv
 - The output csv file from the combined extraction result of llama = llama_combined_output_final.csv
 - The output csv file from the combined extraction result of deepseek = 
-- The data for the failed instances sent to claude for regenration 
-- The data sent to the claude for the decision
-- Final Dataframe with approved pairs
+- The output for the failed instances sent to claude for regenration = regenrated_pars_from_claude
+- The data sent to the claude for the decision =
+- Final output with approved pairs =extracted_final.csv

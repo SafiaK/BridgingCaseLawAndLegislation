@@ -1,0 +1,899 @@
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2009/2674#para_27
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/241
+**model** = llama
+**case_law_excerpt** = It is of note that there are no qualifying words within paragraph 3.2 in relation to the phrase 'and any other harm'
+**legislation_excerpt** = Notwithstanding anything in any enactment relating to land
+**reasoning** = There appears to be no direct connection between the specific phrase 'and any other harm' from the case law and any part of section 241 of the enactment. The case law focuses on the interpretation of a specific phrase ('any other harm') within a context not directly addressed by section 241, which discusses the use and development of open spaces.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/fam/2021/1153#para_71
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2002/38/section/141
+**model** = openai
+**case_law_excerpt** = There is no issue that any findings the court makes is on the balance of probabilities in accordance with the principles set out in Re B (Care Proceedings: Standard of Proof) [2008] UKHL 35 , [2008] 2 FLR 141
+**legislation_excerpt** = Family Procedure Rules may make provision in respect of any matter to be prescribed by rules made by virtue of this Act and dealing generally with all matters of procedure.
+**reasoning** = The case law references the burden of proof in family law matters, which is part of the procedural rules that guide court findings, linking it to the broader framework provided by section 141 concerning family procedure rules.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2013/3250#para_39
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/148
+**model** = openai
+**case_law_excerpt** = the court seeks to avoid a construction that produces an absurd result, since this is unlikely to have been intended by Parliament
+**legislation_excerpt** = In this Chapter— “ the relevant provisions ” means— (a) the provisions of Part IX, or (b) in the case of statutory undertakers, any statutory provision (however expressed) under which they have power, or may be authorised, to purchase land compulsorily for the purposes of their undertaking
+**reasoning** = The case law refers to principles of statutory interpretation, emphasizing the avoidance of absurd constructions, which aligns with the legislative context where the definitions and meanings of provisions are outlined to ensure clarity and prevent unintended consequences.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/comm/2006/134#para_29
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/23/section/11
+**model** = openai
+**case_law_excerpt** = the position is confused by their also referring on two occasions to the relevant order as emanating from the terminal/port authorities
+**legislation_excerpt** = the court granting the stay may, if in those proceedings property has been arrested or bail or other security has been given to prevent or obtain release from arrest
+**reasoning** = The case law discusses the ambiguity in the source of an order issued by port authorities and how it relates to those responsible for that order, which is tied to the legal considerations regarding security in Admiralty proceedings as set out in section 11.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2017/769#para_120
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1995/38/section/14
+**model** = openai
+**case_law_excerpt** = I do not consider that it can credibly be suggested that those views and concerns were the product of Susie’s influence on him. Accordingly, the fact that these amendments are, as I consider them to be, consistent with those views and concerns provides strong evidence that the amendments reflected his independent thoughts.
+**legislation_excerpt** = Nothing in this Act affects the exclusion of evidence on grounds other than that it is hearsay.
+**reasoning** = The case law discusses the independence of Richard's amendments and thoughts, which relates to the evidentiary standards regarding hearsay and the exclusion of certain types of evidence as outlined in section 14, particularly focusing on the credibility and source of evidence.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2009/1229#para_38
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1998/42/section/7
+**model** = openai
+**case_law_excerpt** = The preponderance of English authority supports the view that once material has been read or referred to in open court, it enters the public domain.
+**legislation_excerpt** = A person who claims that a public authority has acted (or proposes to act) in a way which is made unlawful by section 6(1) may— (a) bring proceedings against the authority under this Act in the appropriate court or tribunal
+**reasoning** = The paragraph discusses the implications of open court proceedings and public access to materials, while the legislation outlines the rights and processes for challenging unlawful acts by public authorities, thereby providing the framework within which the public's right to information and transparency is governed.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/1808#para_59
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/1990/8/section/schedule-13-paragraph-6-w
+**model** = openai
+**case_law_excerpt** = he can be acquitted of any misunderstanding or unlawful misapplication of NPPF policy
+**legislation_excerpt** = have resolved to take action to safeguard it for development for the purposes of relevant public functions
+**reasoning** = The case law discusses the proper interpretation of planning policy in relation to housing supply and the actions of the Secretary of State, which connects to the provisions concerning land being safeguarded for development as outlined in the legislation.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2011/2943#para_15
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1988/33/section/156
+**model** = deepseek
+**case_law_excerpt** = Before Counsel's agreement I had concluded that the later decision of the Court of Appeal in Waltham Forest NHS Primary Care Trust and Secretary of State for Health –v-Malik does appear to be indistinguishable from this case.
+**legislation_excerpt** = In paragraph (a) of section 48(2) of the Senior Courts Act 1981 (which sets out the powers of the Crown Court on the termination of the hearing of an appeal) for the words “the decision appealed against" there shall be substituted the words “any part of the decision appealed against, including a determination not to impose a separate penalty in respect of an offence".
+**reasoning** = The case discusses the application of the Court of Appeal's decision in Malik, which is considered binding. The legislation excerpt outlines the Crown Court's powers on appeal, which are relevant to the discussion of appellate decisions and their impact on the case at hand.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/qb/2013/797#para_51
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2006/46/section/83
+**model** = openai
+**case_law_excerpt** = the public interest lies very strongly in ensuring that those who apply without notice for injunctive relief are punctilious in ensuring that their obligations to the court are complied with
+**legislation_excerpt** = unless the court before which the proceedings are brought is satisfied that it is just and equitable to permit the proceedings to continue
+**reasoning** = The case law discusses the public interest in ensuring compliance with court obligations, which parallels the legislation's stipulation that proceedings should only continue if deemed just and equitable despite breaches of regulations.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ukftt/tc/2024/744#para_176
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2020/7/section/schedule-10-part-4
+**model** = openai
+**case_law_excerpt** = These assessments were made correctly under paragraph 9 Schedule 16 FA 2020.
+**legislation_excerpt** = Each HSC trust must maintain a record of each instance where— (a) an application for assessment is made in reliance on paragraph 3
+**reasoning** = The case law explicitly references assessments made under a specific provision which pertains to the operational requirements outlined in the legislation, indicating a procedural connection.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewfc/b/2024/40#para_17
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2021/17/section/65
+**model** = deepseek
+**case_law_excerpt** = ‘FT’ was permitted to attend the hearing remotely by video. He did not attend. The Court was informed initially that he could not access the video link. When he was afforded the opportunity to give evidence by telephone in the alternative, using a freephone number, the Court was informed that ‘FT’ declined. An oral application was then made to adjourn the Final Hearing so that he could give evidence on another day.
+**legislation_excerpt** = 31U Direction for prohibition of cross-examination in person: other cases (1) In family proceedings, the court may give a direction prohibiting a party to the proceedings from cross-examining (or continuing to cross-examine) a witness in person if—
+**reasoning** = The court considered the circumstances of ‘FT’ not attending and the potential need for alternative arrangements for cross-examination, which aligns with the principles outlined in section 31U regarding the court's discretion to give directions for the prohibition of cross-examination in person in other cases.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2021/113#para_56
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1971/77/section/13
+**model** = deepseek
+**case_law_excerpt** = an unappealed decision of the adjudicator was binding on the parties, notwithstanding the absence of directions
+**legislation_excerpt** = a person who is refused leave to enter the United Kingdom under this Act may appeal to an adjudicator against the decision that he requires leave or against the refusal
+**reasoning** = The concept of finality in immigration appeals is considered in relation to the binding nature of unappealed adjudicator decisions, even without directions, as per the case of R (Boafo) v Secretary of State for the Home Department
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ukftt/tc/2024/744#para_117
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1992/4/section/126
+**model** = openai
+**case_law_excerpt** = JSL received an amount for one employee who was not submitted on the RTI as of 19 March 2020 therefore it was not entitled to receive a CJRS support payment on their behalf and request the tribunal to use their power to amend the assessments under Section 50(6) TMA 1970 to £51,244.79.
+**legislation_excerpt** = any amount which becomes or would on an application duly made become available to him in that period by way of repayment of income tax deducted from his taxable earnings
+**reasoning** = The case law discusses the entitlement of JSL to a support payment and the associated financial calculations, while the legislation outlines the treatment of payments and tax deductions that inform those calculations, specifically mentioning how such amounts are considered when determining financial support eligibility.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2017/1770#para_26
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/47/section/11
+**model** = deepseek
+**case_law_excerpt** = the purpose of a declaration of trust like the 2008 Trust Deed is to tell the trustees how they held the property; it is far less likely to have been intended only to do a partial job. For it to create two sub-trusts is needlessly complicated and it would be surprising indeed if that had been anyone’s intention.
+**legislation_excerpt** = The trustees of land shall in the exercise of any function relating to land subject to the trust— (a) so far as practicable, consult the beneficiaries of full age and beneficially entitled to an interest in possession in the land, and (b) so far as consistent with the general interest of the trust, give effect to the wishes of those beneficiaries, or (in case of dispute) of the majority (according to the value of their combined interests).
+**reasoning** = The case law discusses the interpretation of a trust deed and the intentions of the parties involved, aligning with the legislative requirement for trustees to consult and consider the wishes of beneficiaries in the exercise of their functions.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2017/2621#para_114
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/Geo6/11-12/38/section/section-192
+**model** = deepseek
+**case_law_excerpt** = The only remaining issue is whether the directors acted in breach of their duty to act bone fide in the best interests of the Company; and for this, the only pleaded case is that the arrangements raised no funding, whether short term or long term, did not assist in repaying the Loan Notes but had the effect of entrenching QPE as majority shareholder.
+**legislation_excerpt** = It is hereby declared that it is not lawful in connection with the transfer of the whole or any part of the undertaking or property of a company for any payment to be made to any director of the company by way of compensation for loss of office, or as consideration for or in connection with his retirement from office, unless particulars with respect to the proposed payment (including the amount thereof) have been disclosed to the members of the company and the proposal approved by the company.
+**reasoning** = The case law discusses the breach of duty by directors in relation to company property transfers and payments, which directly relates to the legislative provision requiring approval for such transactions. The court is applying the principle that directors must act in the best interests of the company and not engage in improper payments without approval.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2010/1951#para_58
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/106C
+**model** = openai
+**case_law_excerpt** = I accept that Opticlife were looking for any reason to avoid completion, and that the fact that conditions 11 and 17 were not satisfied in November 2008 in practice would have made no difference to them, but I do not regard this as entitling me to adopt anything other than what I regard as the most natural construction of the Agreement.
+**legislation_excerpt** = A court may entertain proceedings for questioning a determination by the Secretary of State ... that a planning obligation shall continue to have effect without modification
+**reasoning** = The case law discusses the construction of an agreement in the context of potential disputes arising from planning obligations, related to conditions that must be satisfied, which parallels the legal framework governing challenges to determinations made under the relevant sections of the legislation.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/fam/2014/3135#para_56
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2008/22/section/62
+**model** = openai
+**case_law_excerpt** = I have considered whether the result at which I have arrived is somehow precluded by the linguistic structure of section 54 , which provides that "the court may make an order ... if ... the [relevant] conditions are satisfied." I do not think so.
+**legislation_excerpt** = Orders made by the Secretary of State under this Act are subject to annulment in pursuance of a resolution of either House of Parliament.
+**reasoning** = The case law discusses the interpretation of provisions in relation to court orders, specifically addressing restrictions and the intent of Parliament, which is relevant to the overarching framework of parliamentary control outlined in section 62.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ukftt/grc/2025/287#para_41
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2000/36/section/26
+**model** = openai
+**case_law_excerpt** = This increases the already weighty public interest in maintaining the exception.
+**legislation_excerpt** = Information is exempt information if its disclosure under this Act would, or would be likely to, prejudice— (a) the defence of the British Islands or of any colony, or (b) the capability, effectiveness or security of any relevant forces.
+**reasoning** = The Tribunal discusses the public interest aspect in the context of the exception to disclosure of information, indicating a consideration of how maintaining secrecy can be justified under the relevant legislation.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ukait/2008/1#para_15
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2002/41/section/106
+**model** = deepseek
+**case_law_excerpt** = Because the consequence of the decision in HH is potentially so significant, it is necessary to consider precisely what the obligation on the respondent imposed by rule 23(5) entails. At first sight, it appears that the respondent must serve the determination on the appellant not later than the date on which the respondent makes an application under section 103 A. Rule 55(1) provides that any document which is required or permitted by the Rules or a direction of the Tribunal to be filed with the Tribunal, or served on any person, may be delivered or sent by post; sent via a document exchange; sent by fax; sent by e-mail; or served personally by leaving it with the individual to be served.
+**legislation_excerpt** = Tribunal Procedure Rules may enable the Tribunal to certify that the appeal had no merit (and shall make provision for the consequences of the issue of a certificate).
+**reasoning** = The case law discusses the application of specific procedural rules (rule 23(5) and rule 55) which are part of the Tribunal Procedure Rules authorized under section 106 of the legislation. The legislation enables these rules to be certified and sets provisions for their consequences.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ukpc/2023/36#para_59
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2009/25/section/182
+**model** = openai
+**case_law_excerpt** = The Board does not, however, accept the conclusion Mr Knox invites it to reach, that the Sedition Act is unconstitutional because it is incompatible with section 1.
+**legislation_excerpt** = The following provisions come into force on the day on which this Act is passed
+**reasoning** = The case law discusses the constitutionality of the Sedition Act in relation to other legislative provisions, highlighting how the timing and enactment of laws (as described in section 182) can bear on questions of constitutional compatibility.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2015/515#para_95
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1983/55/section/38B
+**model** = openai
+**case_law_excerpt** = This allowed her to conclude that the principle of effectiveness would be complied with provided that it did not result in a payment so low as to deprive it of substance.
+**legislation_excerpt** = Any interest payable by the Commissioners (whether under an enactment or instrument or otherwise) to a person on a sum due to him under or by virtue of— (a) any provision of this Act
+**reasoning** = The case law discusses the requirement for interest payment as part of compliance with EU law principles, which corresponds to the provision in section 38B regarding interest payable on sums due, highlighting the legal framework for effectively remedying claims.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2019/84#para_27
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1980/43/section/142
+**model** = openai
+**case_law_excerpt** = However, in every case it will be necessary to examine the particular statutory context to determine whether a court hearing a criminal or civil case has jurisdiction to rule on a defence based on arguments of invalidity of subordinate legislation or an administrative act under it.
+**legislation_excerpt** = A magistrates’ court may vary or rescind a sentence or other order imposed or made by it when dealing with an offender if it appears to the court to be in the interests of justice to do so
+**reasoning** = The discussion in the case law about the examination of statutory context and the jurisdiction of courts complements the legislative provision outlining the powers of magistrates’ courts to reconsider or amend decisions when justice requires, indicating the importance of judicial review in the context of legal proceedings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2013/1009#para_21
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2002/30/section/schedule-3-part-2
+**model** = deepseek
+**case_law_excerpt** = Paragraph 13 of schedule 3 to the Police Reform Act 2002 provides for recordable conduct matters to be referred to the Commission in specified circumstances as follows: '(1) It shall be the duty of a police authority or a chief officer to refer a recordable conduct matter to the Commission if, in a case ... in which the authority or chief officer is the appropriate authority – (a) that matter relates to any incident or circumstances in or in consequence of which any person has died or suffered serious injury; (b) that matter is of a description specified for the purposes of this sub-paragraph in regulations made by the Secretary of State; or (c) the Commission notifies the appropriate authority that it requires that matter to be referred to the Commission for its consideration. (2) In any case where there is no obligation under sub-paragraph (1) to make a reference, the appropriate authority may refer a recordable conduct matter to the Commission if that authority considers that it would be appropriate to do so by reason of -- (a) the gravity of the matter; or (b) any exceptional circumstances.'
+**legislation_excerpt** = (1) It shall be the duty of a local policing body or a chief officer to refer a recordable conduct matter to the Director General if, in a case (whether or not falling within paragraph 10) in which the body or chief officer is the appropriate authority— (a) that matter relates to any incident or circumstances in or in consequence of which any person has died or suffered serious injury; (b) that matter is of a description specified for the purposes of this sub-paragraph in regulations made by the Secretary of State; or (c) the Director General notifies the appropriate authority that the Director General requires that matter to be referred to the Director General for the Director General's consideration. (2) In any case where there is no obligation under sub-paragraph (1) to make a reference, the appropriate authority may refer a recordable conduct matter to the Director General if that authority considers that it would be appropriate to do so by reason of— (a) the gravity of the matter; or (b) any exceptional circumstances.
+**reasoning** = The case law paragraph explains the specific circumstances under which a recordable conduct matter must or may be referred to the Commission, directly aligning with the provisions outlined in paragraph 13 of the legislation. The textual overlap and semantic equivalence are clear, indicating a direct application of the legislative criteria.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/466#para_43
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2002/29/section/19
+**model** = deepseek
+**case_law_excerpt** = This was not a case where the judge started at 8 years and added a year. It is plain that having started at 8 years he moved down below 8 years to reflect that count 7 was at the lowest end of this type of offending and then moved upwards to reflect X’s age, the culpability factors to which we have referred and the number of offences committed by each respondent. He then moved down to reflect the mitigating factors in the guideline: no previous convictions and remorse.
+**legislation_excerpt** = In arriving at the just amount the court must have regard in particular to— (a) the amount found under section 7; (b) any fine imposed on the defendant in respect of the offence (or any of the offences) concerned; (c) any order which falls within section 13(3) and has been made against him in respect of the offence (or any of the offences) concerned and has not already been taken into account by the court in deciding what is the free property held by him for the purposes of section 9; (d) any order which has been made against him in respect of the offence (or any of the offences) concerned under section 130 of the Powers of Criminal Courts (Sentencing) Act 2000 or Chapter 2 of Part 7 of the Sentencing Code (compensation orders);
+**reasoning** = The case law discusses the judge's consideration of various factors when determining the sentence, which aligns with the legislative requirement in section 19(7) to consider specific factors when determining the just amount for recovery.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/1808#para_84
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/284
+**model** = deepseek
+**case_law_excerpt** = Thus exact quantification of the shortfall, even if that were feasible at that stage, as though some local plan process was involved, is not necessarily called for: nor did Mr Hill QC so argue. An evaluation of some "broad magnitude" (in the phrase of Lindblom LJ in his judgment) may for this purpose be legitimate. But, as I see it, at least some assessment of the extent of the shortfall should ordinarily be made; for without it the overall weighing process will be undermined.
+**legislation_excerpt** = the validity of— (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (b) a simplified planning zone scheme or an alteration of such a scheme, whether before or after the adoption or approval of the scheme or alteration; or (c) an order under any provision of Part X except section 251(1), whether before or after the order has been made; or (d) an order under section 277, whether before or after the order has been made; or (e) any such order as is mentioned in subsection (2), whether before or after it has been confirmed; or (f) any such action on the part of the Secretary of State or the Welsh Ministers as is mentioned in subsection (3), or— (g) a relevant costs order made in connection with an order mentioned in subsection (2) or an action mentioned in subsection (3), shall not be questioned in any legal proceedings whatsoever.
+**reasoning** = The case law discusses the necessity of assessing the extent of a shortfall in a development plan, which relates to the validity and challenge of such plans under the legislation. The legislation outlines what cannot be questioned in legal proceedings, aligning with the case's focus on the limits of challenging development plans based on shortfall assessments.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2007/826#para_24
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/Eliz2/2-3/56/section/section-52
+**model** = openai
+**case_law_excerpt** = He would have given that advice precisely because if the lease had been contracted out or if there had been no guarantee at the end of the term, Vitamol could have pointed to the full repairing covenant of the sub-lease and said that Pacific, as a continuing tenant under Part II of the 1954 Act, was liable under full repairing covenants and therefore there was no diminution in the value of the reversion.
+**legislation_excerpt** = the procedure under that section for discharging or modifying covenants affecting freeholds shall extend to leaseholds held under a term of more than seventy years
+**reasoning** = The case law discusses the implications of a full repairing covenant in the context of leasehold properties, which relates to the general principles of covenants in property law, as referenced in the Law of Property Act 1925, specifically pertaining to the extent of covenants on leaseholds.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2012/51#para_40
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1971/77/section/3A
+**model** = llama
+**case_law_excerpt** = The Act requires the Secretary of State to lay before Parliament any changes in the rules as to the practice to be followed (see section 3(2) ).
+**legislation_excerpt** = An order under this section must be made by statutory instrument. (13) But no such order is to be made unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
+**reasoning** = The case law excerpt refers to the requirement for the Secretary of State to lay changes in rules before Parliament, which is related to the statutory provision in section 3A(12) and (13) that an order under this section must be laid before Parliament and approved by a resolution of each House.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/comm/2006/134#para_26
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/23/section/56
+**model** = openai
+**case_law_excerpt** = Consequently the Charterers’ counterclaim fails.
+**legislation_excerpt** = The tribunal may refuse to deliver an award to the parties except upon full payment of the fees and expenses of the arbitrators.
+**reasoning** = The case discusses the outcome of the charterers' counterclaim and the circumstances under which the tribunal operates concerning non-payment of fees, indicating a framework for addressing disputes within arbitration processes.
+**IS_Extracton_Correct (YES/No)** = NO
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2012/1033#para_36
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1992/14/section/82
+**model** = openai
+**case_law_excerpt** = the Tribunal’s approach involves no error of law. The conclusions which it reached on the jurisdiction issue are, as a matter of law, the only conclusions to which the Tribunal could have come
+**legislation_excerpt** = The Secretary of State may by regulations make provision for the procedure to be followed in appeals under this Part to the First-tier Tribunal for Scotland
+**reasoning** = The judgment discusses the Tribunal's jurisdiction and procedural correctness, aligning with the legislative intent to establish the framework for appeal procedures under section 82, emphasizing that no jurisdictional error occurred in the Tribunal's conclusions.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2022/740#para_63
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2006/46/section/790V
+**model** = deepseek
+**case_law_excerpt** = the court may either refuse the application or may order rectification of the register and payment by the company of any damages sustained by any party aggrieved.
+**legislation_excerpt** = The court may either refuse the application or may order rectification of the register and payment by the company of any damages sustained by any party aggrieved.
+**reasoning** = The case law excerpt directly quotes and applies the legislative provision from section 790V, specifically the court's discretion to refuse the application or order rectification and payment of damages.
+**IS_Extracton_Correct (YES/No)** = NO
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/1808#para_51
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/1990/8/section/schedule-13-paragraph-6-w
+**model** = openai
+**case_law_excerpt** = the weight given to the benefits of new housing development in an area where a shortfall in housing land supply has arisen is likely to depend on factors such as the broad magnitude of the shortfall, how long it is likely to persist, what the local planning authority is doing to reduce it, and how much of it the development will meet.
+**legislation_excerpt** = have resolved to take action to safeguard it for development for the purposes of relevant public functions
+**reasoning** = The case law discusses the discretionary judgment that local planning authorities must exercise in weighing benefits of new housing against the shortfall in land supply, connecting to the authority's responsibilities outlined in the legislation regarding safeguarding land for development purposes.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2007/1175#para_30
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1981/54/section/35A
+**model** = openai
+**case_law_excerpt** = The judge, having found, in a lengthy and careful judgment, that there was liability, went on to answer both quantum questions in the affirmative.
+**legislation_excerpt** = there may be included in any sum for which judgment is given simple interest, at such rate as the court thinks fit or as rules of court may provide, on all or any part of the debt or damages in respect of which judgment is given
+**reasoning** = The court discusses liability and quantum, suggesting that if the judgment includes damages, considerations such as interest outlined in section 35A apply here, indicating a direct link between the assessment of damages and the remedies under this legislation.
+**IS_Extracton_Correct (YES/No)** = No
+**IS_Reasoning_Correct (YES/No)** = No
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2012/28#para_36
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1998/42/section/7
+**model** = openai
+**case_law_excerpt** = In the recent case of R (Risk Management) v Brent LBC [2011] UKSC 7, the Supreme Court held that 'public contract' in the PCR was to be interpreted as incorporating the exemption read into Directive 18 by the ECJ and known (after the case in which it was so determined) as the Teckal exemption.
+**legislation_excerpt** = A person who claims that a public authority has acted (or proposes to act) in a way which is made unlawful by section 6(1) may— (a) bring proceedings against the authority under this Act in the appropriate court or tribunal
+**reasoning** = The paragraph discusses the interpretation of public contracts within the context of legal proceedings involving public authorities, linking the Supreme Court's decision to the rights and remedies available under section 7 concerning claims against public authorities.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2017/2063#para_27
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1988/33/section/25
+**model** = openai
+**case_law_excerpt** = ... it will be especially where the case stands on the cusp of custody that the balance is likely to be a fine one. In that kind of case the interference with the family life of one or more entirely innocent children can sometimes tip the scales and means that a custodial sentence otherwise proportionate may become disproportionate.
+**legislation_excerpt** = the duty of the court to have regard— (a) to the nature and source of the document containing the statement and to whether or not, having regard to its nature and source and to any other circumstances that appear to the court to be relevant, it is likely that the document is authentic
+**reasoning** = The case discusses the weighing of factors around custody and family life, connecting to the duty of the court to consider various circumstances that may affect the balance of justice in sentencing, as described in section 25(2).
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/pat/2015/1094#para_42
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1981/54/section/87
+**model** = openai
+**case_law_excerpt** = If there are proceedings for infringement of the Patent, then they will both be parties to those proceedings.
+**legislation_excerpt** = Rules of court may make provision for regulating the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings in the High Court or in the civil division of the Court of Appeal
+**reasoning** = The case law excerpt discusses the impending proceedings regarding patent infringement, and the legislation outlines the rules of court that govern how such proceedings and the related evidence will be handled, indicating that the parties involved must comply with established court procedures.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2017/769#para_317
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/Geo5/15-16/19/section/section-55
+**model** = openai
+**case_law_excerpt** = the premise for the risks that are said to flow from such animosity is, therefore, lacking
+**legislation_excerpt** = the fact that the order has been so made shall be conclusive evidence of the matter so alleged in any court upon any question as to the validity of the order
+**reasoning** = The case discusses the reliability of the evidence presented regarding relationships affected by the will, reflecting on the implications of certain allegations, which aligns with the provisions on how orders in such cases are treated as conclusive evidence of the matters they address.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2022/740#para_53
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2006/46/section/901
+**model** = openai
+**case_law_excerpt** = In the case of a restructuring plan where an order is sought under section 901 C(4), that will be at the convening stage.
+**legislation_excerpt** = This section applies— (a) to any order under section 899 (order sanctioning compromise or arrangement), and (b) to any order under section 900 (order facilitating reconstruction or amalgamation) that alters the company's constitution.
+**reasoning** = The paragraph from case law explicitly references section 901 and its application at different stages of restructuring plans, which aligns directly with the legislative provisions regarding orders related to a company's compromise or arrangement.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2005/2363#para_48
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1980/66/section/118
+**model** = deepseek
+**case_law_excerpt** = most of the paths listed under the heading of 'diversions' are just that, diversions of existing footpaths which could, and upon a proper interpretation of section 118 should, have been effected by the making of an order or orders under section 119.
+**legislation_excerpt** = the council may by order made by them and submitted to and confirmed by the Secretary of State, or confirmed as an unopposed order, extinguish the public right of way over the path or way.
+**reasoning** = The case law discusses the proper interpretation and application of section 118 regarding the stopping up of footpaths and the appropriate orders to be made. The legislation excerpt outlines the process for making such orders, highlighting the connection between the case's discussion and the legislative procedure.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2019/3339#para_16
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/Geo5/15-16/19/section/section-36
+**model** = deepseek
+**case_law_excerpt** = The court has power to appoint a new trustee under section 41(1) of the Trustee Act 1925 and also under its inherent jurisdiction. Mr Collings QC pursued the claim on the basis that he was seeking to invoke the court’s inherent jurisdiction on the basis that the power under section 41(1) is limited by section 58(1) of the Trustee Act.
+**legislation_excerpt** = Where a trustee, either original or substituted, and whether appointed by a court or otherwise, is dead, or remains out of the United Kingdom for more than twelve months, or desires to be discharged from all or any of the trusts or powers reposed in or conferred on him, or refuses or is unfit to act therein, or is incapable of acting therein, or is an infant, then, subject to the restrictions imposed by this Act on the number of trustees,—
+**reasoning** = The case law discusses the court's power to appoint a new trustee under section 41(1) and the limitations under section 58(1). The legislation excerpt outlines the conditions under which a trustee can be replaced, which directly relates to the court's authority in appointing new trustees as discussed in the case law.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2019/281#para_68
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1971/77/section/14
+**model** = deepseek
+**case_law_excerpt** = For those reasons, we grant leave to each of the applicants to appeal against his conviction.
+**legislation_excerpt** = Subject to the provisions of this Part of this Act, a person who has a limited leave under this Act to enter or remain in the United Kingdom may appeal to an adjudicator against any variation of the leave (whether as regards duration or conditions), or against any refusal to vary it;
+**reasoning** = The case law discusses the granting of leave to appeal against a conviction, which aligns with the legislative provision allowing appeals against variations or refusals of leave under section 14.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2006/140#para_32
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/52/section/195A
+**model** = openai
+**case_law_excerpt** = this is not a relevant consideration under s.189, except – and perhaps importantly - to the extent that a judgment has to be made about the dependability and prognosis of the applicant’s abstinence
+**legislation_excerpt** = the local housing authority— (a) is satisfied that the applicant is homeless and eligible for assistance, and (b) is not satisfied that the applicant became homeless intentionally
+**reasoning** = The case law discusses relevant considerations under section 189 concerning the applicant's situation, specifically about dependability and abstinence, which connects to the obligations of the local housing authority in assessing homelessness under section 195A.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2007/1175#para_41
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1981/54/section/59
+**model** = openai
+**case_law_excerpt** = the judge’s findings were to the contrary, and he consciously directed himself on the basis that the section 51 jurisdiction could operate even in the absence of any impropriety
+**legislation_excerpt** = Any judgment of a court of the criminal division of the Court of Appeal on any question shall, except where the judge presiding over the court states that in his opinion the question is one of law on which it is convenient that separate judgments should be pronounced by members of the court, be pronounced by the judge presiding over the court
+**reasoning** = The paragraph discusses the judge's findings and decision-making process regarding the application of section 51 jurisdiction, relating to the standard expectations of judgments pronounced by a court as per section 59. It highlights the judge's ability to operate within that jurisdiction regardless of impropriety, linking closely to judicial decision-making and jurisdictional authority.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2024/16#para_61
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1970/9/section/43A
+**model** = openai
+**case_law_excerpt** = There is nothing in s.124 FA 2008 that makes clear that it authorises a provision which has the effect of making the decision maker the effective gatekeeper of appeals to the FTT in the event of a late challenge
+**legislation_excerpt** = The provisions of this Act relating to appeals against decisions on claims shall apply with any necessary modifications to a decision on the revocation or variation of a claim by virtue of subsection (2) above
+**reasoning** = The paragraph discusses the lack of clarity in s.124 FA 2008 regarding the authority over appeals, which relates to the procedures outlined in section 43A regarding the handling of claims and appeals, emphasizing the contextual relationship between decision-making and appeals within the tax framework.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/qb/2011/179#para_20
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2003/44/section/36
+**model** = deepseek
+**case_law_excerpt** = If a jury properly directed could find that what is said to be a report within the meaning of the 1996 Act is unfair, or that it has been adopted by Mr Boyce, then I must leave the defence of statutory qualified privilege to the jury.
+**legislation_excerpt** = The judge in a trial before a judge and jury— (a) may direct that the jury be given a copy of any defence statement, and (b) if he does so, may direct that it be edited so as not to include references to matters evidence of which would be inadmissible.
+**reasoning** = The case law discusses the role of the jury in determining the fairness of a report and the adoption of the defence of statutory qualified privilege. The legislation provides the framework for how defence statements are handled in court, including the judge's discretion to provide copies to the jury and edit them.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2018/162#para_36
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2002/29/section/19
+**model** = openai
+**case_law_excerpt** = the appellant continued to assert a right to possession of the Land right up to the hearing of CIL’s application for a possession order in September 2014
+**legislation_excerpt** = If this section applies the court must proceed under section 6
+**reasoning** = The case law indicates the appellant's assertion of rights up to a specific court application regarding possession, which parallels the legal framework governing reassessment and consideration of rights and possession in the context of court proceedings under this section.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/comm/2018/330#para_11
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/23/section/19
+**model** = openai
+**case_law_excerpt** = The Arbitrators answered the preliminary issue in the affirmative: on the basis of the evidence before them, JSG had authorised HRS to conclude the guarantee through the following chain: “...The charter was concluded through the medium of HRS on behalf of JSG, following the instructions given by Shagang.” Accordingly there was a valid arbitration agreement between the Owners and JSG.
+**legislation_excerpt** = the court shall have due regard to any agreement of the parties as to the qualifications required of the arbitrators
+**reasoning** = This paragraph discusses the validity of the arbitration agreement, pointing out the importance of the parties' consent and instructions in the arbitration process, which aligns with the court's obligation under section 19 to regard any agreements regarding qualifications of arbitrators.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2003/1578#para_78
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1980/66/section/33
+**model** = deepseek
+**case_law_excerpt** = Under English Law the focus is not upon how matters would have appeared to the person seeking to acquire the right by long usage, but upon "how the matter would have appeared to the owner of the land" (p.352H-353A).
+**legislation_excerpt** = The person entitled to the remainder or reversion immediately expectant upon the determination of a tenancy for life, or pour autre vie, in land shall have the like remedies by action for trespass or an injunction to prevent the acquisition by the public of a right of way over that land as if he were in possession thereof.
+**reasoning** = The case law paragraph discusses the legal focus on the perspective of the landowner in matters of rights acquisition, which aligns with the legislative provision in section 33 that protects the rights of reversioners by granting them remedies as if they were in possession.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2012/1395#para_102
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2006/46/section/589
+**model** = openai
+**case_law_excerpt** = That is what limited liability is about.
+**legislation_excerpt** = A person who— (a) is subject to any such liability to a company in relation to payment in respect of shares in the company, or (b) is subject to any such liability to a company by virtue of an undertaking given to it in, or in connection with, payment for shares in the company, may apply to the court to be exempted in whole or in part from the liability.
+**reasoning** = The case discusses the concept of limited liability and how it delineates personal liability from corporate obligations, directly connecting to the provisions allowing an individual to be exempted from certain liabilities under section 589.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewfc/2016/25#para_41
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2002/38/section/89
+**model** = openai
+**case_law_excerpt** = The upshot of these cases leaves no doubt that English Courts can make adoption orders in relation to foreign national children, and in achieving that objective can dispense with the consent of foreign national parents.
+**legislation_excerpt** = The High Court may, on an application under this subsection, by order annul a Convention adoption or Convention adoption order on the ground that the adoption is contrary to public policy.
+**reasoning** = The case law discusses the authority of English Courts to make adoption orders concerning foreign national children and notes the ability to bypass parental consent, which relates to the High Court's powers under section 89 regarding the validity of Convention adoptions.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/qb/2020/718#para_51
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1984/27/section/88
+**model** = openai
+**case_law_excerpt** = The braking that he did apply was neither heavy nor emergency in nature. I find that he misunderstood the effect of the ABS and that this would have been no bar to firm or emergency braking as PC Andrews and the experts explained.
+**legislation_excerpt** = Where it appears to the relevant authority desirable to do so in the interests of safety or for the purpose of facilitating the movement of traffic, the authority may, after giving public notice of the intention to do so, by order prohibit, for a period not exceeding 18 months, the driving of motor vehicles—
+**reasoning** = The case law discusses the appropriateness of braking in a traffic situation, weighing safety against the driver's actions, which relates to the authority's ability to implement temporary speed limits for the sake of safety as outlined in section 88.
+**IS_Extracton_Correct (YES/No)** = NO
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/comm/2005/2115#para_35
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/23/section/12
+**model** = openai
+**case_law_excerpt** = any claims between Claimants other than ET Plus against Eurotunnel would fall outside the arbitration
+**legislation_excerpt** = the court may by order extend the time for taking that step
+**reasoning** = The case law addresses the jurisdiction of the arbitration and the nature of claims that fall outside it, referencing the legal framework governing arbitration agreements and the ability of courts to extend timelines for initiating arbitral proceedings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2003/1321#para_35
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1998/37/section/66BA
+**model** = openai
+**case_law_excerpt** = The family of the offenders and in particular any children of the offender, have rights under Article 8 as well. The need to safeguard children is particularly important.
+**legislation_excerpt** = Before deciding what conditions to attach to a youth conditional caution, a relevant prosecutor or the authorised person must make reasonable efforts to obtain the views of the victim
+**reasoning** = The case law emphasizes the importance of safeguarding children and family rights in the decision-making process related to offenders, which aligns with the statutory requirement for prosecutors to consider the views of victims, thereby ensuring the impact of the offender's actions on their family is taken into account.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ukftt/tc/2024/139#para_38
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1970/9/section/56
+**model** = openai
+**case_law_excerpt** = The conclusion that there had been a loss of tax to the Crown over a 9-year period is based on the following facts
+**legislation_excerpt** = Tax is payable or repayable in accordance with the determination of the court or tribunal on the initial appeal, despite the further appeal having been made.
+**reasoning** = The case law discusses the assessment of tax loss, which relates to the provisions in section 56 regarding the handling of tax disputes upon appeal, indicating how taxes are assessed and potential repayments or charges as determined by tribunal rulings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2003/1321#para_1
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1998/37/section/121
+**model** = openai
+**case_law_excerpt** = it is contended that any interference is justified in Article 8(2) as being 'necessary in a democratic society in the interests of … the prevention of . . . crime . . . or for the protection of the rights and freedoms of others'
+**legislation_excerpt** = This Act may be cited as the Crime and Disorder Act 1998
+**reasoning** = The case discusses a police initiative related to crime and its justification under Article 8, linking back to the Crime and Disorder Act as the legal framework governing such interventions aimed at crime prevention.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2020/2624#para_109
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2006/46/section/260
+**model** = deepseek
+**case_law_excerpt** = The prejudice was caused by the breach of duty of the respondents as directors of the Company. First, there was a simple breach of duty by reason of the respondents’ misappropriation of the Company’s assets.
+**legislation_excerpt** = involving negligence, default, breach of duty or breach of trust by a director of the company.
+**reasoning** = The case law discusses a breach of duty by directors through misappropriation of assets, which directly relates to the legislative provision allowing derivative claims for breaches of duty by directors.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/fam/2014/4643#para_64
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1998/42/section/7A
+**model** = openai
+**case_law_excerpt** = Dr Hughes can find no evidence that she was suffering from mania or even a mixed affected state
+**legislation_excerpt** = the likely impact of the proceedings on the mental health of any witness or potential witness who is (or, at the time of the events to which the proceedings relate, was) a member of Her Majesty's forces
+**reasoning** = The case law discusses the mental health assessment of the individual in question, which relates to the consideration of how proceedings impact mental health as outlined in the legislation, despite the differing contexts of the case and the statutory provisions.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2024/560#para_123
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1978/47/section/7
+**model** = openai
+**case_law_excerpt** = PD 7A includes the saving provision “unless it is inappropriate to do so” which provides some scope for not doing so in an appropriate case.
+**legislation_excerpt** = Nothing in this Act shall affect any case where the debt in question became due or (as the case may be) the damage in question occurred before the date on which it comes into force.
+**reasoning** = The case law discusses procedural rules regarding the naming of partners in claims, mentioning provisions that allow for flexibility and exceptions which aligns with the saving provision in section 7 that retains rights from before the Act's commencement, allowing for some cases to be exempt from the general rule.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2015/1189#para_7
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1988/4/section/17
+**model** = openai
+**case_law_excerpt** = The issues now raised relate to the inspector’s approach to the statutory duty under section 17 A of the 1988 Act
+**legislation_excerpt** = The Authority shall make arrangements for the proper administration of its financial affairs and shall secure that one of its officers has responsibility for the administration of those affairs
+**reasoning** = The case law raises the inspector's approach to statutory duties under a specific section of the 1988 Act, connecting to the responsibilities laid out in the relevant legislation regarding the authority's duty to manage its affairs effectively.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2019/2233#para_27
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2002/41/section/117C
+**model** = openai
+**case_law_excerpt** = if Mr Mendes can establish that he had, as a matter of fact, resided in the UK for a continuous period of five years and therefore had acquired a right to permanent residence, then a decision by the Secretary of State to remove him could only be justified on 'serious grounds of public policy and public security', a much higher test that the Secretary of State would not be able to meet in this case
+**legislation_excerpt** = the public interest requires C's deportation unless Exception 1 or Exception 2 applies
+**reasoning** = The case law discusses Mr Mendes's potential right to remain in the UK based on his residence, which relates to the exceptions outlined in section 117C concerning deportation where certain conditions affect the public interest.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2024/560#para_139
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1978/47/section/7
+**model** = openai
+**case_law_excerpt** = Any attempt to shoehorn into this claim an additional claim against Mrs Wallis personally in relation to the contents of the Containers post-dating Mr Wallis’ death would appear to me to be too late.
+**legislation_excerpt** = Nothing in this Act shall affect any case where the debt in question became due or (as the case may be) the damage in question occurred before the date on which it comes into force.
+**reasoning** = The case law discusses the timing and relevance of claims in relation to events occurring after a specific date, which aligns with the legislative provision that stipulates that the act does not affect cases where the relevant events occurred before its commencement.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/comm/2015/2748#para_36
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1981/54/section/40A
+**model** = openai
+**case_law_excerpt** = a defendant is entitled to defend itself and, if necessary, to spend the frozen funds, which are after all its own money, on legal advice and representation in order to do so
+**legislation_excerpt** = it may, subject to the provisions of this section, deduct from the relevant debt or debts an amount not exceeding the prescribed sum towards its administrative and clerical expenses in complying with the order
+**reasoning** = The case law emphasizes the principle of a defendant's right to use its own funds for legal expenses, which corresponds to the provision regarding permissible deductions related to compliance with a court order, highlighting the concepts of financial management in the context of legal proceedings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2015/1189#para_21
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/61QC
+**model** = openai
+**case_law_excerpt** = The natural beauty of area LCA 0 is protected by its inclusion within the designated area.
+**legislation_excerpt** = An “ excluded area ” means— (a) a National Park or the Broads
+**reasoning** = The case law discusses the statutory designation of areas within the Broads and emphasizes that such protection extends to all areas within the designated region, linking it to the statutory definitions provided in section 61QC regarding protected areas such as the Broads.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/fam/2018/3795#para_4
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1989/41/section/12
+**model** = deepseek
+**case_law_excerpt** = On 19 January 2018, a Section 20 agreement was reached that A should live with the paternal grandparents, whilst the Local Authority undertook assessments and the child has been placed with the paternal grandparents since January 2018. On 16 February 2018, an Interim Care Order was made in respect of A.
+**legislation_excerpt** = Where the court makes a child arrangements order and a person who is not a parent or guardian of the child concerned is named in the order as a person with whom the child is to live, that person shall have parental responsibility for the child while the order remains in force so far as providing for the child to live with that person.
+**reasoning** = The case law describes the placement of the child with paternal grandparents under a Section 20 agreement and an Interim Care Order, which aligns with the legislative provisions regarding child arrangements orders and the granting of parental responsibility to non-parents.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2006/529#para_61
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1999/22/section/98
+**model** = openai
+**case_law_excerpt** = there will be a costs order against Mr and Mrs W under section 11(1) of the Access to Justice Act 1999 in relation to their unsuccessful application for permission to appeal the best interests question
+**legislation_excerpt** = A court may not order any resident magistrate, justice of the peace or clerk of petty sessions to pay costs in any proceedings in respect of any act or omission of his in the execution (or purported execution) of his duty
+**reasoning** = The case law discusses the costs order issued against the Ws in accordance with the Access to Justice Act 1999, while the legislation excerpt provides an immunity against costs for magistrates and clerks, illustrating a legal framework governing costs in judicial proceedings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/56#para_86
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/131
+**model** = openai
+**case_law_excerpt** = the assessment of proportionality in this context was for the ET; it was required to undertake (and to demonstrate that it had done so) a critical evaluation of the measure adopted by the first respondent to achieve the legitimate aims it had identified
+**legislation_excerpt** = the tribunal may, before determining the question, require a member of the panel of independent experts to prepare a report on the question
+**reasoning** = The case law discusses the Employment Tribunal's responsibility to critically evaluate the proportionality of the measures taken, which aligns with the legislation that outlines processes for assessing equal value in cases of discrimination and the tribunal's powers to gather expert opinions.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/fam/2021/1153#para_113
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2002/38/section/90
+**model** = openai
+**case_law_excerpt** = In considering the application the court is required to have consideration to the matters set out in s51 A (5), namely, any risk there might be of the proposed application disrupting the child’s life to such an extent that he or she would be harmed by it
+**legislation_excerpt** = Any application for an order under section 89 or a decision under subsection (2)(b) or (3) of that section must be made in the prescribed manner and within any prescribed period
+**reasoning** = The court discusses the requirements of considering potential disruption and harm to the child under s51A of the ACA 2002 while referencing the procedural framework set out in section 89, indicating the importance of adhering to the proper application process.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2015/515#para_93
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1981/54/section/87
+**model** = openai
+**case_law_excerpt** = it is logically necessary first to identify the content of the right to interest now recognised by the ECJ. It is only then that one can answer the question of whether the UK’s procedural rules in the form of section 78 VATA give effect to that right in a way which does not violate the principle of effectiveness.
+**legislation_excerpt** = Rules of court may make provision for regulating the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings in the High Court or in the civil division of the Court of Appeal
+**reasoning** = The case law paragraph discusses the need to align UK procedural rules with EU law principles, specifically addressing how UK rules can enable the recognition of rights, which relates to the ability of rules of court to regulate factual evidence and proceedings outlined in section 87.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2010/1951#para_35
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/74C
+**model** = deepseek
+**case_law_excerpt** = the planning conditions had been satisfied although we were waiting for formal written approval
+**legislation_excerpt** = the person who made the application has agreed in writing to the terms of the determination.
+**reasoning** = The case discusses the satisfaction of planning conditions and the process of obtaining formal approval, which aligns with the legislative provisions regarding modifications to conditions and the requirement for written agreements.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/crim/2015/1256#para_7
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1995/21/section/51
+**model** = openai
+**case_law_excerpt** = Endurance did not have a towing endorsement. The appellant further admitted that Endurance was not properly manned. The judge found that there ought to have been another hand.
+**legislation_excerpt** = if the superintendent or proper officer has informed the master of that opinion, the ship shall not go to sea; and (b) if the ship is in the United Kingdom, it may be detained.
+**reasoning** = The case law describes the inadequacies of the vessel, Endurance, including lack of proper manning and safety equipment, which are relevant to the regulations concerning crew safety and knowledge as outlined in section 51 that requires proper arrangements for orders and conditions to safely operate a vessel.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/qb/2015/926#para_50
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1982/27/section/33
+**model** = deepseek
+**case_law_excerpt** = the mere fact that s.317(1) is defined by reference to the New Zealand courts does not mean that the New Zealand legislature intended that foreign courts should not be able to apply it, as Mr Goddard accepted. I cannot see what purpose would have been served in allowing someone with cover under the Scheme in New Zealand, and a technical right to sue abroad (as a result of happenstance) simply to bypass the statutory Scheme. No evidence that this was the intention of the legislature has been produced, and no compelling basis for inferring such an intention on the part of the New Zealand legislature has been advanced. In reaching that conclusion I am supported by the decision in Rimini v Manning Management and Marketing Pty Ltd [2003] 3 NZLR 22 where in analogous circumstances Randerson J held that the statutory purpose of a similar provision was not to restrict the application of the relevant Act to New Zealand courts, it remaining open to the Australian courts to apply it in a case where performance of the contract took place in Australia, and though New Zealand law was the applicable law, the claim otherwise had no connection with New Zealand. Randerson J held that where a statute does not expressly or by clear implication exclude its application by foreign courts, it must be open to foreign courts to apply it.
+**legislation_excerpt** = For the purposes of determining whether a judgment given by a court of an overseas country should be recognised or enforced in England and Wales or Northern Ireland, the person against whom the judgment was given shall not be regarded as having submitted to the jurisdiction of the court by reason only of the fact that he appeared (conditionally or otherwise) in the proceedings for all or any one or more of the following purposes, namely—
+**reasoning** = The case law discusses the application of section 317(1) in the context of foreign courts, referencing the New Zealand legislature's intent and the decision in Rimini v Manning. The legislation excerpt outlines the conditions under which a person is not considered to have submitted to the jurisdiction of an overseas court, aligning with the case's discussion on the application of foreign laws.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_144
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/80N
+**model** = deepseek
+**case_law_excerpt** = the Tribunal has failed to take into account the circumstances in which the claimant’s offer to work longer than his contract was made (the Covid lockdown), the fact that the offer was to work only a short period beyond his contractual notice (rather than three extra months as in Cockram ) and that in the end he worked less rather than more than his contractual notice. Without consideration of all these plainly relevant factors, the Tribunal’s conclusion on affirmation was unsafe and also in error of law.
+**legislation_excerpt** = The tribunal, if satisfied that an employer has acted as described in subsection (1)(a) or (b)— (a) must make a declaration to that effect, and (b) may award compensation to be paid by the employer to the employee. (5) The amount of any compensation must be the amount the tribunal considers just and equitable in all the circumstances, including— (a) the employer’s behaviour, and (b) any consequential loss sustained by the employee.
+**reasoning** = The case law excerpt discusses the failure of the Tribunal to consider relevant circumstances, which directly relates to the legislative requirement in section 80N(5) to consider all circumstances when determining compensation.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2020/1522#para_11
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2003/41/section/15
+**model** = openai
+**case_law_excerpt** = the typical impact that can be expected in the context of extradition, to face a significant sentence abroad, of the parent of a child as young as 2½
+**legislation_excerpt** = A person’s extradition to a category 1 territory is barred by reason of his age if (and only if) it would be conclusively presumed because of his age that he could not be guilty of the extradition offence
+**reasoning** = The case law discusses the possible impact of extradition on a young child, which relates directly to the legislation's consideration of an individual's age as a factor in extradition proceedings, though it notes that the extradition will not be barred simply due to age without a conclusive presumption of innocence regarding the offence.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewfc/2014/9#para_44
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2013/22/section/35
+**model** = openai
+**case_law_excerpt** = If District Judge Aitken was justified in coming to her findings of primary fact, and that is the assumption on which this ground of appeal falls to be decided, then it was clearly open to her to conclude as she did in relation to threshold.
+**legislation_excerpt** = The court must have regard to the principle that exemplary damages must not usually be awarded if, at any time before the decision comes to be made, the defendant has been convicted of an offence involving the conduct complained of.
+**reasoning** = The paragraph discusses the appropriateness of the District Judge's findings based on the evidence presented, while the legislation outlines considerations the court must take into account when determining exemplary damages, reflecting the evidential threshold and its implications in the decision-making process.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2009/2348#para_66
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1998/29/section/34
+**model** = openai
+**case_law_excerpt** = But such arguments cannot justify the Commissioner, the Tribunal or this Court in departing from the language of the Act, and constructing a separate and different test, which cannot truly be construed from ‘the words Parliament used.’
+**legislation_excerpt** = Information available to the public by or under enactment
+**reasoning** = The case law emphasizes adherence to the precise wording of the Act, which aligns with the principle expressed in section 34 regarding information available to the public under legal provisions, underlining the importance of following legislative language.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2010/938#para_36
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1970/9/section/59DA
+**model** = openai
+**case_law_excerpt** = the employer is liable to HMRC for tax without such subtraction
+**legislation_excerpt** = The company may, by notice given to an officer of the Board, claim repayment of the excess.
+**reasoning** = The case law discusses the employer's liability to HMRC for unsubstantiated tax deductions, while the legislation outlines a company's right to claim repayment for excess tax paid. The connection lies in addressing tax liabilities and potential claims.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/qb/2011/4#para_69
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/1984/60/section/schedule-4-part-II
+**model** = deepseek
+**case_law_excerpt** = If and insofar as Mrs. Graham seeks to complain about harassment of her by WMC or TVP otherwise than in relation to the investigation of the harassment of Acting Inspector Edwards and her subsequent arrest and detention, nothing was particularised in the Particulars of Claim or covered by her evidence, save a vague suggestion that recently her driving had attracted the notice of TVP, and she had been accused of motoring offences. There was no precise evidence of any driving offences which may have been alleged against her, and no evidence at all that any such alleged offences had not actually been committed by her. This claim fails, insofar as it was pursued.
+**legislation_excerpt** = for the purposes of any criminal, civil or disciplinary proceedings.
+**reasoning** = The case discusses the failure of Mrs. Graham's harassment claim due to lack of specific evidence, which ties into the legal standards for evidence in proceedings as outlined in the legislation.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/qb/2022/977#para_42
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2015/15/section/schedule-5-part-3
+**model** = deepseek
+**case_law_excerpt** = A contractual power which is exercised in a manner which is irrational, capricious, or perverse will not have been exercised lawfully: Braganza v BP Shipping Limited [2015] WLR 1661, SC, submitted Mr James.
+**legislation_excerpt** = The amount of the penalty must be— (a) a fixed amount, (b) an amount calculated by reference to a daily rate, or (c) a combination of a fixed amount and an amount calculated by reference to a daily rate.
+**reasoning** = The case law excerpt discusses the lawful exercise of contractual powers, aligning with the legislative provisions on penalty calculations for non-compliance, emphasizing the importance of lawful and rational authority exercise.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2012/1033#para_36
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/Geo5/15-16/20/section/section-204
+**model** = openai
+**case_law_excerpt** = the Tribunal’s approach involves no error of law. The conclusions which it reached on the jurisdiction issue are, as a matter of law, the only conclusions to which the Tribunal could have come.
+**legislation_excerpt** = An order of the court under any statutory or other jurisdiction shall not, as against a purchaser, be invalidated on the ground of want of jurisdiction
+**reasoning** = The case law discusses the tribunal's jurisdiction and the legal conclusions reached without error, paralleling the legislation that affirms the validity of court orders despite perceived jurisdictional issues, strengthening the notion of jurisdictional integrity.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2020/2579#para_20
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/70D
+**model** = openai
+**case_law_excerpt** = But he submits that the Council failed to meet the requirement to assess the need for the advance works, as an essential component of the balance which they had to strike in order to determine whether there were “exceptional circumstances” and the development was in the public interest to justify granting the permission.
+**legislation_excerpt** = A local planning authority in England may decline to determine an application for planning permission for the development of any land if— (a) the development is development of a prescribed description
+**reasoning** = The case law critiques the Council's assessment process regarding exceptional circumstances in planning applications, while the legislation provides the authority's power to decline applications under certain circumstances, highlighting the importance of proper assessment in planning decisions.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2006/380#para_46
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1994/26/section/72
+**model** = openai
+**case_law_excerpt** = this gives further support to the idea that Article 81 is directly relevant to the exercise, or the enforcement, of trade mark rights in a situation where such exercise may be a way of ensuring the partitioning of the market.
+**legislation_excerpt** = the registration of a person as proprietor of a trade mark shall be prima facie evidence of the validity of the original registration
+**reasoning** = The case law reflects on the enforcement of trademark rights, suggesting that proper registration (as established in section 72) provides a foundation for the legal recognition and validity of those rights, tying back to the enforcement mechanisms in Article 81.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2024/16#para_45
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1998/14/section/64
+**model** = openai
+**case_law_excerpt** = Hale LJ expressly rejected an argument that a right of access to a tribunal was not in the same category as a right of access to the court, saying at p.458: “In this day and age a right of access to a tribunal or other adjudicative mechanism established by the state is just as important and fundamental as a right of access to the ordinary courts.”
+**legislation_excerpt** = No appeal shall lie in relation to a personal liability notice except as provided by this section.
+**reasoning** = The case law emphasizes the importance of access to a tribunal, reflecting on fundamental rights and adjudication, which links to the specific procedural limits on appeals as per section 64, reinforcing the critical nature of such access despite constraints.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2014/935#para_25
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2006/46/section/1157
+**model** = openai
+**case_law_excerpt** = I conclude therefore that Mr Scheklanov was not Mr Lazurenko’s principal and that Mr Lazurenko has been repeatedly lying in his evidence to that effect.
+**legislation_excerpt** = the court may relieve him, either wholly or in part, from his liability on such terms as it thinks fit
+**reasoning** = The judge's conclusion about Mr Lazurenko's dishonesty regarding his principal has implications for liability and credibility, which ties back to the court's power under section 1157 to excuse liability for an officer acting honestly, relating to principles of liability and honesty in legal testimony.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/kb/2023/965#para_74
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/319A
+**model** = openai
+**case_law_excerpt** = the Claimant has fully considered whether applying for an injunction would be a proportionate approach
+**legislation_excerpt** = A determination under subsection (1) must provide for the proceedings to be considered in such one or more of the following ways as appear to the Secretary of State to be ... appropriate— (a) at a local inquiry; (b) at a hearing; (c) on the basis of representations in writing.
+**reasoning** = The case law references the consideration of proportionality in the context of procedural decisions, which ties into the Secretary of State's authority to determine the appropriateness of the procedure for proceedings, as outlined in section 319A.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2024/2864#para_50
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/16/section/86
+**model** = llama
+**case_law_excerpt** = I cannot accept that analysis
+**legislation_excerpt** = 86 Admissibility of statements in subsequent proceedings
+**reasoning** = There is no clear connection between the paragraph content and the section text. The paragraph discusses the importance of articulating the correct test in a legal analysis, while the section text appears to be unrelated, discussing the admissibility of statements in subsequent proceedings.
+**IS_Extracton_Correct (YES/No)** = NO
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/fam/2018/3244#para_9
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2014/6/section/51
+**model** = openai
+**case_law_excerpt** = the strong public interest in finality in litigation in conflict (potentially at least) with the strong public interest in identifying accurately those who cause serious non-accidental injuries to children
+**legislation_excerpt** = A child's parent or a young person may appeal to the First-tier Tribunal against the matters set out in subsection (2)
+**reasoning** = The case law discusses the balancing of public interests in litigation relating to child welfare and injuries, while the legislation outlines the rights of parents or young persons to appeal decisions affecting their educational needs, indicating the legal framework for contesting important findings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewfc/b/2024/40#para_17
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1989/41/section/95
+**model** = openai
+**case_law_excerpt** = An oral application was then made to adjourn the Final Hearing so that he could give evidence on another day.
+**legislation_excerpt** = the court may order the child concerned to attend such stage or stages of the proceedings as may be specified in the order
+**reasoning** = The case discusses the court's management of a hearing and the attendance of a party to give evidence, related to the court's role in ensuring attendance of relevant individuals as indicated in section 95 regarding the attendance of children at hearings.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2014/826#para_23
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2002/41/section/113
+**model** = llama
+**case_law_excerpt** = the removal of a person's nationality by the authorities of his or her home state is as a matter of law sufficiently serious ill treatment as to constitute persecution which, if done for reasons referred to in Article 1(A)(2) of the Convention relating to the Status of Refugees, entitles that person to refugee status
+**legislation_excerpt** = “ the Refugee Convention ” means the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and its Protocol
+**reasoning** = The case law discusses the interpretation and application of the Refugee Convention, specifically Article 1(A)(2), in determining what constitutes persecution and thus refugee status, which relates to the definition of 'the Refugee Convention' in section 113 of the legislation.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2017/438#para_24
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/70D
+**model** = deepseek
+**case_law_excerpt** = I conclude that it has not been shown that the two sections of track attacked in the enforcement notice were reasonably necessary for the purpose of agriculture or forestry (as the case may be) at the time the application for prior approval was made and thus (in addition to my conclusion reached in paragraph 14) they could not be development permitted either by Class A of Part 6 or by Class A of Part 7 of Schedule 1 to the GPDO. The appeals on ground (c) fail.
+**legislation_excerpt** = A local planning authority in England may decline to determine an application for planning permission for the development of any land if— (a) the development is development of a prescribed description, (b) the application is made by— (i) a person who has previously made an application for planning permission for development of land all or any part of which is in the local planning authority’s area at the time the current application is made (“ the earlier application ”), or (ii) a person who has a connection of a prescribed description with the development to which the earlier application related (“the earlier development”), (c) the earlier development was of a description prescribed under paragraph (a) , and (d) subsection (2) or (3) applies to the earlier development.
+**reasoning** = The case law discusses the determination of whether development falls under permitted categories (Part 6 or Part 7 of the GPDO) and the failure to meet the necessary criteria, which aligns with the legislative provisions in section 70D regarding the decline to determine applications based on earlier developments' status.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/ch/2023/123#para_55
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1986/45/section/22
+**model** = openai
+**case_law_excerpt** = Rule 122(1)(g) obliges the administrator to provide a statement of the expenses incurred by the administrator during the period of the report (again irrespective of whether the expenses are drawn).
+**legislation_excerpt** = the administrator shall forthwith require some or all of the persons mentioned below to make out and submit to him a statement in the prescribed form as to the affairs of the company
+**reasoning** = The case law interprets the requirement for the administrator to submit a statement regarding expenses, which is a component of the broader obligation outlined in section 22 for administrators to submit statements related to the affairs of the company.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ukftt/grc/2024/1087#para_96
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2000/36/section/43
+**model** = openai
+**case_law_excerpt** = the exemption at section 31(1) FOIA is engaged and in all the circumstances of the case, the public interest in maintaining the exemption outweighs the public interest in disclosing the information.
+**legislation_excerpt** = Information is exempt information if its disclosure under this Act would, or would be likely to, prejudice the commercial interests of any person (including the public authority holding it).
+**reasoning** = The decision applies the exemption under section 31(1) of the FOIA regarding commercial interests, emphasizing the balance between public interest and the need to protect commercial interests.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2016/2186#para_41
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/16/section/101
+**model** = llama
+**case_law_excerpt** = The 2013 Act provides for an expansion to the definition of a “police force” which does not apply to the CNC. The expanded definition does not exhaustively define the term “members of a police force”.
+**legislation_excerpt** = “ police force ” means a force maintained by a local policing body ;
+**reasoning** = The case discusses the definition of 'police force' and how it applies to the CNC, referencing the expansion of the definition in the 2013 Act and its implications for the meaning of 'members of a police force', which is defined in the legislation as a force maintained by a local policing body.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2004/430#para_10
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1990/8/section/76A
+**model** = deepseek
+**case_law_excerpt** = For the Secretary of State, Mr Forsdick reminds the court of relevant general principles: that an Inspector's decision must be read as a whole, as if by a well-informed reader who knows what are the principal controversial issues. He submits that, when the decision is read as a whole, it can be seen clearly that the Inspector was directing his attention to the particular proposal and its surroundings.
+**legislation_excerpt** = The decision of the Secretary of State on any application referred to him under this section is final.
+**reasoning** = The case law paragraph emphasizes the importance of reading the Inspector's decision comprehensively, considering the context and main issues, which aligns with the legislative provision that the Secretary of State's decision is final, highlighting the definitive nature of such decisions in planning matters.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ukftt/tc/2024/139#para_68
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1970/9/section/36
+**model** = deepseek
+**case_law_excerpt** = Section 36(1A)(b) can therefore be relied upon to extend the time limit for raising the discovery assessments for the years 2007-08 to 2013-14.
+**legislation_excerpt** = (b) attributable to a failure by the person to comply with an obligation under section 7, ...
+**reasoning** = The case law applies Section 36(1A)(b) to extend the time limit for raising discovery assessments due to the appellant's failure to comply with tax obligations, aligning with the legislative provision allowing such extensions in cases of non-compliance.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2003/135#para_18
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1976/74/section/54A
+**model** = llama
+**case_law_excerpt** = an Employment Tribunal should not be constrained to postulate a possible case which the applicant himself did not raise
+**legislation_excerpt** = 54A Burden of proof: employment tribunals
+**reasoning** = The paragraph discusses the burden of proof in employment tribunals, although it does not explicitly mention section 54A, the context suggests a connection to the burden of proof, which is the topic of section 54A.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/comm/2023/2866#para_38
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2018/13/section/60
+**model** = deepseek
+**case_law_excerpt** = Lack of foreign currency is not a force majeure event, and no explanation is offered as to why funds could not have been transferred by the Defendants into the Eco Bank account from elsewhere. Nor would the fact (as Mr Sy suggests) that its inability to trade Russian oil reduced its ability to earn foreign currency be capable of amounting to a force majeure event so far as its obligation to pay Litasco is concerned.
+**legislation_excerpt** = references to “freezing” funds are to preventing funds from being dealt with; and for the purposes of this subsection funds are “dealt with” if— (a) they are used, altered, moved, or transferred or access is allowed to them, (b) they are dealt with in any other way that would result in any change in volume, amount, location, ownership, possession, character or destination, or (c) any other change is made that would enable their use, including portfolio management.
+**reasoning** = The case discusses the inability to transfer funds and the lack of foreign currency, which relates to the legislative definition of 'freezing' funds and how funds are 'dealt with' under the Act. The reasoning connects the practical inability to transfer funds to the legal definition of what constitutes 'freezing' funds.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2017/20#para_33
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1992/52/section/180
+**model** = openai
+**case_law_excerpt** = Jet2 is obliged to negotiate about them whether they would do so or not – so long as they relate to pay, hours or holidays.
+**legislation_excerpt** = Any terms of a collective agreement which prohibit or restrict the right of workers to engage in a strike or other industrial action, or have the effect of prohibiting or restricting that right, shall not form part of any contract between a worker and the person for whom he works unless the following conditions are met.
+**reasoning** = The case law discusses the obligation of Jet2 to negotiate terms related to pay, hours, or holidays, implicitly connecting to the broader legal framework that restricts how collective agreements interact with workers' rights to engage in industrial action under section 180.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/uksc/2013/37#para_22
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1988/36/section/27
+**model** = openai
+**case_law_excerpt** = The decision to dismiss the stated case cannot be regarded as an interlocutory judgment of the kind referred to in section 40(1) (b) which is appealable only with leave
+**legislation_excerpt** = it shall be competent for them without raising any proceeding, or at any stage of any proceeding, to present to the Inner House a case (in this section referred to as a special case)
+**reasoning** = The paragraph discusses the nature of the court's decision regarding an interlocutory judgment, comparing it to the provisions in section 27 that allow parties to present a special case, highlighting the procedural distinctions outlined in both sources.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewhc/admin/2022/967#para_189
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = openai
+**case_law_excerpt** = the courts have always been assiduous to ensure the need to identify with some precision the persons to whom the duty is owed
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law emphasizes the importance of precision in identifying those to whom a duty is owed, linking to the burden of proof outlined in the legislation, which requires clear facts to establish a contravention of duty, reinforcing the need for proper identification.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = NO
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2010/390#para_95
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1988/48/section/251
+**model** = openai
+**case_law_excerpt** = the application of a legal standard (which is, itself, not altogether precise), to a combination of features of varying importance
+**legislation_excerpt** = In any proceedings before him under section 246 (reference of matter relating to design right), the comptroller may at any time order the whole proceedings or any question or issue (whether of fact or law) to be referred
+**reasoning** = The case law discusses the complexities of applying legal standards in the context of copyright and design rights, which connect to the provisions under section 251 that allows for references of questions or issues to a higher court, emphasizing the caution required when dealing with discretionary judgments.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/ewca/civ/2010/805#para_26
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1974/47/section/37
+**model** = llama
+**case_law_excerpt** = the Law Society has public functions to perform both for the protection of the public and the clients of the firm or solicitor in respect of whom the intervention was made
+**legislation_excerpt** = The Society may make rules (in this Act referred to as “ indemnity rules ”) concerning indemnity against loss arising from claims in respect of any description of civil liability incurred— (a) by a solicitor or former solicitor in connection with his practice or with any trust of which he is or formerly was a trustee;
+**reasoning** = The case discusses the Law Society's role as a regulator and its public functions, which relates to the Solicitors Act 1974, specifically section 37, concerning professional indemnity rules for solicitors and the protection of the public and clients.
+**IS_Extracton_Correct (YES/No)** = YES
+**IS_Reasoning_Correct (YES/No)** = YES

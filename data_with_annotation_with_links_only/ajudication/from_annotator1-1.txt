@@ -1,0 +1,765 @@
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_12
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60
+**model** = deepseek
+**case_law_excerpt** = This was picked up when the paperwork was forwarded to Human Resources and a pre-employment health questionnaire was sent to the claimant, but he never completed or returned it; rather, as the ET found, he: "7.11 … continued in his role as he had before, working well and without any apparent disadvantage or need for adjustments. …" This, the ET considered, was indicative of the claimant's view that he did not suffer any substantial disadvantage in the workplace.
+**legislation_excerpt** = A person (A) to whom an application for work is made must not ask about the health of the applicant (B)— (a) before offering work to B, or (b) where A is not in a position to offer work to B, before including B in a pool of applicants from whom A intends (when in a position to do so) to select a person to whom to offer work.
+**reasoning** = The case discusses the handling of a pre-employment health questionnaire, which relates to the prohibition in Section 60 against asking about health before offering employment. The ET's consideration of the claimant's actions reflects the application of this section.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_18
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-1
+**model** = deepseek
+**case_law_excerpt** = [The claimant] agreed in evidence that it was reasonable for the respondent to accept this as suggesting he was not suffering any issues relating to PRE at the time.
+**legislation_excerpt** = the reference in section 20(3) to a provision, criterion or practice is a reference to a provision, criterion or practice applied by or on behalf of A;
+**reasoning** = The case law discusses the reasonableness of the respondent's actions in relation to the claimant's medical condition (PRE) and the absence of necessary adjustments. This relates to the legislative requirement to make reasonable adjustments for disabled persons, specifically referencing provisions or practices applied by the employer.
+**IS_Extracton_Correct (YES/No)** = no
+**IS_Reasoning_Correct (YES/No)** = no
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_18
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60
+**model** = openai
+**case_law_excerpt** = He stated that the issues raised did not relate to reading but the job role and devising a plan related to addressing those stressors. He said he was asymptomatic at the time and he did not consider any adjustments were necessary.
+**legislation_excerpt** = A does not contravene a relevant disability provision merely by asking about B's health; but A's conduct in reliance on information given in response may be a contravention of a relevant disability provision.
+**reasoning** = The case law reflects on the adequacy of medical assessments and the approach to disability considerations in a workplace context, linking to legal stipulations about how employers may inquire about health without contravening disability provisions.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_21
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-1-part-1
+**model** = deepseek
+**case_law_excerpt** = We do not accept that PRE is a cause of his stress and depressive symptoms. We find, therefore, that PRE was not the reason for the absence. We find the reason for his absence was depressive symptoms arising from other causes.
+**legislation_excerpt** = An impairment is to be treated as having a substantial adverse effect on the ability of the person concerned to carry out normal day-to-day activities if— (a) measures are being taken to treat or correct it, and (b) but for that, it would be likely to have that effect.
+**reasoning** = The case law discusses the ET's evaluation of whether the claimant's Primary Reading Epilepsy (PRE) constitutes a disability under the Equality Act. The legislation excerpt outlines the criteria for determining a substantial adverse effect of an impairment, which the ET applied to conclude that PRE was not the cause of the absence but rather a factor intensifying depressive symptoms caused by work stress.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_22
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60
+**model** = deepseek
+**case_law_excerpt** = the ET found that PRE was only indirectly raised at this stage, as a criticism of the stress risk assessment process: '7.61 ... neither Occupational Health nor the trade union representative raised PRE as a specific reason for [the claimant's] continued absence. We are unable to reach a finding that the relationship between stress and PRE was stated in the manner that is alleged. We do accept, however, that it was raised and was expressed as a potential symptom secondary to the work-related stress in that being stressed can aggravate the symptoms of PRE.'
+**legislation_excerpt** = A does not contravene a relevant disability provision merely by asking about B's health; but A's conduct in reliance on information given in response may be a contravention of a relevant disability provision.
+**reasoning** = The case discusses the relationship between the claimant's health condition (PRE) and work-related stress, which ties into the legislative provisions about health enquiries and disability provisions. The ET's analysis aligns with the legislative framework that allows health enquiries for specific purposes, such as assessing job functionality.
+**IS_Extracton_Correct (YES/No)** = no
+**IS_Reasoning_Correct (YES/No)** = no
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_28
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60
+**model** = deepseek
+**case_law_excerpt** = The respondent agreed, but explained this did not mean there would never be any future review. The ET considered the claimant's position as follows: "7.87 … He saw no value in any future review of the adjustments. We found that to be an unreasonably inflexible position particularly in circumstances where he was not even prepared to try the adjustments during the initial phased return.
+**legislation_excerpt** = This section does not apply to a question that A asks in so far as asking the question is necessary for the purpose of— (a) establishing whether B will be able to comply with a requirement to undergo an assessment or establishing whether a duty to make reasonable adjustments is or will be imposed on A in relation to B in connection with a requirement to undergo an assessment, (b) establishing whether B will be able to carry out a function that is intrinsic to the work concerned, (c) monitoring diversity in the range of persons applying to A for work, (d) taking action to which section 158 would apply if references in that section to persons who share (or do not share) a protected characteristic were references to disabled persons (or persons who are not disabled) and the reference to the characteristic were a reference to disability, or (e) if A applies in relation to the work a requirement to have a particular disability, establishing whether B has that disability.
+**reasoning** = The case law discusses the respondent's reliance on occupational health reports to assess the claimant's disability and make reasonable adjustments, which aligns with the provisions in section 60 that permit inquiries about health for the purpose of establishing the need for reasonable adjustments.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_34
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60
+**model** = openai
+**case_law_excerpt** = the respondent had informed [the claimant] that it was prepared to put in place measures of the nature that we are now tasked with assessing as failures to make reasonable adjustments, specifically including issues of additional and flexible breaks, uninterrupted paperwork time, focusing on limited areas of business, ongoing support and reviews to identify additional support.
+**legislation_excerpt** = establishing whether a duty to make reasonable adjustments is or will be imposed on A in relation to B
+**reasoning** = The case law discusses the employer's obligations to make reasonable adjustments to support the claimant's return to work, directly relating to the requirement outlined in section 60 regarding the necessity for such adjustments for individuals with health issues.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_35
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/124
+**model** = deepseek
+**case_law_excerpt** = The ET found that this response: '7.114 ... gives an insight into [the claimant's] present intention not to return to work and is consistent with the state of affairs that had existed over the previous five months whereby whenever it appeared that a plan had been agreed for his return to work, rather than test it, a new challenge create[sic] a new obstacle to any return to work.'
+**legislation_excerpt** = order the respondent to pay compensation to the complainant
+**reasoning** = The case law discusses the Employment Tribunal's findings regarding the claimant's intentions and the inevitable end of the employment relationship. This relates to the tribunal's power under section 124(2)(b) to order compensation, reflecting the tribunal's role in assessing remedies based on the facts presented.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** =yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_39
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/16
+**model** = deepseek
+**case_law_excerpt** = We are satisfied that is a legitimate aim. ... 8.4 The something arising relied on in this case is sickness absence. We have found the reason for that absence was his stress and depressive symptoms and not his PRE. Whilst [the claimant's] level of stress can have a bearing on how he experiences the symptoms of PRE, we are clear in our findings of fact that the absence did not arise in consequence of the PRE but because of other factors, including the changes to [the claimant's] work following the reorganisation of the business to a complaints centre.
+**legislation_excerpt** = A person (A) discriminates against a transsexual person (B) if, in relation to an absence of B's that is because of gender reassignment, A treats B less favourably than A would treat B if— (a) B's absence was because of sickness or injury, or (b) B's absence was for some other reason and it is not reasonable for B to be treated less favourably.
+**reasoning** = The case law discusses the ET's findings regarding the legitimacy of the respondent's aim and the reasons for the claimant's absence, which directly relates to the provisions in section 16 about discrimination based on absences related to gender reassignment.
+**IS_Extracton_Correct (YES/No)** = no
+**IS_Reasoning_Correct (YES/No)** = no
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_40
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/16
+**model** = openai
+**case_law_excerpt** = The reason for his dismissal was the employer's view of his conduct in his refusal to engage with the measures put in place to assist in his return to work
+**legislation_excerpt** = A person (A) discriminates against a transsexual person (B) if, in relation to an absence of B's that is because of gender reassignment, A treats B less favourably than A would treat B if— (a) B's absence was because of sickness or injury
+**reasoning** = The case law discusses the contextual factors surrounding the dismissal related to the claimant's conduct and engagement with return-to-work measures, which aligns with the legislative provisions regarding how disabilities or absences should not lead to less favorable treatment.
+**IS_Extracton_Correct (YES/No)** = no
+**IS_Reasoning_Correct (YES/No)** = no
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_41
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/124
+**model** = deepseek
+**case_law_excerpt** = we are satisfied that the treatment was therefore the least discriminatory and therefore a proportionate means of achieving the aim of efficient absence management to ensure consistency and quality of service for the respondent's customers
+**legislation_excerpt** = order the respondent to pay compensation to the complainant
+**reasoning** = The case law discusses the proportionate treatment of the claimant and the least discriminatory means of achieving the respondent's aims, which relates to the tribunal's power under section 124(2)(b) to order compensation as a remedy for discriminatory treatment.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_42
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/16
+**model** = openai
+**case_law_excerpt** = Although this was unfavourable treatment, it was not the fact or duration of the claimant's sickness absence that was the reason for this treatment but the claimant's position when there was a reasonable basis supporting his return to work
+**legislation_excerpt** = A person (A) discriminates against a transsexual person (B) if, in relation to an absence of B's that is because of gender reassignment, A treats B less favourably than A would treat B if— (a) B's absence was because of sickness or injury
+**reasoning** = The case law discusses the criteria under which treatment related to sickness absence is assessed against gender reassignment discrimination, effectively interpreting the parameters set out in section 16 regarding the treatment of individuals based on their absence due to gender reassignment.
+**IS_Extracton_Correct (YES/No)** = no
+**IS_Reasoning_Correct (YES/No)** = no
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_43
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = llama
+**case_law_excerpt** = the ET first considered the question of knowledge, holding: 45.1 The respondent had actual knowledge of the claimant's PRE disability from 18 September 2017, when he raised this in his discussion with management but, given that the claimant had ticked the relevant box when completing the respondent's documentation in September 2016, there was knowledge of disability from late September 2016.
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know— (a) in the case of an applicant or potential applicant, that an interested disabled person is or may be an applicant for the work in question; (b) in any case referred to in Part 2 of this Schedule , that an interested disabled person has a disability and is likely to be placed at the disadvantage referred to in the first, second or third requirement.
+**reasoning** = The case law paragraph discusses the question of when the respondent had knowledge of the claimant's disability, which is a necessary element for the duty to make reasonable adjustments under sections 20 and 21 of the Equality Act, as outlined in the legislation excerpt.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_44
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-1
+**model** = llama
+**case_law_excerpt** = We accept the thrust of Mr Gillie's submission, relying on NCH Scotland v McHigh EATS 0010/06 that the time to consider the duty is when there is a clear return to work date but with some qualification. We take the view that where adjustments are part of the solution to getting an employee back to work, there has to be at least a reasonable plan to implement the necessary reasonable adjustments.
+**legislation_excerpt** = A must comply with the first, second and third requirements.
+**reasoning** = The case discusses the duty to make reasonable adjustments under the Equality Act 2010, specifically when this duty arises in the context of an employee's return to work after sickness absence, relating to the requirements outlined in Schedule 8, Part 1 of the Act.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_45
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = llama
+**case_law_excerpt** = the respondent did not have knowledge of the disadvantage thus identified before 18 October (wrongly recorded as September in the ET reasons) 2017 and could not reasonably have been expected to have such knowledge
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know
+**reasoning** = The tribunal discusses the respondent's knowledge of the claimant's disability and its impact, directly relating to the provisions of Schedule 8, Part 3 of the Equality Act 2010, which addresses the limitations on the duty to make reasonable adjustments due to lack of knowledge of the disability
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_49
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = llama
+**case_law_excerpt** = the ET had found the claimant's sickness absence was due to stress unrelated to PRE
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know
+**reasoning** = The case discusses the respondent's contention that the Employment Tribunal (ET) considered the issue of imputed knowledge regarding the claimant's disability and the duty to make reasonable adjustments, directly relating to the legislation's limitation on the duty due to lack of knowledge of disability as stated in Schedule 8, Part 3.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_49
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60
+**model** = deepseek
+**case_law_excerpt** = the duty to make adjustments was not triggered until a return-to-work date was identified
+**legislation_excerpt** = establishing whether a duty to make reasonable adjustments is or will be imposed on A in relation to B in connection with a requirement to undergo an assessment
+**reasoning** = The case law discusses the timing of when the duty to make reasonable adjustments is triggered, specifically tying it to the identification of a return-to-work date. This directly relates to the legislative provision in section 60(6)(a) which discusses the establishment of whether a duty to make reasonable adjustments is imposed in connection with assessments or requirements.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_5
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60
+**model** = llama
+**case_law_excerpt** = we find that PRE is not the cause of [the claimant's] stress, anxiety and depression and we find the two are unrelated.
+**legislation_excerpt** = For the purposes of this section, whether or not a person has a disability is to be regarded as an aspect of that person's health.
+**reasoning** = The tribunal's discussion about the relationship between the claimant's stress, anxiety, and depression and their disability (PRE) relates to the legislation's focus on health and disability, as outlined in section 60, which considers a person's disability as an aspect of their health.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_58
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = deepseek
+**case_law_excerpt** = The respondent relies on the Code in support of its submission that, for an agent's knowledge to be imputed to an employer, the knowledge in question must be actual, not merely constructive; see paragraph 6.21 of the Code: "If an employer's agent or employee (such as an occupational health adviser, a HR officer or a recruitment agency) knows, in that capacity, of a worker's or applicant's … disability, the employer will not usually be able to claim that they do not know of the disability and that they therefore have no obligation to make a reasonable adjustment. …"
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know—
+**reasoning** = The case law applies the principle from Schedule 8, Part 3 of the Equality Act 2010, specifically the limitation on the duty to make reasonable adjustments when the employer lacks knowledge of the disability. The case discusses the imputation of knowledge from an agent to the employer, aligning with the legislative provision about the employer's knowledge.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_61
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-1-part-2
+**model** = deepseek
+**case_law_excerpt** = decisions are not to be scrutinised closely word by word, line by line, and that for clarity's and brevity's sake [ETs] are not to be expected to set out every factor and every piece of evidence that has weighed with them before reaching their decision; and … what is out of sight in the language of a decision is not to be presumed necessarily to have been out of mind. It is our duty to assume in an [ET's] favour that all the relevant evidence and all the relevant factors were in their minds, whether express reference to that appears in their final decision or not …
+**legislation_excerpt** = In determining whether a person is a disabled person, an adjudicating body must take account of such guidance as it thinks is relevant.
+**reasoning** = The case law excerpt reflects the principle that adjudicating bodies, like Employment Tribunals, are presumed to consider all relevant factors and evidence, even if not explicitly stated in their decisions. This aligns with the legislative requirement that adjudicating bodies must take account of relevant guidance when making determinations.
+**IS_Extracton_Correct (YES/No)** = Yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_64
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = llama
+**case_law_excerpt** = the respondent was under no duty to make reasonable adjustments if it did not know, and could not reasonably have been expected to know, that the claimant (i) had a disability, and (ii) was likely to be placed at the relevant substantial disadvantage
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know— (a) in the case of an applicant or potential applicant, that an interested disabled person is or may be an applicant for the work in question; (b) in any case referred to in Part 2 of this Schedule , that an interested disabled person has a disability and is likely to be placed at the disadvantage referred to in the first, second or third requirement
+**reasoning** = The case law applies the principle that an employer is not obligated to make reasonable adjustments if they lacked knowledge of the employee's disability or could not have reasonably been expected to know, directly relating to section 20 of the Equality Act 2010
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_65
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = deepseek
+**case_law_excerpt** = absent knowledge of substantial disadvantage, the mere fact that the respondent could be taken to know of the claimant's condition would not give rise to any obligation under sections 20 and 21 EqA
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know— (a) in the case of an applicant or potential applicant, that an interested disabled person is or may be an applicant for the work in question; (b) in any case referred to in Part 2 of this Schedule , that an interested disabled person has a disability and is likely to be placed at the disadvantage referred to in the first, second or third requirement.
+**reasoning** = The case law discusses the application of sections 20 and 21 of the Equality Act 2010, which are directly related to the duty to make reasonable adjustments and the conditions under which such a duty applies. The legislation excerpt outlines the specific circumstances under which an employer is not obligated to make reasonable adjustments, aligning with the case law's analysis of knowledge and substantial disadvantage.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes.
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_66
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = llama
+**case_law_excerpt** = the claimant's case that the ET ought to have found that the respondent had imputed knowledge of this disadvantage from an earlier stage, by virtue of his disclosures
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know
+**reasoning** = The case law discusses the question of when an employer can be considered to have knowledge of a disability and its associated disadvantages, which relates to the provisions in Schedule 8, Part 3, regarding the limitations on the duty to make reasonable adjustments due to lack of knowledge.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_67
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/109
+**model** = deepseek
+**case_law_excerpt** = we are prepared to assume for present purposes that that which ought reasonably to have been known by Manpower, acting as the employer's agent, should be imputed to the respondent, as its principal
+**legislation_excerpt** = Anything done by an agent for a principal, with the authority of the principal, must be treated as also done by the principal.
+**reasoning** = The case law discusses the imputation of knowledge from an agent (Manpower) to the principal (employer) under the Equality Act 2010, specifically referencing the legal principle that actions of an agent are treated as done by the principal. This aligns with section 109(2) of the legislation, which addresses the liability of principals for actions taken by their agents.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_67
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = llama
+**case_law_excerpt** = we are prepared to assume for present purposes that that which ought reasonably to have been known by Manpower, acting as the employer's agent, should be imputed to the respondent, as its principal
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know
+**reasoning** = The case law discusses the potential liability of an employer (the respondent) for the actions or knowledge of its agent (Manpower), relating to the duty to make reasonable adjustments under the Equality Act 2010, specifically referencing the lack of knowledge as a limitation on this duty as outlined in Schedule 8, Part 3.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_69
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/130
+**model** = llama
+**case_law_excerpt** = it is apparent that it carefully considered the various different ways in which the respondent might have been expected to know of the claimant's disability, and how this impacted upon him
+**legislation_excerpt** = A qualifying fact for the purposes of subsection (4) or (5) is a fact— (a) which is relevant to the complaint, and (b) without knowledge of which the worker or member could not reasonably have been expected to bring the proceedings.
+**reasoning** = The Employment Appeal Tribunal discusses the concept of what the respondent could have reasonably known about the claimant's disability and its impact, which relates to the definition of a qualifying fact in section 130, specifically the idea that a worker could not reasonably have been expected to bring proceedings without knowledge of such a fact.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_7
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-1
+**model** = openai
+**case_law_excerpt** = the scale of the likely disadvantage in any given situation is therefore low and the adjustments necessary to reasonably address it adequately are likely to be of similar measure
+**legislation_excerpt** = a duty to make reasonable adjustments is imposed on A by this Part of this Act
+**reasoning** = The case law discusses the context of potential disadvantage and reasonable adjustments, directly relating to the duty outlined in the legislative excerpt, which mandates employers to make reasonable adjustments for disabled employees.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_70
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = deepseek
+**case_law_excerpt** = On the ET's permissible findings of fact (and applying paragraph 20, part 3 of schedule 8 EqA ), until 18 October 2017, the respondent was under no duty to make reasonable adjustments when neither it, nor its servants or agents, knew, or could reasonably have been expected to have known, that the claimant was likely to be placed at the relevant substantial disadvantage.
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know—
+**reasoning** = The case law applies paragraph 20 of Schedule 8 of the Equality Act 2010, which outlines the conditions under which an employer is not required to make reasonable adjustments due to lack of knowledge about the disability.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_72
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-1-part-1
+**model** = llama
+**case_law_excerpt** = the ET permissibly concluded that his experience of myoclonic seizures did not give rise to any substantial disadvantage in terms of his ability to carry out his work
+**legislation_excerpt** = References in the relevant provisions to a person's ability to carry out normal day-to-day activities are to be taken as including references to the person's ability to participate fully and effectively in working life on an equal basis with other workers.
+**reasoning** = The case discusses the ET's assessment of the claimant's impairment and its impact on his ability to work, which relates to the definition of disability under the Equality Act 2010, specifically the concept of substantial adverse effect on normal day-to-day activities, including work.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_73
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60
+**model** = deepseek
+**case_law_excerpt** = the ET adopted a detailed and careful appraisal of the evidence relevant to any potential link between PRE and stress and, therefore, to the question whether the claimant's sickness absence was something arising in consequence of his disability. Notwithstanding the ET's understanding of how the claimant was putting his case, it also carried out its own assessment of the evidence and was clear that " PRE is not the cause of [the claimant's] stress … the two are unrelated "
+**legislation_excerpt** = A does not contravene a relevant disability provision merely by asking about B's health; but A's conduct in reliance on information given in response may be a contravention of a relevant disability provision.
+**reasoning** = The case law discusses the ET's careful assessment of evidence regarding the link between PRE, stress, and the claimant's disability, which relates to the legislative provisions about inquiries into disability and health. The ET's detailed appraisal aligns with the section's focus on assessing health information and its implications for disability-related decisions.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_75
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/137
+**model** = deepseek
+**case_law_excerpt** = In any event, as the respondent has observed, the ET went on to find that the reason for the unfavourable treatment in this case (the claimant's dismissal) was in fact the claimant's conduct rather than his absence from work (ET, paragraph 8.8).
+**legislation_excerpt** = A finding in relevant proceedings in respect of an act which has become final is to be treated as conclusive in proceedings under this Act.
+**reasoning** = The case law paragraph discusses the ET's finding regarding the reason for the claimant's dismissal, which is treated as conclusive under section 137 of the legislation. The ET's finding is final and binding in subsequent proceedings.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_76
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/124
+**model** = deepseek
+**case_law_excerpt** = we are satisfied that the ET clearly had in mind the relevant balancing exercise it was bound to undertake in assessing proportionality
+**legislation_excerpt** = The tribunal may— (a) make a declaration as to the rights of the complainant and the respondent in relation to the matters to which the proceedings relate; (b) order the respondent to pay compensation to the complainant; (c) make an appropriate recommendation.
+**reasoning** = The case law discusses the tribunal's balancing exercise in assessing proportionality, which directly relates to the tribunal's powers under section 124 to make declarations, order compensation, or make recommendations. The tribunal's consideration of proportionality aligns with its statutory remedies under this section.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2022/192#para_8
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-8-part-3
+**model** = deepseek
+**case_law_excerpt** = The ET considered its view was further supported by the following: (i) the claimant had taken up a position with the respondent with the support of his partner, who had experience of that workplace (having previously worked there himself) and knew of the claimant's condition; (ii) the claimant had not only coped in that environment but, without seeking any adjustments, had done well over a number of years, leading to an offer of permanent employment which he had accepted; (iii) when raising work-related health issues in 2017, the claimant had not identified PRE as a relevant cause.
+**legislation_excerpt** = A is not subject to a duty to make reasonable adjustments if A does not know, and could not reasonably be expected to know—
+**reasoning** = The case law discusses the claimant's condition and the absence of adjustments, which relates to the employer's knowledge. The legislation excuses the employer from making adjustments if they lack knowledge of the disability, which is applied here as the employer wasn't aware of the claimant's condition.
+**IS_Extracton_Correct (YES/No)** = 
+no
+**IS_Reasoning_Correct (YES/No)** = 
+no
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_18
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/134
+**model** = openai
+**case_law_excerpt** = the claimant had taken 1187 days of absence... the conclusions in the report were that the level of absence was unsustainable
+**legislation_excerpt** = If the court or tribunal finds that there has been a breach referred to in subsection (1), it may— (a) make a declaration as to the rights of the complainant and the respondent in relation to the matters to which the proceedings relate; (b) order an award by way of arrears of benefits or damages or of any other amount in relation to the complainant.
+**reasoning** = The case discusses the claimant's extensive absence and the implications on her employment, suggesting that if found to be unjust, remedies could include damages or adjustments as provided under section 134 regarding complaints of pension scheme breaches.
+**IS_Extracton_Correct (YES/No)** = 
+no
+**IS_Reasoning_Correct (YES/No)** = 
+no
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_21
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/123
+**model** = deepseek
+**case_law_excerpt** = The tribunal recorded that the parties and the panel itself were agreed that, taking account of the impact of ACAS early conciliation, any complaint relating to conduct occurring on or before 2 February 2019 would be outside what it called the primary limitation period. It went on to find unanimously that three particular complaints of failure to comply with the duty of reasonable adjustment were out of time and that it was not just and equitable to extend time in relation to them.
+**legislation_excerpt** = Subject to section 140B proceedings on a complaint within section 120 may not be brought after the end of— (a) the period of 3 months starting with the date of the act to which the complaint relates, or (b) such other period as the employment tribunal thinks just and equitable.
+**reasoning** = The case law applies section 123 of the legislation by discussing the primary limitation period for bringing complaints and the tribunal's discretion to extend time under the 'just and equitable' provision.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_22
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-1-part-1
+**model** = deepseek
+**case_law_excerpt** = The claimant was off work for a long period, having had a mastectomy, and then two shorter periods because of pain and swelling at the site of the operation. Between 20 November to 30 November the claimant had severe pain with no obvious cause and the doctors advised the respondent that this could reoccur.
+**legislation_excerpt** = Cancer, HIV infection and multiple sclerosis are each a disability.
+**reasoning** = The case discusses the claimant's absence due to cancer treatment and related pain, which directly relates to the legislative definition of disability under Schedule 1, Part 1, where cancer is explicitly recognized as a disability.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_22
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-1-part-1
+**model** = openai
+**case_law_excerpt** = The issue is whether it arose from the claimant's disability. Should the respondent have disregarded previous periods of sickness absence when applying the sickness absence policy – in particular in relation to sickness absence linked to the claimant's disability?
+**legislation_excerpt** = References in the relevant provisions to a person's ability to carry out normal day-to-day activities are to be taken as including references to the person's ability to participate fully and effectively in working life on an equal basis with other workers.
+**reasoning** = The case discusses how the claimant's disability affected her absence and treatment under the respondent's sickness policy, applying the definition of disability and its implications for normal day-to-day activities as outlined in the legislation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_32
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = However, the specific complaint that was upheld was about the particular occasion on which she arrived early and could not get in to the section until someone else arrived. The tribunal did not make any finding about when the respondent first knew about that incident, nor did it set out any conclusion as to what further step it considered the respondent reasonably ought to have taken further to mitigate the claimant's disadvantage in that particular regard.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the tribunal's application of the burden of proof in determining whether the respondent contravened the Act, specifically in relation to a particular incident. This aligns with section 136, which outlines the burden of proof requirements in such cases.
+**IS_Extracton_Correct (YES/No)** = Yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_32
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/123
+**model** = openai
+**case_law_excerpt** = the tribunal did not make any finding about when the respondent first knew about that incident, nor did it set out any conclusion as to what further step it considered the respondent reasonably ought to have taken further to mitigate the claimant's disadvantage in that particular regard.
+**legislation_excerpt** = failure to do something is to be treated as occurring when the person in question decided on it
+**reasoning** = The case law discusses the tribunal's duty to assess the respondent's knowledge and the steps they should have taken, directly relating to the concept of when a failure to act is recognized under section 123 regarding time limits for complaints.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_34
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-1-part-1
+**model** = deepseek
+**case_law_excerpt** = it would have been a reasonable adjustment in this case to discount the cancer-related absences when it came to the substantive decision which, ultimately, was to dismiss.
+**legislation_excerpt** = Cancer, HIV infection and multiple sclerosis are each a disability.
+**reasoning** = The caselaw applies the legislative definition of disability to determine that cancer-related absences should be considered, and thus not disregarding them could be seen as failing to make a reasonable adjustment, which is a form of discrimination.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_35
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/124
+**model** = openai
+**case_law_excerpt** = the issues of time, substantial disadvantage, knowledge and what, if any, further steps should reasonably have been taken in relation to each of these matters, were essential issues, as they were all essential components of a successful cause of action
+**legislation_excerpt** = This section applies if an employment tribunal finds that there has been a contravention of a provision referred to in section 120(1)
+**reasoning** = The case law emphasizes the need for the tribunal to adequately address essential components of a claim, which ties directly to section 124's provisions on the tribunal's findings and the subsequent orders it may issue regarding complaints.
+**IS_Extracton_Correct (YES/No)** = 
+no
+**IS_Reasoning_Correct (YES/No)** = 
+no
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_35
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = llama
+**case_law_excerpt** = the issues of time, substantial disadvantage, knowledge and what, if any, further steps should reasonably have been taken in relation to each of these matters, were essential issues
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The paragraph discusses the essential components of a successful cause of action in a discrimination case, which includes factors like time, substantial disadvantage, and knowledge, relating to the burden of proof under section 136, where the court must hold that a contravention occurred if certain facts are present without another explanation.
+Yes
+**IS_Extracton_Correct (YES/No)** = 
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_36
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = Reading the reasons as a whole and as generously as possible, there are fatal gaps in relation to some or all of these essential elements in relation to all three complaints. The reasons are, we regretfully conclude, fundamentally deficient in relation to all three. The reader knows from the judgment that these three complaints succeeded, but does not know from the reasons all of the basic and essential elements as to why. Grounds 1, 2, 3 and 4 therefore succeed.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the insufficiency of the tribunal's reasons for their decision, which relates to the burden of proof under section 136. The legislation requires the court to find a contravention if there is no other explanation, which connects to the case's focus on the tribunal's failure to adequately address essential elements.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_38
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/123
+**model** = llama
+**case_law_excerpt** = Nevertheless, as the additional complaint about what the claimant was told at the prior stage 4 meeting was maintained, as an additional and discrete complaint, the majority did need to address the time point in relation to it and whether, for example, it considered that this formed a continuing act taken together with the subsequent dismissal.
+**legislation_excerpt** = conduct extending over a period is to be treated as done at the end of the period;
+**reasoning** = The case discusses the timing of complaints and whether certain actions should be considered as part of a continuing act, directly relating to section 123(3)(a) which addresses how conduct extending over a period is treated for the purposes of time limits.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_40
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-17-part-4
+**model** = llama
+**case_law_excerpt** = it was always accepted by the respondent that the dismissal itself was because of the claimant's overall absence record, which included significant disability-related absence, and, therefore, that the dismissal was, in the requisite sense, because of something arising in consequence of disability
+**legislation_excerpt** = because of a person's disability, contravened Chapter 1 of Part 6
+**reasoning** = The case discusses a challenge related to a decision on a section 15 complaint, which involves considering whether a dismissal was because of something arising in consequence of disability, reflecting principles found in Part 6, Chapter 1, regarding discrimination due to disability.
+**IS_Extracton_Correct (YES/No)** = 
+no
+**IS_Reasoning_Correct (YES/No)** = 
+no
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_42
+**sectionlink** = https://www.legislation.gov.uk/ukpga/id/ukpga/2010/15/section/schedule-1-part-1
+**model** = openai
+**case_law_excerpt** = the respondent should in this case have discounted the disability-related absences on account of the claimant's cancer and related aftermath
+**legislation_excerpt** = Cancer, HIV infection and multiple sclerosis are each a disability.
+**reasoning** = The case law discusses the applicability of the claimant's disability due to cancer and how it should be considered in the dismissal decision, directly referencing the statutory definition of cancer as a disability under the relevant legislation.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_43
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/23
+**model** = deepseek
+**case_law_excerpt** = Once again, nevertheless, there were two separate section 15 complaints, one relating to what the claimant was told at the stage 4 meeting and the other relating to the later decision to dismiss. Insofar as the majority upheld the former complaint, it appears to us that they did need to engage with the respondent's argument that the reason why the claimant was told that the absences would not be discounted was not because of the disability-related absences themselves, but because the policies required all absences to be counted, long or short as the case may be, and disability-related or not. There was, once again, a gap in the tribunal's reasoning in relation to an essential component of the cause of action.
+**legislation_excerpt** = On a comparison of cases for the purposes of section 13, 14, 19 or 19A there must be no material difference between the circumstances relating to each case.
+**reasoning** = The case law discusses the failure of the tribunal to properly address the respondent's argument regarding policies on absences, which is directly related to comparing cases under section 23. The tribunal's gap in reasoning aligns with the legislative requirement of ensuring no material differences in circumstances when comparing cases for discrimination claims.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_46
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/15
+**model** = deepseek
+**case_law_excerpt** = The tribunal was not excused by the fact that the claimant was a disabled person, from engaging with the justification issue, by reference to what had been accepted were legitimate aims as such.
+**legislation_excerpt** = A person (A) discriminates against a disabled person (B) if— (a) A treats B unfavourably because of something arising in consequence of B's disability, and (b) A cannot show that the treatment is a proportionate means of achieving a legitimate aim.
+**reasoning** = The case law discusses the tribunal's obligation to assess whether the respondent's actions were proportionate and aimed at legitimate goals, even when the claimant is disabled. This directly applies the legislative requirement under section 15(1)(b) that the treatment must be a proportionate means of achieving a legitimate aim.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_5
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/21
+**model** = openai
+**case_law_excerpt** = The tribunal unanimously upheld one complaint of failure to comply with the duty of reasonable adjustment relating to an occasion when the claimant was unable to access her work station through a set of doors in a new building called the Catalyst Building.
+**legislation_excerpt** = A failure to comply with the first, second or third requirement is a failure to comply with a duty to make reasonable adjustments.
+**reasoning** = The case law directly references a failure to comply with the duty of reasonable adjustment, which is explicitly defined in the legislation section as grounds for discrimination against a disabled person.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_50
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = We therefore agree with the respondent that the statement by the majority at paragraph [126] that they did not accept the evidence of the respondent's witnesses on the impact of the claimant's absences, as such, was at odds with these earlier findings by the tribunal as a whole. Certainly and, in any event, we consider that such a serious and striking conclusion at the very least required some further explanation from the majority as to the basis for it and some supporting reasoning going beyond the mere statement of the conclusion itself, that they did not accept the evidence and considered it had been created to suit the circumstances.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the tribunal's handling of evidence and the need for clear reasoning when rejecting evidence, which relates to the burden of proof principles under section 136. The paragraph highlights the importance of providing explanations for conclusions, aligning with the legislative requirement to consider facts and explanations in determining contraventions.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_51
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/130
+**model** = deepseek
+**case_law_excerpt** = Though it could have been more clearly explained, it looks to us like the reference to 22 months was arrived at by the majority, by reckoning that as the period from the last pre-cancer absence in January 2017 to the first non-cancer related absence in November 2018, on the basis that the majority considered that cancer-related absences should have been discounted.
+**legislation_excerpt** = An incapacity case in proceedings relating to an equality clause with respect to terms of work other than terms of service in the armed forces is a case where the worker had an incapacity during the period of 6 months beginning with the later of— (a) the relevant day, or (b) the day on which the worker discovered (or could with reasonable diligence have discovered) the qualifying fact deliberately concealed from the worker by the responsible person.
+**reasoning** = The case law discusses the discounting of cancer-related absences, which aligns with the legislative definition of an incapacity case under section 130, where the worker's incapacity (due to cancer) is considered over a specific period.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_52
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/16
+**model** = deepseek
+**case_law_excerpt** = the claimant's extensive history of absence, the reasonable adjustments which had been made, the impact that her absence had had on the two departments she worked in, and the undisputed medical evidence that she could be subject to further pain and recurring absence.
+**legislation_excerpt** = A person (A) discriminates against a transsexual person (B) if, in relation to an absence of B's that is because of gender reassignment, A treats B less favourably than A would treat B if— (a) B's absence was because of sickness or injury, or (b) B's absence was for some other reason and it is not reasonable for B to be treated less favourably.
+**reasoning** = The case law discusses the application of section 16 in evaluating whether the claimant’s absence due to gender reassignment was treated less favorably than absences for sickness or other reasons, directly relating to the proportionality of dismissal in the context of gender reassignment discrimination.
+**IS_Extracton_Correct (YES/No)** = 
+No
+**IS_Reasoning_Correct (YES/No)** = 
+No
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_54
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = We bear in mind that a perversity challenge always faces a high hurdle. In this case, the justification issue was a question for the appreciation of the tribunal, applying, of course, the well-established guidance in the authorities as to the questions that the tribunal needs to ask and answer when applying a justification test in the context of a discrimination claim of this type. The justification hurdle is itself a significant hurdle for an employer to overcome.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the high threshold for challenging decisions based on perversity and the application of justification tests in discrimination claims. This relates to the legislative provision in section 136, which outlines the burden of proof and the requirement for the court to hold that a contravention occurred unless the respondent provides an explanation.
+**IS_Extracton_Correct (YES/No)** = Yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_55
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = We did not have before us all of the totality of the witness and documentary evidence which the tribunal will have seen and received during the course of the four-day hearing. Nor could we say that there was no room for argument at all as to what approach, in the context of the justification defence, the tribunal should have taken, to how the respondent regarded the long period of post-operative treatment and recuperation absence for the cancer, as opposed to the evidence about the risk of further cancer-related absences in the future.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the tribunal's consideration of evidence and the justification defence, which relates to the burden of proof under section 136. The legislation excerpt establishes that the court must hold a contravention occurred unless the person provides an explanation.
+**IS_Extracton_Correct (YES/No)** = yes**IS_Reasoning_Correct (YES/No)** =
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_56
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = Certainly it is fair to say that the respondent mounted a strong case on the justification defence; and it was not suggested by Mr Maini-Thompson, nor could we say, that it was not open to the judge to find, as she did, that the justification defence was made out. But what we have to consider is whether we can go so far as to say that it would, on the facts found, have been perverse for the tribunal to reach any other conclusion.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the justification defence and the tribunal's evaluation of whether the defence was made out, which relates to the burden of proof under section 136. The legislation establishes that if certain facts suggest a contravention, the court must hold that it occurred unless proven otherwise.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/162#para_59
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = We agree with Ms Barry. In this case we have expressed our misgivings about the conclusion in the reasons by the two lay members that they did not accept the credibility of the evidence of the respondent's witnesses, as to the impacts of the claimant's absences, and that they considered that this evidence had been created to suit the circumstances. That was an extremely strong and significant statement to have made, and we think that it would be difficult for either or both of those two members to put that view out of their minds and completely to one side, if asked to reach fresh judgments upon these complaints. It is also important that, whatever the outcome next time around, both parties are able to have confidence in it.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the credibility of evidence and the potential bias of tribunal members, which relates to the burden of proof as outlined in section 136. The legislation provides that if certain facts suggest a contravention, the court must hold that it occurred unless proven otherwise. This principle is applied in assessing the credibility of evidence and ensuring impartiality in tribunal proceedings.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_10
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/26
+**model** = openai
+**case_law_excerpt** = It was, therefore, incumbent upon the tribunal to consider whether there had been unwanted conduct related to race and whether that conduct had had the purpose or the effect of either violating the appellant's dignity or creating an intimidating, hostile, degrading, humiliating or offensive environment for the appellant.
+**legislation_excerpt** = A person (A) harasses another (B) if— (a) A engages in unwanted conduct related to a relevant protected characteristic, and (b) the conduct has the purpose or effect of— (i) violating B's dignity, or (ii) creating an intimidating, hostile, degrading, humiliating or offensive environment for B.
+**reasoning** = The tribunal is applying the definition of harassment as set out in section 26, specifically regarding unwanted conduct related to race and its effect on the appellant's dignity and environment.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_14
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/26
+**model** = deepseek
+**case_law_excerpt** = talking about and illustrating by a hand gesture a barbaric historic method of execution perpetrated upon members of a religion or race could provoke strong negative feelings of revulsion or distress in the listener if of that same religion or race as the events in question are thereby brought vividly to mind and are therefore capable of amounting to unwanted conduct
+**legislation_excerpt** = A person (A) harasses another (B) if— (a) A engages in unwanted conduct related to a relevant protected characteristic, and (b) the conduct has the purpose or effect of— (i) violating B's dignity, or (ii) creating an intimidating, hostile, degrading, humiliating or offensive environment for B.
+**reasoning** = The case law discusses an instance of harassment where a gesture related to race or religion provokes distress, directly applying the legal definition from section 26 which outlines harassment based on protected characteristics and the effect on the victim.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_15
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/26
+**model** = llama
+**case_law_excerpt** = the tribunal proceeded in paragraph 33 to find that that conduct did not have the purpose of either violating the claimant's dignity or of creating an intimidating hostile degrading humiliating or offensive environment for him
+**legislation_excerpt** = the conduct has the purpose or effect of— (i) violating B's dignity, or (ii) creating an intimidating, hostile, degrading, humiliating or offensive environment for B
+**reasoning** = The tribunal's decision on the purpose of the conduct is directly related to the elements of harassment as defined in section 26(1) of the Equality Act 2010, specifically whether the conduct had the purpose of violating the claimant's dignity or creating a hostile environment.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_15
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = Having at least assumed (if not actually held) that there was "unwanted conduct" within s. 26(1) EA10, the tribunal proceeded in paragraph 33 to find that that conduct did not have the purpose of either violating the claimant's dignity or of creating an intimidating hostile degrading humiliating or offensive environment for him. That was a finding of fact based in part on Mr Beedie's oral evidence and – as Ms Belgrove fairly accepted - could only be attacked on grounds of perversity (which is not one of the two permitted grounds of appeal).
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case discusses the tribunal's application of the burden of proof under section 136, where the tribunal's finding of fact regarding the purpose of the conduct is based on the evidence presented and the absence of other explanations.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_16
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/26
+**model** = deepseek
+**case_law_excerpt** = the tribunal's finding that it would not be reasonable for Mr Beedie's conduct to have had the requisite effect was also based squarely on the case-law to which it had directed itself
+**legislation_excerpt** = (4) In deciding whether conduct has the effect referred to in subsection (1)(b), each of the following must be taken into account— (a) the perception of B; (b) the other circumstances of the case; (c) whether it is reasonable for the conduct to have that effect.
+**reasoning** = The case law applies the factors outlined in Section 26(4) to determine the reasonableness of the effect of the conduct, ensuring that the legislative criteria for harassment are appropriately considered. [Contains 2 phrases total]
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_16
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/26
+**model** = llama
+**case_law_excerpt** = the tribunal's finding that Mr Beedie's conduct did not have the effect of violating the claimant's dignity or of creating an intimidating hostile degrading humiliating or offensive environment for him
+**legislation_excerpt** = the conduct has the purpose or effect of— (i) violating B's dignity, or (ii) creating an intimidating, hostile, degrading, humiliating or offensive environment for B
+**reasoning** = The tribunal applies section 26 of the Equality Act 2010 to determine whether Mr Beedie's conduct constitutes harassment, focusing on the effect of the conduct on the claimant's dignity and environment [Contains 2 phrases total]
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_17
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = An assertion may of course be evidence (although the appellant's assertions were of limited weight as evidence given the negative view which the tribunal had reached of his credibility).
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the weight and credibility of assertions as evidence, which ties into the burden of proof framework under section 136. The legislation sets out how evidence is used to determine contraventions, and the case law applies this by evaluating the appellant's assertions.
+**IS_Extracton_Correct (YES/No)** = Yes
+**IS_Reasoning_Correct (YES/No)** =yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_20
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = Further, this is, in my judgment, a tenuous and insufficient basis on which to criticise the tribunal's reasoning on "purpose" and "effect" which, like its reasoning in relation to allegation 1, contained a number of different elements. On "purpose", the tribunal reasoned that Ms Green " did not know that this was a derogatory remark" and that " [she] did not direct or target her remark towards the claimant"
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred
+**reasoning** = The case law discusses the tribunal's reasoning regarding 'purpose' and 'effect' in the context of a potential contravention of the Equality Act. This relates to section 136(2), which establishes the burden of proof in such cases, requiring the court to hold that a contravention occurred unless the respondent provides an explanation
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_21
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = On 'effect', the tribunal cited the lack of external evidence that the appellant had in fact been offended or otherwise discomfited by Ms Green's remark and then stated that '[t]there is no evidence on which we could conclude that the claimant felt or perceived his or her dignity to have been violated or that an offensive environment had been created'.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the tribunal's application of the burden of proof under section 136, specifically focusing on the lack of evidence to support the appellant's claim of being offended, which aligns with the legislative requirement to hold a contravention based on available facts.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_6
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/137
+**model** = openai
+**case_law_excerpt** = However, we conclude that talking about and illustrating by a hand gesture a barbaric historic method of execution perpetrated upon members of a religion or race could provoke strong negative feelings of revulsion or distress in the listener if of that same religion or race as the events in question are thereby brought vividly to mind and are therefore capable of amounting to unwanted conduct
+**legislation_excerpt** = A finding in relevant proceedings in respect of an act which has become final is to be treated as conclusive in proceedings under this Act.
+**reasoning** = The Tribunal assesses whether Mr. Beedie's actions amounted to unwanted conduct related to race or religion, considering prior findings and establishing whether the claimant proved the alleged harassment, relating back to section 137 which governs previous findings in discrimination cases.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_8
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/60A
+**model** = deepseek
+**case_law_excerpt** = the use of such derogatory phrase in the presence of a person of colour is capable of amounting to unwanted conduct but it did not have the purpose of either violating the claimant's dignity or of creating an intimidating hostile degrading humiliating or offensive environment for him.
+**legislation_excerpt** = a statement is discriminatory if— (a) it is directed to the public or a section of the public, and (b) were it made in connection with a relevant decision, the making of it would amount to treatment of a person that is direct discrimination.
+**reasoning** = The Tribunal applies the legal standard for determining whether a statement constitutes harassment related to race by referencing the criteria under section 60A, specifically focusing on whether the statement had the purpose or effect of violating dignity or creating a hostile environment.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2023/70#para_8
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/29
+**model** = llama
+**case_law_excerpt** = The allegation against Holly Green is of harassment related to race or religion. We do not consider that any connection between the claimant's religion and the conduct in question has been made out. As far as harassment related to race is concerned we conclude the use of such derogatory phrase in the presence of a person of colour is capable of amounting to unwanted conduct but it did not have the purpose of either violating the claimant's dignity or of creating an intimidating hostile degrading humiliating or offensive environment for him.
+**legislation_excerpt** = A service-provider must not, in relation to the provision of the service, harass— (a) a person requiring the service, or (b) a person to whom the service-provider provides the service.
+**reasoning** = The Tribunal's findings on the allegations of harassment against Holly Green relate to the provisions of section 29 regarding harassment in the context of service provision, specifically addressing whether the use of a derogatory phrase constitutes harassment related to race.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_102
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/122
+**model** = deepseek
+**case_law_excerpt** = From Ms Stokes' notes of the claimant's cross-examination of Ms McConnell, the following passages are relevant. I begin with the question where the claimant alerted the Tribunal to the fact that he wished to ask Ms McConnell questions about the incidents of alleged victimisation that had been struck out by EJ Russell as being out of time.
+**legislation_excerpt** = If it appears to a court in which proceedings are pending that a claim or counter-claim relating to a non-discrimination rule could more conveniently be determined by an employment tribunal, the court may strike out the claim or counter-claim.
+**reasoning** = The case discusses the striking out of claims as out of time, which directly relates to the court's authority under section 122(1) to strike out claims that could be more conveniently handled by an employment tribunal. [Contains 2 phrases total]
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_111
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = It is also notable that one gains the distinct impression from the judgment that the Tribunal viewed this part of the claimant's cross-examination as something that it needed only to tolerate rather than being a section of cross-examination in respect of which it needed to draw careful evidential conclusions.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law excerpt discusses the Tribunal's approach to evaluating evidence and drawing conclusions, which relates to the burden of proof under section 136. The legislation requires the court to hold a contravention occurred if facts suggest it without other explanations, which aligns with the Tribunal's duty to carefully consider evidence.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_119
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/129
+**model** = deepseek
+**case_law_excerpt** = There is nothing perverse about the Tribunal's conclusion about the content of the respondent's policy documents. It is merely stating a fact when it says that the consultation document is silent about what happens where, although other people did express an interest in the role, they then drop out so that by the time of the interview there is no other competition.
+**legislation_excerpt** = The tribunal shall announce its findings and explain to both parties (if present)— (a) what powers the tribunal may exercise on the application, and (b) in what circumstances it will exercise them.
+**reasoning** = The caselaw discusses the Tribunal's approach to evaluating evidence and arguments, which aligns with the procedural duties outlined in Section 129, specifically the requirement to explain their findings and the circumstances under which they exercise their powers.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_120
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/116
+**model** = deepseek
+**case_law_excerpt** = As to the claimant's argument that the Tribunal's conclusion at [101] was perverse because it should have found, on the basis of Ms McConnell's evidence at [31] of her witness statement, that he was the only one who had applied for the role, I agree with the respondent that this was not the ground of appeal on which HHJ Taylor gave the claimant permission to proceed. The claimant also accepted that it was not a point he had spotted when the case was before the Tribunal and I note that it does not feature in his written closing submissions. As such, it is not arguable that the Tribunal erred in law in finding that the claimant's situation did not fall within the terms of the policy.
+**legislation_excerpt** = A claim is also within this section if it must be made in accordance with appeal arrangements within the meaning of Part 4 of that Schedule.
+**reasoning** = The caselaw discusses the procedural requirements for appeals and the scope of permissible grounds, aligning with the legislative provision in section 116 regarding the proper channels and arrangements for bringing claims.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_122
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/129
+**model** = llama
+**case_law_excerpt** = will need to be considered and, if accepted, will be taken into account by the Tribunal both in relation to the constructive unfair dismissal and victimisation claims
+**legislation_excerpt** = it appears to the tribunal that it is likely that on determining the complaint to which the application relates the tribunal will find— (a) that the reason (or if more than one the principal reason) for the dismissal is one of those specified in—
+**reasoning** = The paragraph discusses the consideration of evidence in relation to claims of constructive unfair dismissal and victimisation, which is part of the tribunal's process in determining complaints as outlined in section 129, particularly in subsection (1) where the tribunal assesses the likelihood of finding specific reasons for dismissal.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_125
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/70
+**model** = deepseek
+**case_law_excerpt** = he submits that the respondent's action in unilaterally demoting him to Band 5 at a lower level of remuneration constituted a repudiatory breach of contract. He submitted that the respondent had breached the express written terms of his contract.
+**legislation_excerpt** = An employee may present a complaint to an employment tribunal that his or her employer has failed to pay the whole or any part of remuneration to which the employee is entitled under section 64 or 68.
+**reasoning** = The case law discusses a unilateral demotion resulting in lower remuneration, which aligns with the legislative provision allowing employees to bring complaints for unpaid or underpaid remuneration.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_126
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/104
+**model** = deepseek
+**case_law_excerpt** = he submitted that (now he was aware of it) the Hogg v Dover point 'shouted out' from his particulars of claim and that his case was on 'all fours' with the Jackson v The University Hospital of North Midlands NHS Trust [2023] EAT 102 case (to which I had also referred the parties) as being another case of a claimant being unilaterally moved from NHS Band 6 to NHS Band 5, where the respondent conceded this amounted to constructive dismissal.
+**legislation_excerpt** = An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee— (a) brought proceedings against the employer to enforce a right of his which is a relevant statutory right, or (b) alleged that the employer had infringed a right of his which is a relevant statutory right.
+**reasoning** = The case law discusses the application of constructive dismissal principles, aligning with the legislative provision that addresses unfair dismissal due to the assertion of statutory rights.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_132
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/122
+**model** = llama
+**case_law_excerpt** = the Tribunal had made findings to the effect that, even if the claimant had been dismissed, the dismissal was fair in all the circumstances so that any other errors were not material
+**legislation_excerpt** = Where the tribunal finds that the complainant has unreasonably refused an offer by the employer which (if accepted) would have the effect of reinstating the complainant in his employment in all respects as if he had not been dismissed, the tribunal shall reduce or further reduce the amount of the basic award to such extent as it considers just and equitable having regard to that finding.
+**reasoning** = The case discusses the concept of a fair dismissal and the impact of the claimant's actions on the basic award, which is addressed in section 122 of the legislation regarding reductions to the basic award based on the circumstances of the dismissal and the claimant's conduct.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_133
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/149
+**model** = deepseek
+**case_law_excerpt** = Further, if the Tribunal had found the claimant was dismissed, then it would have concluded, for the reasons it had given, that the claimant was redundant and had been fairly dismissed.
+**legislation_excerpt** = the employee is not entitled to a redundancy payment in pursuance of his notice of intention to claim except in accordance with a decision of an employment tribunal.
+**reasoning** = The case law discusses the Tribunal's conclusion regarding redundancy and fair dismissal, which directly relates to the legislative provisions about redundancy payments and the role of the employment tribunal in such decisions.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_134
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/63J
+**model** = deepseek
+**case_law_excerpt** = Thirdly, as to the Tribunal's conclusion on affirmation, the respondent submitted that the Tribunal had properly directed itself by reference to Cockram v Air Products plc [2014] ICR 1065 , EAT and it had been open to it to conclude the claimant's offer to work more than his six week notice period constituted an affirmation of the contract.
+**legislation_excerpt** = If an employment tribunal finds a complaint under section 63I well-founded it must make a declaration to that effect and may— (a) make an order for reconsideration of the section 63D application; (b) make an award of compensation to be paid by the employer to the employee.
+**reasoning** = The case discusses the Tribunal's decision-making process regarding affirmation, referencing legal precedent. The legislation provides the Tribunal's authority to make declarations and orders, which is directly applied here.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_136
+**sectionlink** = https://www.legislation.gov.uk/ukpga/2010/15/section/136
+**model** = deepseek
+**case_law_excerpt** = The respondent is right that the burden was on the claimant to show that the respondent's conduct amounted to a fundamental breach of contract.
+**legislation_excerpt** = If there are facts from which the court could decide, in the absence of any other explanation, that a person (A) contravened the provision concerned, the court must hold that the contravention occurred.
+**reasoning** = The case law discusses the burden of proof in a constructive unfair dismissal claim, aligning with the legislation's section on burden of proof which states that the court must hold a contravention occurred unless the respondent can show otherwise.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_137
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/49
+**model** = llama
+**case_law_excerpt** = the claimant's second point, about whether the Tribunal erred in failing to find that his demotion to Band 5 constituted a repudiatory breach of contract
+**legislation_excerpt** = the tribunal— (a) shall make a declaration to that effect, and (b) may make an award of compensation to be paid by the employer to the complainant in respect of the act or failure to act to which the complaint relates.
+**reasoning** = The case law discusses a claimant's argument regarding a repudiatory breach of contract due to demotion and pay reduction, which relates to the employment tribunal's power under section 49 to make declarations and award compensation for acts or failures to act that infringe on a complainant's rights.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_140
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/104
+**model** = deepseek
+**case_law_excerpt** = Indeed, this is the sort of case where a Tribunal ought to be alive to the possibility that the facts before it amount to an actual dismissal in law, even if the claimant litigant in person has (understandably) not recognised that in law it is possible for the actions of an employer to amount in substance to an actual dismissal even if the employer has not chosen to label it as such, i.e. on the Hogg v Dover College principle
+**legislation_excerpt** = An employee who is dismissed shall be regarded for the purposes of this Part as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is that the employee—
+**reasoning** = The case law discusses the application of the legal principle that an employer's actions can constitute a dismissal in law, even if not explicitly labeled as such, which directly relates to the legislative provision in section 104 regarding unfair dismissal for asserting statutory rights.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_141
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/98
+**model** = deepseek
+**case_law_excerpt** = Of course, even if this is a Hogg v Dover College-type actual dismissal case, it is still necessary for the Tribunal to consider, as it did, whether there was a potentially fair reason for dismissal and whether dismissal was fair in all the circumstances.
+**legislation_excerpt** = In determining for the purposes of this Part whether the dismissal of an employee is fair or unfair, it is for the employer to show— (a) the reason (or, if more than one, the principal reason) for the dismissal, and (b) that it is either a reason falling within subsection (2) or some other substantial reason of a kind such as to justify the dismissal of an employee holding the position which the employee held.
+**reasoning** = The case law discusses the necessity of the Tribunal determining the fairness of dismissal by considering the reason for dismissal and whether it was fair in all circumstances, which directly aligns with the legislative requirements outlined in section 98.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_143
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/150
+**model** = deepseek
+**case_law_excerpt** = There are in my judgment two clear errors of law in these paragraphs: first, while the claimant's willingness to continue working for the respondent in his band 6 role may undermine his case that the respondent had breached the implied term of trust and confidence in the various detriments leading up to his demotion, it could not possibly constitute affirmation of the respondent's breach of contract in demoting him to band 5. The claimant's response to being reassigned to Band 5 was not affirmation – he resigned.
+**legislation_excerpt** = An employee is not entitled to a redundancy payment by reason of being laid off or kept on short-time unless he terminates his contract of employment by giving such period of notice as is required for the purposes of this section before the end of the relevant period.
+**reasoning** = The case law discusses the implications of an employee's resignation and notice period in the context of contractual affirmation, while the legislation outlines the notice period requirements for redundancy payments. Both address termination procedures and notice periods, providing a clear link.
+**IS_Extracton_Correct (YES/No)** = yes
+**IS_Reasoning_Correct (YES/No)** = yes
+==============================================================================
+**paralink** = https://caselaw.nationalarchives.gov.uk/eat/2024/17#para_145
+**sectionlink** = https://www.legislation.gov.uk/ukpga/1996/18/section/129
+**model** = llama
+**case_law_excerpt** = The Tribunal erred in law by failing to direct itself by reference to Shamoon in relation to the test for detriment, or to apply that test correctly by deciding whether it was reasonable for the claimant to consider that he was disadvantaged by the matters on which he relied.
+**legislation_excerpt** = it appears to the tribunal that it is likely that on determining the complaint to which the application relates the tribunal will find—
+**reasoning** = The Tribunal's errors in law are identified, including failure to apply the correct test for detriment as per Shamoon and not following proper procedures, which relates to the tribunal's role in assessing evidence and making determinations as outlined in section 129.
+**IS_Extracton_Correct (YES/No)** = Yes
+**IS_Reasoning_Correct (YES/No)** = yes
